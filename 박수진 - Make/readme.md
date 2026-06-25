@@ -130,21 +130,21 @@ Notion Database에 다음 정보를 저장한다.
 
 * 워크플로우 구조 스크린샷
 
-!\[워크플로우](images/Rss\_Notion\_1.png)
+![워크플로우](images/Rss_Notion_1.png)
 
 * Notion 저장 결과 스크린샷
 
-!\[Notion](images/AI\_news\_11.png)
+![Notion](images/AI_news_11.png)
 
-!\[Notion](images/AI\_news\_2.png)
+![Notion](images/AI_news_2.png)
 
 * 성공 로그 스크린샷
 
-!\[성공 로그](images/Success.png)
+![성공 로그](images/Success.png)
 
 * 실패 로그 스크린샷
 
-!\[실패 로그](images/FAIL\_1.png)
+![실패 로그](images/FAIL_1.png)
 
 \---
 
