@@ -184,7 +184,7 @@ Notion Database에 다음 정보를 저장하였다.
 
 * Notion 저장 결과 스크린샷
 
-![Notion](images/AI_news_1.png)
+![Notion](images/AI_news_11.png)
 
 
 ![Notion](images/AI_news_2.png)
