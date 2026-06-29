@@ -54,45 +54,77 @@ def write_report(path, report_title, news_list):
         f.write(f"# {report_title}\n\n")
         for item in news_list:
             f.write(f"## {item['title']}\n\n")
+            
+            translated_title, eng_sum, kor_sum, tone_tag = parse_summary_blocks(item.get('summary', ''))
+            
+            if translated_title:
+                f.write(f"**번역 제목**: {translated_title}\n\n")
+                
             if item.get("published"):
-                f.write(f"**Published at**: {item['published']}\n")
-            f.write(f"**원문 링크**: [보러가기]({item['link']})\n\n")
+                f.write(f"**날짜**: {item['published']}\n")
+            f.write(f"**링크**: [원문 기사 보러가기]({item['link']})\n\n")
+            
             if item.get("image"):
                 f.write(f"![썸네일 이미지]({item['image']})\n\n")
-            summary_lines, tone_tag = extract_korean_summary(item.get('summary', ''))
-            f.write("### AI 3줄 요약\n\n")
-            if summary_lines:
-                for line in summary_lines:
+            
+            f.write("### 요약 (Original)\n")
+            if eng_sum:
+                for line in eng_sum:
                     f.write(f"- {line}\n")
             else:
-                f.write(f"{item.get('summary', '')}\n")
-            if tone_tag:
-                f.write(f"\n**논조 태그**: {tone_tag}\n")
+                f.write("요약 정보 없음\n")
             f.write("\n")
+                
+            f.write("### 번역 (Translated)\n")
+            if kor_sum:
+                for line in kor_sum:
+                    f.write(f"- {line}\n")
+            else:
+                # 파싱 실패 시 원본 전체 출력
+                f.write(f"{item.get('summary', '')}\n")
+            f.write("\n")
+                
+            if tone_tag:
+                f.write(f"**태그**: {tone_tag}\n\n")
+            
             f.write("---\n\n")
 
 
-def extract_korean_summary(summary_text):
+def parse_summary_blocks(summary_text):
     lines = [line.strip() for line in summary_text.splitlines() if line.strip()]
+    
+    translated_title = ""
+    english_summary = []
     korean_summary = []
     tone_tag = ""
-    in_korean_section = False
-
+    
+    current_section = None
+    
     for line in lines:
-        if line == "**[국문 3줄 요약 (Translated)]**":
-            in_korean_section = True
+        if line.startswith("**[기사 제목 번역]**"):
+            current_section = "translated_title"
             continue
-
-        if in_korean_section:
-            if line.startswith("(논조 태그:"):
-                tone_tag = line.replace("(논조 태그:", "").replace(")", "").strip()
-                break
-            if line.startswith("**[") and line != "**[국문 3줄 요약 (Translated)]**":
-                break
+        elif line.startswith("**[영문 3줄 요약"):
+            current_section = "english_summary"
+            continue
+        elif line.startswith("**[국문 3줄 요약"):
+            current_section = "korean_summary"
+            continue
+            
+        if line.startswith("(논조 태그:") or ("#" in line and "논조" in line) or line.startswith("논조 태그:"):
+            tone_tag = line.replace("(논조 태그:", "").replace(")", "").replace("논조 태그:", "").strip()
+            continue
+            
+        if current_section == "translated_title":
+            translated_title += line + " "
+        elif current_section == "english_summary":
+            if line.startswith("-"):
+                english_summary.append(line.lstrip("-").strip())
+        elif current_section == "korean_summary":
             if line.startswith("-"):
                 korean_summary.append(line.lstrip("-").strip())
-
-    return korean_summary[:3], tone_tag
+                
+    return translated_title.strip(), english_summary, korean_summary, tone_tag
 
 
 def update_index(index_path, page_title, link_path, intro_text):
