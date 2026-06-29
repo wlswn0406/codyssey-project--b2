@@ -7,3 +7,8 @@ Style requirements:
 - No text or letters inside the image.
 - Focus on concepts like Artificial Intelligence, machine learning, data, and future technology.
 - Highly detailed, 16:9 aspect ratio, suitable for a web article cover.
+
+Additional rules:
+- Keep the composition simple and centered so the subject is clear in a thumbnail.
+- Avoid logos, watermarks, UI mockups, and any readable text.
+- Prefer a strong visual metaphor that matches the article title keyword.
