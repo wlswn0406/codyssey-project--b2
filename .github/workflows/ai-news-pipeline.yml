@@ -41,7 +41,7 @@ jobs:
         with:
           python-version: '3.10'
       - name: Install Dependencies
-        run: pip install google-generativeai requests beautifulsoup4
+        run: pip install google-genai requests beautifulsoup4
       - name: Download Logs
         uses: actions/download-artifact@v4
         continue-on-error: true
@@ -70,7 +70,7 @@ jobs:
         with:
           python-version: '3.10'
       - name: Install Dependencies
-        run: pip install google-generativeai
+        run: pip install google-genai
       - name: Download Logs
         uses: actions/download-artifact@v4
         continue-on-error: true
@@ -114,4 +114,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add logs/ || true
           git add *-news.md || true
+          git add index.md || true
           git diff --quiet && git diff --staged --quiet || (git commit -m "docs: AI 뉴스 리포트 자동 업데이트" && git push)
