@@ -1,13 +1,12 @@
 import os
 import datetime
-import google.generativeai as genai
+import google.genai as genai
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 if GEMINI_API_KEY:
-    genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    client = genai.Client(api_key=GEMINI_API_KEY)
 else:
-    model = None
+    client = None
 
 LOGS_DIR = "logs"
 
@@ -97,7 +96,7 @@ def generate_thumbnail_url(title):
     return f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=800&height=450&nologo=true"
 
 def generate_summary(title, link, body_text):
-    if not model:
+    if not client:
         raise ValueError("Gemini API 키 미설정")
     prompt_path = os.path.join(os.path.dirname(__file__), "prompts", "summary_prompt.txt")
     try:
@@ -114,7 +113,10 @@ def generate_summary(title, link, body_text):
     last_error = None
     for attempt in range(2):
         try:
-            response = model.generate_content(prompt)
+            response = client.models.generate_content(
+                model='gemini-2.0-flash',
+                contents=prompt
+            )
             return response.text.strip()
         except Exception as e:
             last_error = e
