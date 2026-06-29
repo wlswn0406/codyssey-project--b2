@@ -19,7 +19,7 @@
 
 | 이름 | 자동화 도구 | 상세 문서 |
 |---|---|---|
-| 박수진 | Make | [박수진/README.md](./박수진%20-%20Make/README.md) |
+| 박수진 | Make | [박수진/README.md](./박수진%20-%20Make/readme.md) |
 | 왕희준 | Zapier | [왕희준/README.md](./왕희준/README.md) |
 | 유진주 | GitHub Actions | [유진주/README.md](./유진주-github/README.md) |
 | 임리나 | n8n | [임리나/README.md](./임리나/README.md) |
@@ -106,7 +106,7 @@
 
 ## 최종 결과물
 
-각 팀원은 아래 3가지를 본인 폴더에 제출
+각 팀원은 아래 3가지를 본인 폴더에 제출 (상세 산출물 및 증빙 자료는 각 하위 폴더 참조)
 
 1. **자동화 워크플로우**
    - 워크플로우 구조를 보여주는 스크린샷
