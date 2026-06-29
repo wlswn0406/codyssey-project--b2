@@ -6,6 +6,15 @@ import datetime
 
 LOGS_DIR = "logs"
 
+def init_log(log_type):
+    if not os.path.exists(LOGS_DIR):
+        os.makedirs(LOGS_DIR)
+    today = datetime.datetime.now().strftime("%Y%m%d")
+    filename = os.path.join(LOGS_DIR, f"{today}-{log_type}.txt")
+    with open(filename, 'a', encoding='utf-8') as f:
+        now_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        f.write(f"[{log_type} 파이프라인 실행] {now_str}\n---\n")
+
 def load_history_from_logs():
     history = set()
     if not os.path.exists(LOGS_DIR):
@@ -40,6 +49,7 @@ def save_to_log(log_type, title, link, published, summary_text):
 
 def main():
     print("--- 1. 수집 파이프라인 시작 ---")
+    init_log("수집")
     urls = [
         "https://news.google.com/rss/search?q=AI+OR+Artificial+Intelligence&hl=ko&gl=KR&ceid=KR:ko",
         "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -49,12 +59,17 @@ def main():
     keywords = ["보안", "취약점", "규제", "정책", "모델", "업데이트", "security", "policy", "regulation", "model", "release"]
     
     for url in urls:
+        print(f"\n[URL 파싱 중] {url}")
         try:
             import requests
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
             response = requests.get(url, headers=headers, timeout=15)
             response.raise_for_status()
             feed = feedparser.parse(response.content)
+            
+            print(f" -> 파싱 성공: 총 {len(feed.entries)}개의 기사 발견")
+            
+            matched_count = 0
             for entry in feed.entries:
                 title = entry.title
                 link = entry.link
@@ -74,12 +89,14 @@ def main():
                 
                 if any(k.lower() in title.lower() for k in keywords):
                     if link not in history_links:
+                        matched_count += 1
                         history_links.add(link)
                         save_to_log("수집", title, link, published, summary_text)
+            print(f" -> 날짜/키워드 필터링 통과 기사: {matched_count}개")
         except Exception as e:
-            print(f"RSS 파싱 에러 ({url}): {e}")
+            print(f" -> RSS 파싱 에러: {e}")
             save_error_to_log("수집", url, str(e))
-    print("--- 1. 수집 파이프라인 종료 ---")
+    print("\n--- 1. 수집 파이프라인 종료 ---")
 
 if __name__ == "__main__":
     main()
