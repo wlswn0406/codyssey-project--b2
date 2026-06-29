@@ -3,6 +3,7 @@ import datetime
 import google.genai as genai
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 if GEMINI_API_KEY:
     client = genai.Client(api_key=GEMINI_API_KEY)
 else:
@@ -114,7 +115,7 @@ def generate_summary(title, link, body_text):
     for attempt in range(2):
         try:
             response = client.models.generate_content(
-                model='gemini-1.5-flash',
+                model=GEMINI_MODEL,
                 contents=prompt
             )
             return response.text.strip()
