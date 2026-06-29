@@ -1,5 +1,7 @@
 Create a modern, minimalistic, and professional thumbnail image for a tech news blog post. 
 The main theme of the news is about: "{keyword}".
+Here is a short summary of the article for more context to guide the visual metaphor:
+"{summary}"
 
 Style requirements:
 - Flat vector illustration or sleek 3D isometric style.
