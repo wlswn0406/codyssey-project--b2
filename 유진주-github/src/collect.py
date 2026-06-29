@@ -50,7 +50,11 @@ def main():
     
     for url in urls:
         try:
-            feed = feedparser.parse(url)
+            import requests
+            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+            feed = feedparser.parse(response.content)
             for entry in feed.entries:
                 title = entry.title
                 link = entry.link
@@ -62,7 +66,7 @@ def main():
                 is_recent = True
                 if hasattr(entry, 'published_parsed') and entry.published_parsed:
                     published_dt = datetime.datetime.fromtimestamp(time.mktime(entry.published_parsed))
-                    if (datetime.datetime.now() - published_dt).total_seconds() > 24 * 3600:
+                    if (datetime.datetime.now() - published_dt).total_seconds() > 7 * 24 * 3600:
                         is_recent = False
                         
                 if not is_recent:
