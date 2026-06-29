@@ -16,3 +16,5 @@ Over 100 companies and government agencies are reportedly authorized to use Myth
 [SUMMARY]
 OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.
 ---
+[수집 파이프라인 실행] 2026-06-29 17:20:58
+---
