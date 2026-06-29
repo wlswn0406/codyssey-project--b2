@@ -110,7 +110,7 @@ def evaluate_importance(title, link, summary):
     for attempt in range(2):
         try:
             response = client.models.generate_content(
-                model='gemini-2.0-flash',
+                model='gemini-1.5-flash',
                 contents=prompt
             )
             result = response.text.strip()
