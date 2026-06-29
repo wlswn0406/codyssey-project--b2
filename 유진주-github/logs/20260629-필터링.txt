@@ -4,3 +4,204 @@
 ---
 [평가 오류] https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/ - API 호출 실패: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
 ---
+[평가 오류] https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/ - API 호출 실패: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+---
+[TITLE] Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies
+[LINK] https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/
+[PUBLISHED] Sat, 27 Jun 2026 01:01:37 +0000
+[BODY]
+Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies | TechCrunch
+–:–:–:–
+The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast.
+Register now.
+Founder Summit
+ticket savings of up to $190 end June 26. Join 1,000+ founders and VCs for all-day bootcamp.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Crunchboard
+Contact Us
+In Brief
+Posted:
+6:01 PM PDT · June 26, 2026
+Image Credits:
+Getty Images
+Julie Bort
+Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies
+Two weeks into the ban that caused
+Anthropic to pull its powerful cybersecurity-oriented models
+, Mythos 5 and Fable 5, from the market, the Trump administration is softening its stance.
+It is now allowing Anthropic to make Mythos 5 available to more than 100 specific U.S. government agencies and companies, including allowing the non-American employees at those organizations to access to the model, both
+Semafor
+and
+Reuters
+report. This list also includes Anthropic’s own non-American employees, who were included in the original ban that forbade non-Americans from accessing the models.
+“I have determined that appropriate safeguards are in place to permit certain trusted partners to access the Claude Mythos 5 Model,” Commerce Secretary Howard Lutnick wrote to Anthropic’s chief compute officer Tom Brown on Friday, according to the missive seen by Semafor.
+Apparently, the administration did not address the
+release of Fable 5 in this directive
+. This is a version of Mythos 5 that was widely released a couple of days before the ban because it was said to have more protections. Both models were pulled after those guardrails were allegedly bypassed easily by security researchers. Anthropic did not immediately respond to our request for comment.
+Anthropic on Friday publicly acknowledged the progress
+in a post on X
+, writing: “Since June 12, we’ve been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a set of US organizations that operate and defend critical infrastructure. We’re restoring access for these organizations quickly, and we’re continuing to work with the government to expand access to Mythos 5 and make Fable 5 available for general use again.”
+Topics
+AI
+,
+ai labs
+,
+Anthropic
+,
+TC
+
+---
+[TITLE] The White House is asking OpenAI to slow roll the release of its new model over safety concerns
+[LINK] https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
+[PUBLISHED] Thu, 25 Jun 2026 23:34:39 +0000
+[BODY]
+The White House is asking OpenAI to slow roll the release of its new model over safety concerns | TechCrunch
+–:–:–:–
+The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast.
+Register now.
+Founder Summit
+ticket savings of up to $190 end June 26. Join 1,000+ founders and VCs for all-day bootcamp.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Crunchboard
+Contact Us
+Image Credits:
+Benjamin Fanjoy / Getty Images
+AI
+The White House is asking OpenAI to slow roll the release of its new model over safety concerns
+Lucas Ropek
+4:34 PM PDT · June 25, 2026
+OpenAI’s release of its newest model, GPT 5.6, reportedly won’t be like its previous releases. Instead of distributing it to the public, the company plans to share it only with a select group of close partners because the Trump administration told it to,
+The Information reports
+.
+At a meeting this week, CEO Sam Altman reportedly told staff that the government would be “approving access customer by customer” during a preview period. Altman reportedly added that if the limited release goes well, OpenAI hopes to follow with a general, broader release a “couple of weeks later.”
+In other words, the Trump administration appears to be pressuring OpenAI to do what Anthropic is already voluntarily doing: keeping its most powerful AI models under wraps.
+According to The Information, OpenAI’s new model is not only being reviewed by the administration, but its staffers also “worked closely” with the government on the upcoming release. The agencies that reportedly asked for a limited release were the Oﬃce of the National Cyber Director and the Oﬃce of Science and Technology Policy.
+The Trump administration — which originally positioned itself as taking a “hands-off” approach to AI — has in recent months pushed for federal oversight of new models. Earlier this month, Trump
+signed an executive order
+directing certain AI companies to voluntarily submit new models to the government for testing and evaluation before releasing them publicly.
+Earlier this year, Anthropic sparked no small amount of controversy when it announced that its new frontier cyber model, Claude Mythos, would
+only be released
+to a small coterie of partners through a program called Project Glasswing. Anthropic argued that its model was simply too powerful and could, in the wrong hands, cause more harm than good. Observers have since debated whether Anth
+---
