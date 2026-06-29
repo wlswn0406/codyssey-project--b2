@@ -142,6 +142,11 @@ Notion Database에 다음 정보를 저장한다.
 
 ![Notion](images/AI_news_11.png)
 
+* 썸네일 이미지 스크린샷
+  
+![Notion](images/AI_pic.png)
+
+
 * 성공 로그 스크린샷
 
 ![성공 로그](images/Success.png)
