@@ -83,7 +83,7 @@ def save_to_log(log_type, title, link, published, summary, image_url):
         f.write(f"[SUMMARY]\n{summary}\n")
         f.write("---\n")
 
-def generate_thumbnail_url(title):
+def generate_thumbnail_url(title, summary):
     import urllib.parse
     prompt_path = os.path.join(os.path.dirname(__file__), "prompts", "image_prompt.txt")
     try:
@@ -92,7 +92,7 @@ def generate_thumbnail_url(title):
     except FileNotFoundError:
         return ""
     
-    prompt = prompt_template.format(keyword=title)
+    prompt = prompt_template.format(keyword=title, summary=summary)
     encoded_prompt = urllib.parse.quote(prompt)
     return f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=800&height=450&nologo=true"
 
@@ -135,7 +135,7 @@ def main():
         print(f"\n요약 중: {news['title']}")
         try:
             summary = generate_summary(news['title'], news['link'], news.get('body', ''))
-            image_url = generate_thumbnail_url(news['title'])
+            image_url = generate_thumbnail_url(news['title'], summary)
             save_to_log("요약", news['title'], news['link'], news['published'], summary, image_url)
         except Exception as e:
             print(f" -> [요약 API 오류] {e}")
