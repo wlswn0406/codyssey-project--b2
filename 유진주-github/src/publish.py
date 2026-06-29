@@ -39,6 +39,22 @@ def load_summarized_news():
                 summary_lines.append(stripped)
     return news_list
 
+def update_index_md(today, filename):
+    index_file = "index.md"
+    if not os.path.exists(index_file):
+        with open(index_file, 'w', encoding='utf-8') as f:
+            f.write("# 📰 AI 뉴스 데일리 리포트\n\n매일 자동 업데이트되는 전 세계 AI 핵심 뉴스 모음입니다.\n\n### 리포트 목록\n\n")
+            
+    with open(index_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+        
+    if filename not in content:
+        lines = content.split("### 리포트 목록\n\n")
+        if len(lines) == 2:
+            new_content = lines[0] + "### 리포트 목록\n\n" + f"- [{today} AI 뉴스 리포트 보러가기](./{filename})\n" + lines[1]
+            with open(index_file, 'w', encoding='utf-8') as f:
+                f.write(new_content)
+
 def save_to_markdown(news_list):
     today = datetime.datetime.now().strftime("%Y-%m-%d")
     filename = f"{today}-news.md"
@@ -58,6 +74,7 @@ def save_to_markdown(news_list):
         with open(filename, mode, encoding='utf-8') as f:
             if mode == 'w':
                 f.write(f"# {today} AI 핵심 뉴스 리포트\n\n")
+                update_index_md(today, filename)
                 
             for item in news_list:
                 if item['link'] in existing_links:
