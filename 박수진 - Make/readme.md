@@ -5,7 +5,7 @@
 |주제|AI|
 |키워드|AI|
 |자동화 도구|Make|
-|AI 모델|OpenAI GPT-5.4-mini(요약), GPT Image(썸네일 생성)|
+|AI 모델|OpenAI GPT-5.4-mini(요약), GPT-image-1.5 (썸네일 생성),GPT-5-nano (감성분석)|
 |뉴스 소스|Google News RSS (한국)|
 |데이터베이스|Notion Database, Google Sheets|
 
