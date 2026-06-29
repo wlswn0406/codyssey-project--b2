@@ -55,13 +55,44 @@ def write_report(path, report_title, news_list):
         for item in news_list:
             f.write(f"## {item['title']}\n\n")
             if item.get("published"):
-                f.write(f"**발행일시**: {item['published']}\n")
+                f.write(f"**Published at**: {item['published']}\n")
             f.write(f"**원문 링크**: [보러가기]({item['link']})\n\n")
             if item.get("image"):
                 f.write(f"![썸네일 이미지]({item['image']})\n\n")
-            f.write("### AI 3줄 요약 및 논조\n\n")
-            f.write(f"{item.get('summary', '')}\n\n")
+            summary_lines, tone_tag = extract_korean_summary(item.get('summary', ''))
+            f.write("### AI 3줄 요약\n\n")
+            if summary_lines:
+                for line in summary_lines:
+                    f.write(f"- {line}\n")
+            else:
+                f.write(f"{item.get('summary', '')}\n")
+            if tone_tag:
+                f.write(f"\n**논조 태그**: {tone_tag}\n")
+            f.write("\n")
             f.write("---\n\n")
+
+
+def extract_korean_summary(summary_text):
+    lines = [line.strip() for line in summary_text.splitlines() if line.strip()]
+    korean_summary = []
+    tone_tag = ""
+    in_korean_section = False
+
+    for line in lines:
+        if line == "**[국문 3줄 요약 (Translated)]**":
+            in_korean_section = True
+            continue
+
+        if in_korean_section:
+            if line.startswith("(논조 태그:"):
+                tone_tag = line.replace("(논조 태그:", "").replace(")", "").strip()
+                break
+            if line.startswith("**[") and line != "**[국문 3줄 요약 (Translated)]**":
+                break
+            if line.startswith("-"):
+                korean_summary.append(line.lstrip("-").strip())
+
+    return korean_summary[:3], tone_tag
 
 
 def update_index(index_path, page_title, link_path, intro_text):
@@ -106,19 +137,10 @@ def save_to_markdown(news_list):
         print("발행할 새 기사가 없습니다.")
         return
 
-    root_report_path = report_name
     folder_report_path = os.path.join(folder_name, report_name)
     folder_index_path = os.path.join(folder_name, "index.md")
 
-    write_report(root_report_path, f"{today_text} AI 핵심 뉴스 리포트", unique_news)
     write_report(folder_report_path, f"{today_text} AI 발행 확인용 리포트", unique_news)
-
-    update_index(
-        "index.md",
-        "AI 뉴스 데일리 리포트",
-        root_report_path,
-        "매일 자동 업데이트되는 전 세계 AI 핵심 뉴스 모음입니다."
-    )
     update_index(
         folder_index_path,
         f"{today_text} AI 뉴스 발행 확인용 페이지",
@@ -126,7 +148,7 @@ def save_to_markdown(news_list):
         "이 폴더는 GitHub Pages로 push하기 전에 발행 상태를 확인하기 위한 중간 산출물입니다."
     )
 
-    print(f"{root_report_path} 및 {folder_report_path} 생성 완료 ({len(unique_news)}건)")
+    print(f"{folder_report_path} 생성 완료 ({len(unique_news)}건)")
 
 
 def main():
