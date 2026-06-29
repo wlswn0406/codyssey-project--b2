@@ -1,0 +1,9 @@
+Create a modern, minimalistic, and professional thumbnail image for a tech news blog post. 
+The main theme of the news is about: "{keyword}".
+
+Style requirements:
+- Flat vector illustration or sleek 3D isometric style.
+- Cyberpunk or futuristic neon color palette (dark blue, purple, cyan) mixed with clean white backgrounds.
+- No text or letters inside the image.
+- Focus on concepts like Artificial Intelligence, machine learning, data, and future technology.
+- Highly detailed, 16:9 aspect ratio, suitable for a web article cover.
