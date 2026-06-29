@@ -3,8 +3,44 @@ import feedparser
 import glob
 import time
 import datetime
+import re
 
 LOGS_DIR = "logs"
+AI_KEYWORDS = [
+    "ai",
+    "artificial intelligence",
+    "machine learning",
+    "ml",
+    "llm",
+    "large language model",
+    "generative ai",
+    "openai",
+    "anthropic",
+    "gemini",
+    "chatgpt",
+    "model",
+    "models",
+    "보안",
+    "취약점",
+    "규제",
+    "정책",
+    "모델",
+    "업데이트",
+]
+
+
+def is_test_mode():
+    return os.environ.get("COLLECT_TEST_MODE", "false").lower() in {"1", "true", "yes", "y"}
+
+
+def get_test_limit():
+    if not is_test_mode():
+        return 0
+    raw_limit = os.environ.get("COLLECT_LIMIT", "2")
+    try:
+        return max(1, int(raw_limit))
+    except ValueError:
+        return 2
 
 def init_log(log_type):
     if not os.path.exists(LOGS_DIR):
@@ -47,6 +83,11 @@ def save_to_log(log_type, title, link, published, summary_text):
         f.write(f"[SUMMARY]\n{summary_text}\n")
         f.write("---\n")
 
+
+def matches_keywords(title, summary_text, keywords):
+    text = f"{title} {summary_text}".lower()
+    return any(keyword.lower() in text for keyword in keywords)
+
 def main():
     print("--- 1. 수집 파이프라인 시작 ---")
     init_log("수집")
@@ -56,7 +97,9 @@ def main():
         "https://venturebeat.com/category/ai/feed/"
     ]
     history_links = load_history_from_logs()
-    keywords = ["보안", "취약점", "규제", "정책", "모델", "업데이트", "security", "policy", "regulation", "model", "release"]
+    keywords = AI_KEYWORDS
+    collected_total = 0
+    test_limit = get_test_limit()
     
     for url in urls:
         print(f"\n[URL 파싱 중] {url}")
@@ -71,11 +114,13 @@ def main():
             
             matched_count = 0
             for entry in feed.entries:
+                if test_limit and collected_total >= test_limit:
+                    break
+
                 title = entry.title
                 link = entry.link
                 published = getattr(entry, "published", datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
                 summary_text = getattr(entry, "summary", getattr(entry, "description", ""))
-                import re
                 summary_text = re.sub(r'<[^>]+>', '', summary_text).strip()
                 
                 is_recent = True
@@ -87,15 +132,24 @@ def main():
                 if not is_recent:
                     continue
                 
-                if any(k.lower() in title.lower() for k in keywords):
+                if matches_keywords(title, summary_text, keywords):
                     if link not in history_links:
                         matched_count += 1
+                        collected_total += 1
                         history_links.add(link)
                         save_to_log("수집", title, link, published, summary_text)
             print(f" -> 날짜/키워드 필터링 통과 기사: {matched_count}개")
         except Exception as e:
             print(f" -> RSS 파싱 에러: {e}")
             save_error_to_log("수집", url, str(e))
+
+    if collected_total == 0:
+        with open(os.path.join(LOGS_DIR, f"{datetime.datetime.now().strftime('%Y%m%d')}-수집.txt"), 'a', encoding='utf-8') as f:
+            f.write("[STATUS] NO_ARTICLES\n")
+            f.write("---\n")
+        print("\n -> 조건에 맞는 기사가 0건이라 후속 단계는 중단됩니다.")
+    else:
+        print(f"\n -> 총 수집 기사 수: {collected_total}개")
     print("\n--- 1. 수집 파이프라인 종료 ---")
 
 if __name__ == "__main__":
