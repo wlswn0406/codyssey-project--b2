@@ -1,0 +1,20 @@
+[수집 파이프라인 실행] 2026-06-29 17:51:50
+---
+[TITLE] Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on
+[LINK] https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/
+[PUBLISHED] Sat, 27 Jun 2026 12:00:00 +0000
+[SUMMARY]
+New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.
+---
+[TITLE] Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies
+[LINK] https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/
+[PUBLISHED] Sat, 27 Jun 2026 01:01:37 +0000
+[SUMMARY]
+Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.
+---
+[TITLE] The White House is asking OpenAI to slow roll the release of its new model over safety concerns
+[LINK] https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/
+[PUBLISHED] Thu, 25 Jun 2026 23:34:39 +0000
+[SUMMARY]
+OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.
+---
