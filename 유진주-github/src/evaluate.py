@@ -3,14 +3,13 @@ import glob
 import datetime
 import requests
 from bs4 import BeautifulSoup
-import google.generativeai as genai
+import google.genai as genai
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 if GEMINI_API_KEY:
-    genai.configure(api_key=GEMINI_API_KEY)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    client = genai.Client(api_key=GEMINI_API_KEY)
 else:
-    model = None
+    client = None
 
 LOGS_DIR = "logs"
 
@@ -97,7 +96,7 @@ def save_to_log(log_type, title, link, published, body):
         f.write("---\n")
 
 def evaluate_importance(title, link, summary):
-    if not model:
+    if not client:
         raise ValueError("Gemini API 키 미설정")
     prompt_path = os.path.join(os.path.dirname(__file__), "prompts", "filter_prompt.txt")
     try:
@@ -110,7 +109,10 @@ def evaluate_importance(title, link, summary):
     last_error = None
     for attempt in range(2):
         try:
-            response = model.generate_content(prompt)
+            response = client.models.generate_content(
+                model='gemini-2.0-flash',
+                contents=prompt
+            )
             result = response.text.strip()
             if result == "SKIP":
                 return 0
