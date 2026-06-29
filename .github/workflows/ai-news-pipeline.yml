@@ -2,54 +2,116 @@ name: AI News Pipeline
 
 on:
   schedule:
-    # KST 오전 8시는 UTC 기준 전날 오후 11시(23시)
     - cron: '0 23 * * *'
   workflow_dispatch:
 
+env:
+  TZ: Asia/Seoul
+
 jobs:
-  run-pipeline:
+  collect:
+    name: 1. 기사 수집 (Collect)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install Dependencies
+        run: pip install feedparser requests beautifulsoup4
+      - name: Run Collect
+        working-directory: ./유진주-github
+        run: python src/collect.py
+      - name: Upload Logs
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-collect
+          path: ./유진주-github/logs/
+          if-no-files-found: ignore
+
+  evaluate:
+    name: 2. 중요도 평가 (Evaluate)
+    needs: collect
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install Dependencies
+        run: pip install google-generativeai requests beautifulsoup4
+      - name: Download Logs
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: logs-collect
+          path: ./유진주-github/logs/
+      - name: Run Evaluate
+        working-directory: ./유진주-github
+        run: python src/evaluate.py
+      - name: Upload Logs
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-evaluate
+          path: ./유진주-github/logs/
+          if-no-files-found: ignore
+
+  summarize:
+    name: 3. 요약 생성 (Summarize)
+    needs: evaluate
+    runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install Dependencies
+        run: pip install google-generativeai
+      - name: Download Logs
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: logs-evaluate
+          path: ./유진주-github/logs/
+      - name: Run Summarize
+        working-directory: ./유진주-github
+        run: python src/summarize.py
+      - name: Upload Logs
+        uses: actions/upload-artifact@v4
+        with:
+          name: logs-summarize
+          path: ./유진주-github/logs/
+          if-no-files-found: ignore
+
+  publish:
+    name: 4. 문서 발행 (Publish)
+    needs: summarize
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      TZ: Asia/Seoul
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-    
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-        
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-          
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install feedparser google-generativeai requests beautifulsoup4
-          
-      - name: Run Collection Pipeline
-        working-directory: ./유진주-github
-        run: python src/collect.py
-        
-      - name: Run Evaluation Pipeline
-        working-directory: ./유진주-github
-        run: python src/evaluate.py
-        
-      - name: Run Summarize Pipeline
-        working-directory: ./유진주-github
-        run: python src/summarize.py
-        
-      - name: Run Publish Pipeline
+      - name: Download Logs
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: logs-summarize
+          path: ./유진주-github/logs/
+      - name: Run Publish
         working-directory: ./유진주-github
         run: python src/publish.py
-        
-      - name: Commit and Push Changes
+      - name: Commit and Push
         working-directory: ./유진주-github
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add logs/ || true
           git add *-news.md || true
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: AI 뉴스 리포트 및 수집 로그 자동 업데이트" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: AI 뉴스 리포트 자동 업데이트" && git push)
