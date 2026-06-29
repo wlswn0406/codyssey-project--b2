@@ -138,9 +138,9 @@ Notion Database에 다음 정보를 저장한다.
 
 * Notion 저장 결과 스크린샷
 
-![Notion](images/AI_news_11.png)
+![Notion](images/AI_news_3.png)
 
-![Notion](images/AI_news_2.png)
+![Notion](images/AI_news_11.png)
 
 * 성공 로그 스크린샷
 
