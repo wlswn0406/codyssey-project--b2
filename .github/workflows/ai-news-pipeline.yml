@@ -149,5 +149,5 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add logs/ index.md *-news.md *-발행/*.md || true
+          git add logs/ *-발행/*.md || true
           git diff --quiet && git diff --staged --quiet || (git commit -m "docs: AI 뉴스 리포트 자동 업데이트" && git push)
