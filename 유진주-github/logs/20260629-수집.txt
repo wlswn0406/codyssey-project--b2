@@ -120,3 +120,11 @@ Un-0 is an image-generation system tool that shows for the first time how the co
 [SUMMARY]
 Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.
 ---
+[수집 파이프라인 실행] 2026-06-29 18:51:42
+---
+[TITLE] "특허 AI로 세계를 사로잡았다"... 워트인텔리전스, 아시아 최대 스타트업 페어 'Global Innovator Prize' 수상 - 특허뉴스
+[LINK] https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTMXAtaFNLU3VVcXhxdDZIWmxwY1AzMlgzaFc3X0JEUmI4TW1qT0ExdTBtSFJmRWZSb3ZYN29INzBRcE9sQ1JtaA?oc=5
+[PUBLISHED] Fri, 26 Jun 2026 14:56:00 GMT
+[SUMMARY]
+"특허 AI로 세계를 사로잡았다"... 워트인텔리전스, 아시아 최대 스타트업 페어 'Global Innovator Prize' 수상&nbsp;&nbsp;특허뉴스
+---
