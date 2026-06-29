@@ -1,0 +1,55 @@
+name: AI News Pipeline
+
+on:
+  schedule:
+    # KST 오전 8시는 UTC 기준 전날 오후 11시(23시)
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      TZ: Asia/Seoul
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser google-generativeai requests beautifulsoup4
+          
+      - name: Run Collection Pipeline
+        working-directory: ./유진주-github
+        run: python src/collect.py
+        
+      - name: Run Evaluation Pipeline
+        working-directory: ./유진주-github
+        run: python src/evaluate.py
+        
+      - name: Run Summarize Pipeline
+        working-directory: ./유진주-github
+        run: python src/summarize.py
+        
+      - name: Run Publish Pipeline
+        working-directory: ./유진주-github
+        run: python src/publish.py
+        
+      - name: Commit and Push Changes
+        working-directory: ./유진주-github
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add logs/ || true
+          git add *-news.md || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: AI 뉴스 리포트 및 수집 로그 자동 업데이트" && git push)
