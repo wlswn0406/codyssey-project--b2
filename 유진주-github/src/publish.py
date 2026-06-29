@@ -111,8 +111,11 @@ def parse_summary_blocks(summary_text):
             current_section = "korean_summary"
             continue
             
-        if line.startswith("(논조 태그:") or ("#" in line and "논조" in line) or line.startswith("논조 태그:"):
-            tone_tag = line.replace("(논조 태그:", "").replace(")", "").replace("논조 태그:", "").strip()
+        if "#긍정" in line or "#부정" in line or "#중립" in line:
+            for tag in ["#긍정", "#부정", "#중립"]:
+                if tag in line:
+                    tone_tag = tag
+                    break
             continue
             
         if current_section == "translated_title":
