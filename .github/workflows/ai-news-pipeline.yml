@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 23 * * *'
   workflow_dispatch:
+    inputs:
+      test_mode:
+        description: 'Collect up to 2 test articles'
+        required: false
+        default: 'false'
+      collect_limit:
+        description: 'Max articles to collect in test mode'
+        required: false
+        default: '2'
 
 env:
   TZ: Asia/Seoul
@@ -12,6 +21,9 @@ jobs:
   collect:
     name: 1. 기사 수집 (Collect)
     runs-on: ubuntu-latest
+    outputs:
+      has_articles: ${{ steps.collect_state.outputs.has_articles }}
+      article_count: ${{ steps.collect_state.outputs.article_count }}
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -21,7 +33,29 @@ jobs:
         run: pip install feedparser requests beautifulsoup4
       - name: Run Collect
         working-directory: ./유진주-github
+        env:
+          COLLECT_TEST_MODE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.test_mode || 'false' }}
+          COLLECT_LIMIT: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.collect_limit || '2' }}
         run: python src/collect.py
+      - name: Detect Collected Articles
+        id: collect_state
+        shell: bash
+        run: |
+          today=$(date +%Y%m%d)
+          collect_file=$(ls -1t ./유진주-github/logs/${today}-수집.txt 2>/dev/null | head -n 1 || true)
+          if [ -z "$collect_file" ]; then
+            echo "article_count=0" >> "$GITHUB_OUTPUT"
+            echo "has_articles=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          count=$(grep -c '^\[TITLE\] ' "$collect_file" || true)
+          echo "article_count=$count" >> "$GITHUB_OUTPUT"
+          if [ "$count" -gt 0 ]; then
+            echo "has_articles=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_articles=false" >> "$GITHUB_OUTPUT"
+          fi
       - name: Upload Logs
         uses: actions/upload-artifact@v4
         with:
@@ -32,6 +66,7 @@ jobs:
   evaluate:
     name: 2. 중요도 평가 (Evaluate)
     needs: collect
+    if: needs.collect.outputs.has_articles == 'true'
     runs-on: ubuntu-latest
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -61,6 +96,7 @@ jobs:
   summarize:
     name: 3. 요약 생성 (Summarize)
     needs: evaluate
+    if: needs.collect.outputs.has_articles == 'true'
     runs-on: ubuntu-latest
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -90,6 +126,7 @@ jobs:
   publish:
     name: 4. 문서 발행 (Publish)
     needs: summarize
+    if: needs.collect.outputs.has_articles == 'true'
     runs-on: ubuntu-latest
     permissions:
       contents: write
