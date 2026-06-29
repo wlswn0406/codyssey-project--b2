@@ -33,6 +33,7 @@ AI는 산업, 정책 등 다양한 분야에서 꾸준히 다뤄지는 주제다
 * Google News RSS
 * OpenAI
 * Cloudinary
+* Make AI Toolkit의 Analyze Sentiment 모듈
 * Notion
 * Google Sheets
 
@@ -83,7 +84,8 @@ Notion Database에 다음 정보를 저장한다.
 * 요약문
 * 원문 링크
 * 발행일
-* AI 썸네일
+* AI 썸네일  (보너스1 과제)
+* 감성분석    (보너스2 과제)
 
 ### 5\. 스케줄 설정
 
@@ -96,8 +98,9 @@ Notion Database에 다음 정보를 저장한다.
 3. AI 기사 요약
 4. AI 썸네일 생성
 5. Cloudinary 업로드
-6. Notion 저장
-7. 성공 로그 기록
+6. Make AI Toolkit의 Analyze Sentiment 모듈로 감성분석
+7. Notion 저장
+8. 성공 로그 기록
 
 ### 7\. 에러 처리
 
@@ -107,6 +110,7 @@ Notion Database에 다음 정보를 저장한다.
 * OpenAI 요약 실패 → 실패 로그 기록 후 자동 1회 재시도
 * 이미지 생성 실패 → 실패 로그 기록 후 자동 1회 재시도
 * Cloudinary 업로드 실패 → 실패 로그 기록 후 자동 1회 재시도
+* Make AI Toolkit의 Analyze Sentiment 모듈 감성분석 실패 → 실패 로그 기록 후 자동 1회 재시도
 * Notion 저장 실패 → 실패 로그 기록 후 자동 1회 재시도
 
 오류 발생 시 Google Sheets 실패 로그에 오류 내용을 기록해 원인 분석이 가능하도록 했다.
@@ -117,7 +121,7 @@ Notion Database에 다음 정보를 저장한다.
 
 모든 주요 처리 단계에 1회 자동 재시도를 적용했다. 서비스 특성에 따라 재시도 간격은 다르게 설정했다.
 
-* RSS, OpenAI, Cloudinary, Notion : 3분 후 재시도
+* RSS, OpenAI, Cloudinary, Analyze Sentiment, Notion : 3분 후 재시도
 * AI 이미지 생성 : 5분 후 재시도
 
 ## 에러 정책
