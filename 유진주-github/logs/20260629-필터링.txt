@@ -317,3 +317,563 @@ Google News
 [BODY]
 Google News
 ---
+[TITLE] Ford rehires ‘gray beard’ engineers after AI falls short
+[LINK] https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/
+[PUBLISHED] Sun, 28 Jun 2026 19:05:39 +0000
+[BODY]
+Ford rehires ‘gray beard’ engineers after AI falls short | TechCrunch
+–:–:–:–
+The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast.
+Register now.
+Founder Summit
+ticket savings of up to $190 end June 26. Join 1,000+ founders and VCs for all-day bootcamp.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Crunchboard
+Contact Us
+In Brief
+Posted:
+12:05 PM PDT · June 28, 2026
+Image Credits:
+Bloomberg / Getty Images
+Anthony Ha
+Ford rehires ‘gray beard’ engineers after AI falls short
+Ford executives said they have hired 350 veteran engineers — some of them were former employees, while others had been working at suppliers — after artificial intelligence and automated systems failed to deliver the desired quality level.
+Bloomberg reports
+the company’s chief operating officer Kumar Galhotra told journalists that Ford had been “relying more and more on automated quality systems” with disappointing results. So the company “brought back technical specialists,” and those specialists “hunt for failure points before a part ever reaches the plant floor.”
+Charles Poon, Ford’s vice president of vehicle hardware engineering, added, “Mistakenly we thought that by just introducing artificial intelligence and ingesting the design requirements that we had, that that would produce a high-quality product.”
+To be clear, this doesn’t mean Ford is abandoning its AI plans entirely. Instead, it’s using the rehired employees — referred to as “gray beard” engineers — to train younger staff and reprogram AI tools.
+This rehiring seems to be paying off, resulting in what Ford CEO Jim Farley said are things like lowered warranty and recall costs, “contributing to literally hundreds and hundreds of millions of dollars of a tailwind for Ford on cost.” The automaker also claimed the top spot among mainstream brands in the JD Power Initial Quality Survey released this week.
+Topics
+AI
+,
+Ford
+,
+Transportation
+November 4
+Boston
+Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle.
+Savings end June 26, 11:59 p.m. PT
+.
+REGISTER NOW
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news
+---
+[TITLE] Why Wall Street thinks US memory maker Micron is the next Nvidia
+[LINK] https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/
+[PUBLISHED] Sun, 28 Jun 2026 15:00:00 +0000
+[BODY]
+Why Wall Street thinks US memory maker Micron is the next Nvidia | TechCrunch
+–:–:–:–
+The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast.
+Register now.
+Founder Summit
+ticket savings of up to $190 end June 26. Join 1,000+ founders and VCs for all-day bootcamp.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Crunchboard
+Contact Us
+Image Credits:
+CFOTO/Future Publishing via Getty Images / Getty Images
+AI
+Why Wall Street thinks US memory maker Micron is the next Nvidia
+Kirsten Korosec
+8:00 AM PDT · June 28, 2026
+Micron, the Boise, Idaho-based memory chip maker, has captured Wall Street’s heart. Whether the love affair endures will heavily depend on how long the AI-driven supply crunch for memory chips lasts.
+Micron promises that it has shored up its position for the long term, which would allow it to withstand a sudden drop in demand or overcapacity of supply. And Wall Street has become a believer, helping Micron briefly surpass the market valuation of
+Meta and Tesla
+for the first time on Thursday, though it floated back down by Friday to nearly match them.
+Specifically Micron closed Friday’s trading with a market cap close to $1.27 trillion, while Meta was at $1.39 trillion and Tesla was at $1.42 trillion. Micron’s stock has soared over 236% in the past month alone, closing Friday at $1,132 a share. In comparison, it spent years upon years before mid-2025 at below $100 a share.
+It’s a dizzying rise for a company that most consumers associated with the tiny memory cards that, back in the day, were commonly needed to boost PCs, smartphones, or other device storage.
+Wall Street isn’t sweating over that product line. Micron is benefiting from the AI data center buildout boom that has created a shortage of system memory chips, both DRAM and NAND, which Micron makes, particularly High-Bandwidth Memory (HBM). A single AI server requires magnitudes more memory than a laptop.
+AI system makers like Nvidia, as well as the hyperscalers building their own systems, are buying up large quantities of memory, such as Microsoft, Amazon AWS, Google, Meta and Oracle. This is forcing all the other companies who need memory to hoard it as well, from PC makers like Dell and HP, to other kinds of device makers.
+This lack of supply, which has been dubbed
+RAMageddon
+, is predicted to persist
+into 2027
+. And it’s already driving up the price of consumer electronics like 
+---
+[TITLE] Apple Vision Pro exec is reportedly leaving for OpenAI
+[LINK] https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/
+[PUBLISHED] Sat, 27 Jun 2026 16:45:09 +0000
+[BODY]
+Apple Vision Pro exec is reportedly leaving for OpenAI | TechCrunch
+–:–:–:–
+The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast.
+Register now.
+Founder Summit
+ticket savings of up to $190 end June 26. Join 1,000+ founders and VCs for all-day bootcamp.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Crunchboard
+Contact Us
+In Brief
+Posted:
+9:45 AM PDT · June 27, 2026
+Image Credits:
+Brian Heater
+Anthony Ha
+Apple Vision Pro exec is reportedly leaving for OpenAI
+Paul Meade, the Apple vice president in charge of the Vision Pro headset, is leaving the company to join OpenAI’s hardware team,
+according to Bloomberg’s Mark Gurman
+.
+Meade also reportedly led the development of the AI-powered smart glasses that
+Apple plans to launch next year
+. The costly Vision Pro was not a hit, but Apple is hoping that more affordable smart glasses will
+help it compete with wearable devices from Meta
+.
+Gurman frames this departure as a byproduct of
+John Ternus’ imminent elevation to Apple CEO
+, and of Ternus’ decision to shake up the hardware engineering team, which left some of the company’s vice presidents feeling like they’d been demoted.
+OpenAI, meanwhile, is already working with Apple’s former chief design officer Jony Ive on an AI device that CEO Sam Altman has claimed will be
+more peaceful and calm than an iPhone
+, though reports last fall suggested the company was
+struggling to get the details right
+.
+TechCrunch has reached out to Apple and OpenAI for comment.
+Topics
+AI
+,
+Apple
+,
+Hardware
+,
+OpenAI
+,
+paul meade
+November 4
+Boston
+Last chance to save up to $190 on TechCrunch Founder Summit. Join 1,000+ founders and VCs at all stages for real-world scaling insights and connections that move the needle.
+Savings end June 26, 11:59 p.m. PT
+.
+REGISTER NOW
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight.
+Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+StrictlyVC
+Provides movers and shakers with the info they need to start their day.
+No newsletters selected.
+Subscribe
+By submitting your email, you agree to our
+Terms
+and
+Privacy Notice
+.
+Related
+Media & Entertainment
+Writer Ian Bogost says ‘The Small Stuff’ can help u
+---
+[LINK] https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm
+[LINK] https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/
+[PUBLISHED] Fri, 26 Jun 2026 18:32:14 +0000
+[BODY]
+OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm | TechCrunch
+–:–:–:–
+The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast.
+Register now.
+Founder Summit
+ticket savings of up to $190 end June 26. Join 1,000+ founders and VCs for all-day bootcamp.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Crunchboard
+Contact Us
+Image Credits:
+Benjamin Fanjoy / Getty Images
+AI
+OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm
+Rebecca Bellan
+11:32 AM PDT · June 26, 2026
+OpenAI is limiting the release of its newest AI models to a “small group of trusted partners” at the behest of the U.S. government, the company said Friday.
+The next generation GPT-5.6 lineup includes Sol, its flagship model; Terra, a more balanced model for everyday use; and Luna, a faster, lower-cost option. Although Sol is the company’s most powerful model, the Trump administration has restricted the release of all three. OpenAI said the preview is limited to partners “whose participation has been shared with the government.”
+The administration’s request
+comes as the U.S. government puts new pressure on AI companies to restrict their most advanced systems. After Anthropic released its most powerful public model Fable 5, the administration ordered the company to remove access for any foreign national, prompting Anthropic to take the model down entirely.
+The incident has brought up questions of how much power the government should have over AI model releases. Dean Ball, a former White House AI adviser and
+soon-to-be OpenAI employee
+, says President Trump’s
+recent executive order
+— which asks certain AI companies to voluntarily submit their most advanced models for government review up to 30 days before release — has created a
+de facto involuntary licensing regime
+for frontier AI, leading to heavy-handed restrictions.
+The problem compounds, Ball argues, when the government doesn’t have clearly defined safety standards, which could lead to endless launch delays that might not only give a hand to China in the AI race, but also jeopardize the billions of dollars going to AI infrastructure buildouts.
+And while OpenAI did as the administration asked this time around, the AI firm made it clear it wasn’t happy with the arrangement.
+“We don’t believe this kind of government access process should become the lo
+---
+[TITLE] OpenAI poaches Uber India chief to lead its biggest market outside the US
+[LINK] https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/
+[PUBLISHED] Fri, 26 Jun 2026 18:19:36 +0000
+[BODY]
+OpenAI poaches Uber India chief to lead its biggest market outside the US | TechCrunch
+–:–:–:–
+The first StrictlyVC of 2026 hits SF on April 30. Tickets are going fast.
+Register now.
+Founder Summit
+ticket savings of up to $190 end June 26. Join 1,000+ founders and VCs for all-day bootcamp.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Crunchboard
+Contact Us
+Image Credits:
+Jagmeet Singh / TechCrunch
+AI
+OpenAI poaches Uber India chief to lead its biggest market outside the US
+Jagmeet Singh
+11:19 AM PDT · June 26, 2026
+OpenAI is making yet another big, visible bet on India. It has appointed former Uber India and South Asia president Prabhjeet Singh as its first managing director for the country to scale its presence in what it has called its second-largest market after the U.S.
+Singh, who announced his resignation from Uber on Friday, will join OpenAI in September and report to Kiran Mani, the company’s managing director for Asia Pacific, the company told TechCrunch. He will be responsible for OpenAI’s performance in India across consumer growth, enterprise adoption, partnerships, regulatory engagement, and operations, the company said.
+The hire marks OpenAI’s latest investment in India. The company
+opened its first office in New Delhi
+last August and earlier this year said it would
+establish new offices in Mumbai and Bengaluru
+. In 2024, it hired former Truecaller and Meta executive Pragya Misra to lead public policy and partnerships before expanding her role to head of strategy and global affairs last year. OpenAI had earlier
+brought on former Twitter India head Rishi Jaitly
+as a senior adviser to help establish its engagement with the Indian government on AI policy.
+Over the past few months, OpenAI struck partnerships in the nation spanning
+higher education
+,
+enterprise payments
+,
+AI-powered commerce
+, and
+web streaming
+, while
+also becoming part
+of the country’s
+growing data center build-out
+. OpenAI has pointed to
+India’s rapidly growing adoption of ChatGPT
+as a sign of the market’s importance. Indian conglomerates Reliance and Tata Group are also among its early partners in the market.
+The company has simultaneously ramped up hiring in India, with
+openings
+including AI deployment engineers, developer experience engineers, a developer marketing lead, a partner director, and solutions engineers.
+India has emerged as one of the key battlegrounds for U.S. AI com
+---
+[평가 오류] https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.354515341s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.06248465s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}
+---
+[평가 오류] https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 19.754900453s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 19.464443025s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 19.183670315s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 18.995278952s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '18s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 18.71123925s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '18s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 18.518477479s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '18s'}]}}
+---
