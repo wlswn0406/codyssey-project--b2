@@ -1,0 +1,88 @@
+[수집 파이프라인 실행] 2026-10-02 10:51:26
+---
+[TITLE] OpenAI의 Intelligence Age, ‘영원한 보완’ 에세이 발표 - Unite.AI
+[LINK] https://news.google.com/rss/articles/CBMikgFBVV95cUxQLWl5QjVMa0RTbXFwQUlqQWNxZ1BzVVpPbkJXWmt5WDJqQnVLcTJXMTZnalA2N1VUR0lXb1k4WExObkVGQUg4UUtWWFFIYXRLNFM3bjVTTm5Wbjg4N1ZBdU94U0ZJbFV6QjJmcF8xeXRwRkZQZjFMU1NpVkZ3cklRdlRfdU95QlQxS1lLSS1KWjFjUQ?oc=5
+[PUBLISHED] Thu, 01 Oct 2026 18:08:41 GMT
+[SUMMARY]
+OpenAI의 Intelligence Age, ‘영원한 보완’ 에세이 발표&nbsp;&nbsp;Unite.AI
+---
+[TITLE] AI 석학 등 세계 연구진 22인, 수백만명 대체할 '지능 폭발' 대비 촉구 - 전자신문
+[LINK] https://news.google.com/rss/articles/CBMiTkFVX3lxTE14X3BRT2VlLXJ4MTJPc3lWTm9ieHFsckxVNHdFa0hXelY5aGNuYUQ5R1ZQMFdBZXQ4TjFjVi0wVkpSWHZDa2U4TG5TSnB0Zw?oc=5
+[PUBLISHED] Mon, 28 Sep 2026 23:10:25 GMT
+[SUMMARY]
+AI 석학 등 세계 연구진 22인, 수백만명 대체할 '지능 폭발' 대비 촉구&nbsp;&nbsp;전자신문
+---
+[TITLE] ‘AI 속도조절론’에 반문한 김성훈 업스테이지 대표… “미·중, 전력으로 초지능 만들면서 한국은 멈추라는 속내” - 조선비즈 - Chosunbiz
+[LINK] https://news.google.com/rss/articles/CBMiggFBVV95cUxNVUc2Z0k2ZjBobkJ4STloenBuWTVKVFE2NFZtNHR2a3ppd0FOVWRZODR3MUEyOHc4SUsyZVlQTi1fVGk0aEtPXzMzREV6b2lSZDh1VFZRVHpvaUc2MjFGUlJOa01jcHhQajM3UENieDhsTkRxemhNTWFXeFJXY1NPTWF30gGWAUFVX3lxTE55V1lMWGoxX3UyNnA0d1YxV2JfWXl3WTEyYmQ4SWp4ejdUTlBDdjM0Sml0MkhqUXdobWh0UnhTRTRiVjBLSHR1ZXdNb3VHSFRpbWY5NXhqTkQxQnh0Nk83emUtWTFfVGJaT2FvaVNCMkp3d3pCWkZ2cGhEMjFrOExRTG0yN254SkNoT3NOLVNRTHpBWFVTQQ?oc=5
+[PUBLISHED] Thu, 01 Oct 2026 08:35:00 GMT
+[SUMMARY]
+‘AI 속도조절론’에 반문한 김성훈 업스테이지 대표… “미·중, 전력으로 초지능 만들면서 한국은 멈추라는 속내” - 조선비즈&nbsp;&nbsp;Chosunbiz
+---
+[TITLE] 트럼프 "인공지능(AI) 말고 슈퍼지능(SI)으로 불러" - 뉴시스
+[LINK] https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvYU1TeDVqQTJUaTZwRXlCWUphX0JiaURRVEZROGFndHJKWlh1aTF3WFY5V3pFaFZWMGxsb1VScktLMmJ5cEFSSm8xSEIzWG1ReGY3OVNERHpnNk5pWFRJdw?oc=5
+[PUBLISHED] Tue, 29 Sep 2026 23:13:45 GMT
+[SUMMARY]
+트럼프 "인공지능(AI) 말고 슈퍼지능(SI)으로 불러"&nbsp;&nbsp;뉴시스
+---
+[TITLE] Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president
+[LINK] https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/
+[PUBLISHED] Thu, 01 Oct 2026 21:08:11 +0000
+[SUMMARY]
+President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.
+---
+[TITLE] ChatGPT can now virtually try on clothes for you
+[LINK] https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/
+[PUBLISHED] Thu, 01 Oct 2026 19:21:53 +0000
+[SUMMARY]
+OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.
+---
+[TITLE] OpenAI cuts ties with 3 safety researchers, WSJ reports
+[LINK] https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/
+[PUBLISHED] Thu, 01 Oct 2026 18:14:42 +0000
+[SUMMARY]
+OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.
+---
+[TITLE] Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)
+[LINK] https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/
+[PUBLISHED] Thu, 01 Oct 2026 17:50:19 +0000
+[SUMMARY]
+Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.
+---
+[TITLE] Amazon releases its own Jev clone as decision models flood the web
+[LINK] https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/
+[PUBLISHED] Thu, 01 Oct 2026 16:49:22 +0000
+[SUMMARY]
+Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.
+---
+[TITLE] Shopify debuts Canvas, a way to build online stores by chatting with AI
+[LINK] https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/
+[PUBLISHED] Thu, 01 Oct 2026 16:44:35 +0000
+[SUMMARY]
+Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.
+---
+[TITLE] Brian Chesky interview: AI agents need their own operating system
+[LINK] https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/
+[PUBLISHED] Thu, 01 Oct 2026 15:12:00 +0000
+[SUMMARY]
+Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.
+---
+[TITLE] Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.
+[LINK] https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/
+[PUBLISHED] Thu, 01 Oct 2026 14:00:00 +0000
+[SUMMARY]
+The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.
+---
+[TITLE] Hearing tech startup Legato launches its AI hearing glasses
+[LINK] https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/
+[PUBLISHED] Thu, 01 Oct 2026 13:00:00 +0000
+[SUMMARY]
+The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.
+---
+[TITLE] Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites
+[LINK] https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/
+[PUBLISHED] Thu, 01 Oct 2026 12:00:00 +0000
+[SUMMARY]
+Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
