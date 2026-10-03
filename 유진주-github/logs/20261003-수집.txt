@@ -1,0 +1,82 @@
+[수집 파이프라인 실행] 2026-10-03 10:30:36
+---
+[TITLE] 트럼프 “AI 말고 SI“ 선언에…슬로베니아 도메인 수요 ’쑥’ - 연합뉴스TV
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ESllwOVIzN0dVMk9taUhKQS1GaTMyM2VpWFdfSkg2NHEwcGdKeUdRTFR0NHQyMDVnU0c1NFZmT1BfRkVucThYc2hLaE5mQ0s2YkI3RGpHWWZaRDI5M055RnlaMDRfQ2M?oc=5
+[PUBLISHED] Fri, 02 Oct 2026 07:07:00 GMT
+[SUMMARY]
+트럼프 “AI 말고 SI“ 선언에…슬로베니아 도메인 수요 ’쑥’&nbsp;&nbsp;연합뉴스TV
+---
+[TITLE] ‘인공지능’에서 ‘슈퍼 인텔리전스’로…트럼프 행정부의 AI 명칭 변경 : 국제 - 재경일보
+[LINK] https://news.google.com/rss/articles/CBMiS0FVX3lxTE1oTnlKSTV6aHR6VzloVHhYa2U3bmZ5dU01ejZ1RWFwZkdUNTU4V3Rlc0NWUzNKY1R3d0FiRVFvRjVyZGYySXIxZjdpaw?oc=5
+[PUBLISHED] Fri, 02 Oct 2026 23:01:00 GMT
+[SUMMARY]
+‘인공지능’에서 ‘슈퍼 인텔리전스’로…트럼프 행정부의 AI 명칭 변경 : 국제&nbsp;&nbsp;재경일보
+---
+[TITLE] 강장묵 교수, 세르비아 니시서 AI 보안 협력 논의… 법·산업 잇는 연구 접점 모색 - v.daum.net
+[LINK] https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vNEtSc3o0UmEzbzdFeUdGMXZMQ0x4YWRvUW9PU0tCR2Fqc21ZSnZTWTN3akY2VXZTTjlJdEVYajhSeS1rbF96dUEtOEh1STg?oc=5
+[PUBLISHED] Thu, 01 Oct 2026 01:40:11 GMT
+[SUMMARY]
+강장묵 교수, 세르비아 니시서 AI 보안 협력 논의… 법·산업 잇는 연구 접점 모색&nbsp;&nbsp;v.daum.net
+---
+[TITLE] 트럼프 'AI→SI' 개명 추진에 슬로베니아 도메인 수요 폭증 - 연합뉴스
+[LINK] https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hZ3EzQU9tX2tlQmtxUzgzaWFIVzlEWUpHNWpGVTVTRVRuc3A5QWZfUkh6STFfT2ZfTEpORXl3Wi1XMUdGM0s5WjZZNnJHMzdhcmd6V2tHTnFkUlNqR19tdNIBYEFVX3lxTE1hZ3EzQU9tX2tlQmtxUzgzaWFIVzlEWUpHNWpGVTVTRVRuc3A5QWZfUkh6STFfT2ZfTEpORXl3Wi1XMUdGM0s5WjZZNnJHMzdhcmd6V2tHTnFkUlNqR19tdA?oc=5
+[PUBLISHED] Fri, 02 Oct 2026 06:25:13 GMT
+[SUMMARY]
+트럼프 'AI→SI' 개명 추진에 슬로베니아 도메인 수요 폭증&nbsp;&nbsp;연합뉴스
+---
+[TITLE] AI가 AI 개발하는 시대⋯석학들 "지능 폭발, 인류 위협" - 아이뉴스24
+[LINK] https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rTUowVFFkY1daRzJJcjRiaHBjTGRtWDloajhGYlIzNjQ3Zm42aHNlQXFaUW9CeHVtREM0empwREt0YTVpVnJIWVNBNA?oc=5
+[PUBLISHED] Mon, 28 Sep 2026 23:51:37 GMT
+[SUMMARY]
+AI가 AI 개발하는 시대⋯석학들 "지능 폭발, 인류 위협"&nbsp;&nbsp;아이뉴스24
+---
+[TITLE] Sean Parker is rebuilding Stability AI around music
+[LINK] https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/
+[PUBLISHED] Fri, 02 Oct 2026 21:09:14 +0000
+[SUMMARY]
+Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
+---
+[TITLE] Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents
+[LINK] https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
+[PUBLISHED] Fri, 02 Oct 2026 18:11:27 +0000
+[SUMMARY]
+Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.
+---
+[TITLE] Call it AI, call it Super Intelligence, only 2% of consumers are buying it
+[LINK] https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/
+[PUBLISHED] Fri, 02 Oct 2026 17:56:00 +0000
+[SUMMARY]
+This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]
+---
+[TITLE] It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
+[LINK] https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/
+[PUBLISHED] Fri, 02 Oct 2026 17:48:16 +0000
+[SUMMARY]
+This week, the White House got&#160;nearly every&#160;major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them —&#160;to sign an AI safety pledge&#160;that President&#160;Donald&#160;Trump called “morally binding.”&#160;Trump&#160;also&#160;signed an&#160;executive order&#160;officially rebranding AI as “super intelligence,” and meanwhile,&#160;Meta and OpenAI are putting&#160;friendlier faces on their AI products, even as the biggest money [&#8230;]
+---
+[TITLE] TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants
+[LINK] https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/
+[PUBLISHED] Fri, 02 Oct 2026 17:32:05 +0000
+[SUMMARY]
+Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.
+---
+[TITLE] Circuit Breaker Labs hopes to make AI safer for your kids (and you)
+[LINK] https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/
+[PUBLISHED] Fri, 02 Oct 2026 17:00:00 +0000
+[SUMMARY]
+With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created "crash-test  dummies" to solve that.
+---
+[TITLE] Pope Leo XIV is not a fan of AI-generated art
+[LINK] https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/
+[PUBLISHED] Fri, 02 Oct 2026 15:39:41 +0000
+[SUMMARY]
+"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others," the pope wrote. "Algorithms lack the spark of humanity."
+---
+[TITLE] TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer
+[LINK] https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/
+[PUBLISHED] Fri, 02 Oct 2026 14:30:00 +0000
+[SUMMARY]
+Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
