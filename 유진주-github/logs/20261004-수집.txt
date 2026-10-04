@@ -1,0 +1,22 @@
+[수집 파이프라인 실행] 2026-10-04 11:12:12
+---
+[TITLE] Amazon responds to data center backlash, says it no longer uses NDAs
+[LINK] https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/
+[PUBLISHED] Sat, 03 Oct 2026 18:43:57 +0000
+[SUMMARY]
+The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.
+---
+[TITLE] OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+[LINK] https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
+[PUBLISHED] Sat, 03 Oct 2026 16:30:01 +0000
+[SUMMARY]
+By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.
+---
+[TITLE] All the AI agents that can live in your text messages
+[LINK] https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/
+[PUBLISHED] Sat, 03 Oct 2026 14:00:00 +0000
+[SUMMARY]
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---

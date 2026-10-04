@@ -1,0 +1,105 @@
+[LINK] https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+[LINK] https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
+[PUBLISHED] Sat, 03 Oct 2026 16:30:01 +0000
+[BODY]
+OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Samuel Boivin/NurPhoto / Getty Images
+AI
+OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+Anthony Ha
+9:30 AM PDT · October 3, 2026
+By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.
+In
+an essay published in The Atlantic
+, Robinson said he led the writing of safety reports that accompanied OpenAI’s major product launches. He also said that with three-and-a-half years at OpenAI, he is “among the longest-tenured employees at the company.” Now he’s quitting, because in his view, the company’s “culture is broken.”
+In some ways, Robinson’s comments echo those of Jacob Coxon, who worked as a researcher at both OpenAI and Anthropic before
+quitting and declaring that these companies are “gambling with our lives.”
+Coxon’s comments led to a broader debate about AI safety, with Anthropic CEO Dario Amodei
+unveiling a plan for more cautious AI development
+; AI executives met with President Donald Trump this week and signed
+what appeared to be hastily written, non-binding  pledge to implement more safety controls
+.
+But in Robinson’s view, the debate needs to go beyond “specific rules or new laws,” addressing the overall culture at these companies. And while much of the reporting around OpenAI has focused on how the company’s
+CEO Sam Altman lost the trust of former colleagues
+, Robinson’s essay suggests that OpenAI’s culture issues are the same as those of Silicon Valley at large.
+“OpenAI has thrived by trial and error (which it calls ‘iterative deployment’), looking for problems and improving its guardrails in response,” he wrote. “But this approach, by its very nature, guarantees periodic failures — and the scale of those failures is growing as systems get more capable.”
+Pointing to the recent breach of Hugging Face systems by OpenAI agents, as well as
+continuing revelations of OpenAI discovering more rogue agents
+, Robinson argued, “An environment where things like this can happen is no pl
+---
+[LINK] https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/
+[STATUS] SKIP (Score: 0)
+---
