@@ -1,0 +1,34 @@
+[수집 파이프라인 실행] 2026-10-05 10:21:29
+---
+[TITLE] 트럼프, 4명의 관리자가 이끄는 초지능 부대 발표 - unite.ai
+[LINK] https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDNWNi1yRjJaa0Z5czZILVVYbE5FNkpsbWNlSkI4a0U3eng3WU5obE1pQlFnS2dNRXdsMkNQaHZDM29nQkt5R3ZmR0VQbmNhVVRESGNTTmVOTHhpeV9PYzA4N2JweW85QUtFX0Q0TnhkSjdlNmcxMHYwRlpLODloeG5sZXJmb3c4bjlrZW1uZHk?oc=5
+[PUBLISHED] Sun, 04 Oct 2026 15:50:34 GMT
+[SUMMARY]
+트럼프, 4명의 관리자가 이끄는 초지능 부대 발표&nbsp;&nbsp;unite.ai
+---
+[TITLE] 인공지능(AI)이 설계해주는 '장수 백신' 맞는 날은 언제 - 히트뉴스
+[LINK] https://news.google.com/rss/articles/CBMia0FVX3lxTE5jOHkzdlBJdEdBaGh1STVJS2tiSUVjWFphQnhyZDlnN0UtdDh0eHg3UFVEemJRQzJ2cVpsekQzM1E1ZEdVczBjc0pmN3BDS0tSR2FOYjQwZVQ0OVpJYVRaYTJ3UG9MUmVTVTJZ?oc=5
+[PUBLISHED] Fri, 02 Oct 2026 07:00:00 GMT
+[SUMMARY]
+인공지능(AI)이 설계해주는 '장수 백신' 맞는 날은 언제&nbsp;&nbsp;히트뉴스
+---
+[TITLE] Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions
+[LINK] https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/
+[PUBLISHED] Sun, 04 Oct 2026 20:31:07 +0000
+[SUMMARY]
+AI slop seems to be overwhelming bug bounty programs.
+---
+[TITLE] Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?
+[LINK] https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/
+[PUBLISHED] Sun, 04 Oct 2026 20:08:34 +0000
+[SUMMARY]
+On Equity, we discussed the Trump administration's attempts to rebrand AI.
+---
+[TITLE] Trump unveils his new Super Intelligence Force
+[LINK] https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/
+[PUBLISHED] Sun, 04 Oct 2026 15:15:10 +0000
+[SUMMARY]
+This new task force is Trump's latest response to the debate over AI safety.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---

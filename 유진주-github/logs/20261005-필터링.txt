@@ -1,0 +1,235 @@
+[TITLE] 트럼프, 4명의 관리자가 이끄는 초지능 부대 발표 - unite.ai
+[LINK] https://news.google.com/rss/articles/CBMikAFBVV95cUxOMDNWNi1yRjJaa0Z5czZILVVYbE5FNkpsbWNlSkI4a0U3eng3WU5obE1pQlFnS2dNRXdsMkNQaHZDM29nQkt5R3ZmR0VQbmNhVVRESGNTTmVOTHhpeV9PYzA4N2JweW85QUtFX0Q0TnhkSjdlNmcxMHYwRlpLODloeG5sZXJmb3c4bjlrZW1uZHk?oc=5
+[PUBLISHED] Sun, 04 Oct 2026 15:50:34 GMT
+[BODY]
+Google News
+---
+[LINK] https://news.google.com/rss/articles/CBMia0FVX3lxTE5jOHkzdlBJdEdBaGh1STVJS2tiSUVjWFphQnhyZDlnN0UtdDh0eHg3UFVEemJRQzJ2cVpsekQzM1E1ZEdVczBjc0pmN3BDS0tSR2FOYjQwZVQ0OVpJYVRaYTJ3UG9MUmVTVTJZ?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions
+[LINK] https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/
+[PUBLISHED] Sun, 04 Oct 2026 20:31:07 +0000
+[BODY]
+Google froze its open source bug bounty program due to a 'significant rise' in AI submissions | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+1:31 PM PDT · October 4, 2026
+Image Credits:
+DBenitostock / Getty Images
+Anthony Ha
+Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions
+Blaming a “significant rise” in AI submissions, Google has paused its open source bug bounty program until next year.
+Last year, TechCrunch reported that
+cybersecurity experts were warning of that AI slop posed a serious risk to bug bounty programs
+. Looks like that’s the issue confronting Google’s Open Source Software Vulnerability Rewards Program, where researchers were rewarded for finding vulnerabilities in the company’s open source software.
+In posts
+on X
+and
+the program website
+, Google said the bug bounty program was paused as of October 1, with a promise to provide “an update” in the first quarter of 2027.
+According to Tom’s Hardware
+, Google engineers and open source maintainers were overwhelmed by reports that were invalid or contained hallucinations.
+“This pause is due to a significant rise in automated submissions, the vast majority of which are not valid,” the company said.
+In the meantime, participants are encouraged to consider Google’s other bug bounty programs.
+Topics
+AI
+,
+Security
+October 13 – 15
+San Francisco
+Get 50% off a second pass
+The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.
+BOOK NOW
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight.
+Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+StrictlyVC
+Provides movers and shakers with the info they need to start their day.
+No newsletters selected.
+Subscribe
+By submitting your email, you agree to our
+Terms
+and
+Privacy Noti
+---
+[LINK] https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Trump unveils his new Super Intelligence Force
+[LINK] https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/
+[PUBLISHED] Sun, 04 Oct 2026 15:15:10 +0000
+[BODY]
+Trump unveils his new Super Intelligence Force | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Kevin Dietsch / Staff / Getty Images
+AI
+Trump unveils his new Super Intelligence Force
+Anthony Ha
+8:15 AM PDT · October 4, 2026
+As promised, President Donald Trump has announced the formation of a new Super Intelligence Force, which he said will be led by national intelligence director Jay Clayton and other members of his administration.
+“The Super Intelligence Force is tasked with coordinating the effort of the Federal Government to ensure that America continues to lead the World in Super Intelligence, which many say is bigger than the Industrial Revolution, and the Internet, and will protect the interests, and improve the lives, of all Americans,” Trump said in
+a Sunday morning post
+on his social network Truth Social.
+Back in September, in response to an AI safety debate that the president has
+largely dismissed as a hoax created by “Radical Left Dumocrats,”
+Trump said he would nevertheless form an AI Force and appoint an AI czar (“Only High I.Q. individuals need apply!”).
+Since then, Trump signed an executive order seeking to
+rebrand AI as “super intelligence,”
+a term seemingly embraced,
+with some stumbles
+, by the tech executives who gathered at the White House this week to sign a non-binding safety pledge. (The pledge
+included an impressive typo
+.)
+So it’s only natural that Trump’s new task force is named in accordance with this new branding.
+The Wall Street Journal reports
+that Clayton will chair the Super Intelligence Force, effectively making him the new AI/SI czar, with Federal Trade Commission Chair Andrew Ferguson, Undersecretary of War for Research and Engineering Emil Michael, and Office of Personnel Management Director Scott Kupor serving as vice chairs.
+The task force will reportedly have 120 days to create a report on the risks and opportunities presented by AI. Clayton, who
+previously said
+that it would be irresponsible for the United States to “back away” from AI while countries like China advance, made similar comments to the WSJ, insisting that one of the biggest risks is “not being first.”
+The task force’s charter r
+---
