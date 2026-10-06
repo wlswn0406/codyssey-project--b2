@@ -1,0 +1,94 @@
+[수집 파이프라인 실행] 2026-10-06 11:34:07
+---
+[TITLE] 배경훈 부총리 “프런티어 AI, 초지능 발전 역량 확보 차원” - etnews.com
+[LINK] https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xMTU0emVpeXp1UUF6cVFYLUZUelhuckpWNXQ3OHIxdFdISTBXRnJMc3FyM3J4ZnMwTGtPdGpTR2I1VzU5a1NFSDRtVGZYUQ?oc=5
+[PUBLISHED] Mon, 05 Oct 2026 23:20:14 GMT
+[SUMMARY]
+배경훈 부총리 “프런티어 AI, 초지능 발전 역량 확보 차원”&nbsp;&nbsp;etnews.com
+---
+[TITLE] 트럼프, AI가 아니라 SI 시대를 열겠다고? - 브런치
+[LINK] https://news.google.com/rss/articles/CBMiR0FVX3lxTE9nd3V0OEczemRHclBlam5nQlAwMnBESjFRRVhMSkNBZ0lWa2Z4dTdzQjMxLTBvLW5hMjU3aF9hMEZ1SG4ta1cw?oc=5
+[PUBLISHED] Mon, 05 Oct 2026 10:24:48 GMT
+[SUMMARY]
+트럼프, AI가 아니라 SI 시대를 열겠다고?&nbsp;&nbsp;브런치
+---
+[TITLE] 머스크 스페이스XAI 이름 '스페이스XSI'로 변경 예고, 트럼프 '슈퍼지능' 기조 따라 - businesspost.co.kr
+[LINK] https://news.google.com/rss/articles/CBMic0FVX3lxTE1sbUVUYTRHbGlYal9USVNCdWhKWnQyOFRnbXMyZHBnNVpkSks1VzEyWGZSdTUxOFZVLV9PN3UxRjBIVzNSb1NpRUR4eEhnX1lXM192VkFYTUdyRXhRUENXQlcwVGZCTWdSWUhoUEtWN0dSczA?oc=5
+[PUBLISHED] Mon, 05 Oct 2026 03:04:26 GMT
+[SUMMARY]
+머스크 스페이스XAI 이름 '스페이스XSI'로 변경 예고, 트럼프 '슈퍼지능' 기조 따라&nbsp;&nbsp;businesspost.co.kr
+---
+[TITLE] Trump launches Superintelligence TF to “keep the U.S. in the lead” ··· appoints Director of National Intelligence as AI czar - 경향신문
+[LINK] https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YLVFmNXNiVmhUXy1VTmpVbmJUTW1nbzB4MWxTNFp5LWRCM292b2Y1Y28yWnhpM1hwaERqOEpqUTBrczc0elZ6ZGJXZGpvekJMY1haOTVGTExMOExxMEE?oc=5
+[PUBLISHED] Mon, 05 Oct 2026 00:50:00 GMT
+[SUMMARY]
+Trump launches Superintelligence TF to “keep the U.S. in the lead” ··· appoints Director of National Intelligence as AI czar&nbsp;&nbsp;경향신문
+---
+[TITLE] [AI 프리즘] ‘AI’ 대신 'SI'?…트럼프의 '초지능' 사용 행정명령, 업계가 수용할 수 있을까? - 위키리크스한국
+[LINK] https://news.google.com/rss/articles/CBMicEFVX3lxTFBZRzFQRVB3ZWY3S1VUTWh5bGxaWjdfcGZ6Y2drczVpbHhFNnV1WGlVRHM2NVI4ZkVVZFREczFJVFhFTmptOGk1ZWpVVjRSamNrMVk3ZHRxUDh0eW9leTkwZ0V0SGhKR1B2MnJ6NUg2OW8?oc=5
+[PUBLISHED] Fri, 02 Oct 2026 21:03:49 GMT
+[SUMMARY]
+[AI 프리즘] ‘AI’ 대신 'SI'?…트럼프의 '초지능' 사용 행정명령, 업계가 수용할 수 있을까?&nbsp;&nbsp;위키리크스한국
+---
+[TITLE] OpenAI will start watermarking ChatGPT’s text in the EU
+[LINK] https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/
+[PUBLISHED] Mon, 05 Oct 2026 20:36:48 +0000
+[SUMMARY]
+OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.
+---
+[TITLE] Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost
+[LINK] https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/
+[PUBLISHED] Mon, 05 Oct 2026 19:33:53 +0000
+[SUMMARY]
+Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.
+---
+[TITLE] Instinct brings its AI agent to group chats, even for friends without an account
+[LINK] https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/
+[PUBLISHED] Mon, 05 Oct 2026 18:54:30 +0000
+[SUMMARY]
+Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.
+---
+[TITLE] TikTok rolls out an AI shopping assistant and one-click checkout
+[LINK] https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/
+[PUBLISHED] Mon, 05 Oct 2026 18:29:00 +0000
+[SUMMARY]
+TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.
+---
+[TITLE] Hot Girl Hotline is like ‘Dear Abby’ for the AI era
+[LINK] https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/
+[PUBLISHED] Mon, 05 Oct 2026 17:29:22 +0000
+[SUMMARY]
+Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.
+---
+[TITLE] HackerRank’s AI interviewer offers a glimpse into what job interviews could become
+[LINK] https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/
+[PUBLISHED] Mon, 05 Oct 2026 16:43:35 +0000
+[SUMMARY]
+HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.
+---
+[TITLE] OpenAI launches visual ads that appear alongside image generation results
+[LINK] https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/
+[PUBLISHED] Mon, 05 Oct 2026 15:14:24 +0000
+[SUMMARY]
+The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.
+---
+[TITLE] Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026
+[LINK] https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/
+[PUBLISHED] Mon, 05 Oct 2026 15:00:00 +0000
+[SUMMARY]
+Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.
+---
+[TITLE] Researchers are tracking a Chinese AI ‘agent fleet’
+[LINK] https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/
+[PUBLISHED] Mon, 05 Oct 2026 14:35:09 +0000
+[SUMMARY]
+Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.
+---
+[TITLE] Can Safeworld convince people that GenAI robots won’t hurt them?
+[LINK] https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/
+[PUBLISHED] Mon, 05 Oct 2026 12:00:00 +0000
+[SUMMARY]
+Safeworld is building digital humans to make sure robots don't hurt the real ones.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
