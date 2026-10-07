@@ -1,0 +1,244 @@
+[TITLE] North Korea “The Development of Artificial Intelligence Will Be the Third Military Revolution” - NK경제
+[LINK] https://news.google.com/rss/articles/CBMia0FVX3lxTE53d2VvU2wyeHNNaFUtLWp5bE90a0pGMElFYWVhZXBxYWR3elZDX2Z5cjZyOHRIYlN3X3BESXpQVEpYT2ZHTlhkd1huTTlXeHBZSXhYM2h5d2xZQzF6eG0wSGxFNlh3enp5OVNz0gFuQVVfeXFMTVRwUEgtWWVjYkZsZVBqS2JUVllGNVdYZVRGYzlpajhkQjZSd0tISWlJZmtmNUJYTlNrUEdJdTh1eXRQRHhjN181dEZvcXZpRFRZbXFxOEtlSTNPcmtOb3M1akxmdHd1QnRpaXZuS3c?oc=5
+[PUBLISHED] Tue, 06 Oct 2026 05:04:59 GMT
+[BODY]
+Google News
+---
+[LINK] https://news.google.com/rss/articles/CBMiogJBVV95cUxQc0FxT21Qc3RhVGtNd0ZqenU5QmJtWEIwbm43Y1A3TG9zaGRnQlJEdEE1bFl3WjA0T184OWg4S3RORnUwX3JULTJId0FYdmowZW15ekQ5Q0N6bElZVk5GTllvN0VnM2p0Y0xweVpja3ZlTjNqX2JCemNUOGZ2aUxXNDBBUTk4ZlZRY3pabkxXZ0RrTVR0Z19zYTBoVnBpVjVCSkpiMVhOM0FCRDA3QmdDUGFiZTRhcUZoYUx3SVhDQVc5UTR5VG5QdlNEYTB0ZDF4VHVXcUZCTlBMSTVvTTZFVHRuN3g3cXZBSk0tdnpRNzdGQzRDME4wYVgwdEdZQXZOTXRnTE5RTmJjUlNUekNqRUtjLUFaMllOSzNwa0Y3Tm1ZQQ?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] 트럼프 대통령, AI 전략 총괄 '초지능 포스' 발족…수장에 국가정보국장 - 전자신문
+[LINK] https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wdXp0VWdmMXh4cUJIa3VfLXNCY1RIYmJkeDlRVmxTUXRMalU4MW1PeG51NjBmZV95Uk9RWVpuamtyRzhkdXdyOHZrZnRDQQ?oc=5
+[PUBLISHED] Mon, 05 Oct 2026 02:42:49 GMT
+[BODY]
+Google News
+---
+[LINK] https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] How AI decision models could change content moderation
+[LINK] https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/
+[PUBLISHED] Tue, 06 Oct 2026 20:35:20 +0000
+[BODY]
+How AI decision models could change content moderation | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+akinbostanci
+(opens in a new window)
+/ Getty Images
+AI
+How AI decision models could change content moderation
+Russell Brandom
+1:35 PM PDT · October 6, 2026
+As decision models spread across the industry, a company called Musubi has a new idea for how to put them to work: moderating content. On Tuesday, Musubi announced a lightweight decision model made for real-time moderation
+called PolicyLM-1.7B
+, released with open weights.
+The idea is to take a content policy written in plain English and apply it to messages in under 50 milliseconds. Musubi’s model is designed to be similar in cost and speed to the AI classifier systems that power moderation on most social platforms — but because it has the flexibility of a modern LLM, it can apply complex policies without special training. Even more important, the model won’t need new training when the policy changes, allowing for human policy-setters to iterate as much as they need.
+As Musubi co-founder and chief AI officer Filip Jankovic sees it, it gives platform managers a way to label content proactively.
+“Product teams just want a better understanding of what’s happening on their platform, especially as the amount of content is exponentially increasing,” Jankovic says. “Being able to label all of that in a very scalable, customizable way is extremely useful.”
+Decision models have become a hot topic in the AI world since
+the release of TypeSafe AI’s Jev in September
+, which was shortly followed by competing decision models from
+OpenAI
+and
+Amazon
+. Instead of outputting text, a decision model outputs outcome probabilities, though in this case the model outputs a binary judgement: Either the content is in the category or it isn’t. By limiting the model’s output to a set of predetermined choices, decision models are able to run faster and cheaper than large language models, while still maintaining the flexibility of the transformer architecture.
+One early use case is reining in misbehavior by AI agents — so it’s only natural to apply the same technology to human misbehavior.
+Notably, Jank
+---
+[TITLE] AI computing startup Lambda to raise $4B ahead of planned IPO
+[LINK] https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/
+[PUBLISHED] Tue, 06 Oct 2026 20:00:30 +0000
+[BODY]
+AI computing startup Lambda to raise $4B ahead of planned IPO | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+1:00 PM PDT · October 6, 2026
+Image Credits:
+KTSDesign/Science Photo Library / Getty Images
+Rebecca Bellan
+AI computing startup Lambda to raise $4B ahead of planned IPO
+Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to
+The Wall Street Journal.
+Coatue Management and Blackstone are leading the round.
+A letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September. While that might look like a hearty increase in demand, much of that increase appears to be driven by a
+$35 billion commitment
+from one company: Anthropic, which signed a deal with Lambda in late August.
+That means Lambda’s valuation, which has climbed significantly since its
+2025 funding round
+, could be leaning heavily on Anthropic’s ability to keep paying. Still, with reliable GPU capacity so scarce, investors are clearly still willing to bet on companies that provide it, especially ones with large contracts with a major AI lab.
+For neoclouds like Lambda, demand isn’t so much the problem as is the cost of meeting it. Data center buildouts are largely
+funded by debt
+— of which Lambda just raised an
+additional $1 billion
+last week — and
+lenders are getting choosier
+about who they offer cash to and under what circumstances. Lambda’s decision to raise more now not only sets the tone for its IPO pricing, but also gives it access to more capital before the scrutiny of public markets arrives.
+If and when Lambda does IPO — the company was
+reportedly
+meant to debut this year, but has pushed that back amid market uncertainty — it will join other Nvidia-backed neoclouds, like
+CoreWeave
+and
+Nebius
+, that now depend on the health of their stock to fund their data center buildouts. British neocloud
+Nscale
+filed for an IPO last month and is expected to begin trading soon.
+Lambda, Coatue, and Blackstone did not immediately respond to a request for comment.
+Topics
+AI
+,
+Blackstone
+,
+Coatue M
+---
+[평가 오류] https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 21.451887973s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '21s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 21.271603127s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '21s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 21.104013602s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '21s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.941929517s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.757689019s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.599296842s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 20.427167975s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}
+---
