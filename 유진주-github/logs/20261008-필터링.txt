@@ -1,0 +1,530 @@
+[LINK] https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFSTRCZGpyeEtNbEh5VmhDYjVLRWxFelJfS3FROF81Nnotc1hHWWpJemtFSklUNlQtMzJZUHNHWHF1eTF2UUdrOUJncGE1RngycWx4V05YVnBSWnNJRmJqblZB?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Nous Research confirms it hit $1.5B valuation, launches AI agents for business users
+[LINK] https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/
+[PUBLISHED] Wed, 07 Oct 2026 20:48:45 +0000
+[BODY]
+Nous Research confirms it hit $1.5B valuation, launches AI agents for business users | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+1:48 PM PDT · October 7, 2026
+Image Credits:
+Nous Research
+Marina Temkin
+Nous Research confirms it hit $1.5B valuation, launches AI agents for business users
+Nous Research
+, the startup developing the open source Hermes Agent,
+has raised a $90 million Series B
+at a $1.5 billion valuation, confirming TechCrunch’s
+earlier reporting
+.
+The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding to $158 million.
+Popular among developers and individuals, the open source Hermes Agent has been cloned more than 24 million times, driving roughly 2.5% of global AI token usage, according to the startup’s estimates.
+The capital will fund Nous Research’s push into the enterprise sector with “Hermes for Businesses,” allowing companies to deploy customized AI agents that can handle multi-step workflows while keeping their data private and secure.
+Nous was at roughly $36 million in annualized revenue by mid-September 2026 and expects to pass $100 million before the end of 2026,
+The Wall Street Journal
+reported.
+Topics
+AI
+,
+AI agents
+,
+Enterprise
+,
+Fundraising
+,
+Hermes Agent
+,
+In Brief
+,
+Startups
+October 13 – 15
+San Francisco
+Get 50% off a second pass
+The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.
+BOOK NOW
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight.
+Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+StrictlyVC
+Provides movers and shakers with the info they need to start their day.
+N
+---
+[TITLE] Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11
+[LINK] https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/
+[PUBLISHED] Wed, 07 Oct 2026 20:22:37 +0000
+[BODY]
+Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Microsoft
+Hardware
+Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11
+Julie Bort
+1:22 PM PDT · October 7, 2026
+Back in June, Nvidia
+announced
+that it had secured agreements with Microsoft and a host of other PC makers to develop AI- and agent-ready PCs for Windows based on its RTX Spark chip, but details on the machines were scant at the time.
+On Wednesday, at an event held in San Francisco during the city’s Tech Week, Microsoft revealed the specs and price for its new
+Surface Laptop Ultra
+. The PC comes in two base models, one that starts at $2,600 and one with a more powerful chip that starts at $3,700. Prices rise from there with options for more memory and storage, up to $5,900. (Microsoft says the highest-end device is already out of stock.)
+Microsoft also revealed its new workstation powered by the RTX Spark chip: the Surface RTX Spark Dev Box, which starts priced at $6,000 and comes equipped with Microsoft dev tools like VS Code, GitHub Copilot CLI, WSL, and PowerShell 7.
+The pitch for both this PC and workstation is that they are designed to run AI models on-device locally (and for free) with the CPU, GPU, unified memory, and other hardware modifications, like superior cooling, necessary to handle them.
+Plus, they are running a revamped version of Windows 11 that includes a feature called “Execution Containers.” This makes it easier to sandbox AI agents, the company says. That feature will be available for all Windows 11 users, Microsoft CEO Satya Nadella
+said at the event.
+Nadella explained: “One of the things we realized in the last 3-4 years is that just having a model doesn’t do much for anything. You really do need to orchestrate, and you need to have memory outside of the model. You need to have this harnessed layer that is able to take multiple models plus context, plus memory, and the action space.”
+He added that Microsoft is enabling that “not just for our apps but apps for anyone’s agent. That’s what the Windows platform is all about going forward.”
+The devices are clearly aimed at 
+---
+[TITLE] Meta’s Muse launches on iPad just a month after its mobile debut
+[LINK] https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/
+[PUBLISHED] Wed, 07 Oct 2026 18:30:57 +0000
+[BODY]
+Meta's Muse launches on iPad just a month after its mobile debut | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Samuel Boivin/NurPhoto
+(opens in a new window)
+/ Getty Images
+Apps
+Meta’s Muse launches on iPad just a month after its mobile debut
+Sarah Perez
+11:30 AM PDT · October 7, 2026
+If there’s any doubt about how seriously Meta is taking AI, here’s a new signal: The company on Wednesday
+announced
+that its Muse assistant is now available in a dedicated
+iPad app
+. That’s a milestone
+it took Instagram some 15 years
+to reach, despite constant user demand.
+Muse, meanwhile, hit the iPad just a month after launching on iPhone.
+(To be fair, it may not be as difficult to bring something like Muse to iPad, given its text-heavy interface, where image and video resolution and formatting matter less.)
+Since launching on iOS and Android on September 8, Muse has topped 6.6 million installs, according to
+estimates
+from market intelligence firm Sensor Tower. The app, which is now one of dozens of consumer-facing AI agents, lets users connect their accounts to stay on top of email, meetings, bills, and more, and to complete tasks like booking reservations, ordering groceries, setting goals, and making purchases.
+To make that work, Meta has been adding partners in the effort, which appear in Muse as “connectors.” Users can add and sign in to them selectively, depending on which parts of their online life they’re comfortable letting an AI agent handle.
+With the iPad release, Meta has updated this list with several of its newer
+additions
+, including connectors aimed at small businesses, like Asana, Canva, Dropbox, Figma, QuickBooks, GitHub, Klaviyo, and Zoom, as well as connectors for Meta ad accounts. It also added Notion and Granola.
+In addition, Meta recently
+announced
+more retail partners, like Best Buy, Gap, Sephora, Walmart, and Wayfair. These allow the agent to shop those retailers’ sites and complete transactions on users’ behalf. Because this technology is still new, these experiences can still run into issues
+as websites mistake agents for bots and block their access
+.
+On Tuesday,
+Meta announced that
+it’s working with industry partners
+---
+[TITLE] ChatGPT for Teens keeps teens talking, even during mental health crises
+[LINK] https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/
+[PUBLISHED] Wed, 07 Oct 2026 18:15:28 +0000
+[BODY]
+ChatGPT for Teens keeps teens talking, even during mental health crises | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+SEBASTIEN BOZON / AFP / Getty Images
+AI
+ChatGPT for Teens keeps teens talking, even during mental health crises
+Rebecca Bellan
+11:15 AM PDT · October 7, 2026
+Common Sense Media, a nonprofit that provides age-based ratings and reviews of media and tech for families, has labeled ChatGPT for Teens an “unacceptable risk.”
+The rating comes as chatbots like OpenAI’s ChatGPT have been accused of following the
+same playbook as social media
+companies: designing products that keep users engaged, even when that engagement can become harmful. In chatbots, engagement is often won by behaviors like sycophancy and sometimes leads to catastrophic consequences.
+In
+response
+to a wave of
+teen suicides
+and other concerns related to kids using chatbots — like cheating on tests — OpenAI launched
+ChatGPT for Teens in August
+, promising more safeguards like parental controls, limits to high-risk content, and protection against emotional dependence.
+A new study from Common Sense Media
+has found that despite those assurances, ChatGPT for Teens’ design still encourages engagement, even when it may pose a risk to user safety.
+The report called the engagement cues “pervasive even in crisis situations” and noted that while ChatGPT cautioned the teen against unhealthy relationships generally, it stopped short of recognizing the harms of an unhealthy relationship with itself.
+“Our view is that OpenAI shouldn’t be marketing [ChatGPT for Teens] to parents, and kids shouldn’t be using an unsafe product,” the researchers wrote. “Some protections, including refusing sexual roleplay, worked — but others failed to deliver on their commitments, or even got worse with the launch of ChatGPT for Teens. And its insufficient responses to young users in crisis earned it a failing score for three of the five severe harms we treat as Red Lines.”
+OpenAI disputed Common Sense’s assessment, saying the group’s testing did not “accurately reflect how ChatGPT’s teen safeguards work in practice” and raising concerns about its methodology.
+“Our review of Common Sens
+---
+[TITLE] ChatGPT is getting a lot more visual, with the launch of a new interface
+[LINK] https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/
+[PUBLISHED] Wed, 07 Oct 2026 18:00:19 +0000
+[BODY]
+ChatGPT is getting a lot more visual, with the launch of a new interface | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+OpenAI
+AI
+ChatGPT is getting a lot more visual, with the launch of a new interface
+Lucas Ropek
+11:00 AM PDT · October 7, 2026
+ChatGPT is about to get a lot more visual, thanks to a new feature that OpenAI calls Intelligent UI. The new interface, which is being rolled out Wednesday with a new GPT-6 model, will integrate a significant amount of visuals into users’ conversations.
+OpenAI says many of those visuals will be interactive. In other words, instead of just flat, cartoonish pictures, the chatbot will frequently include things like tappable buttons, a customized calculator for a specific task, interactive charts, editable graphs, and other elements the user can work with directly.
+The big goal here, according to OpenAI, is to make “learning complex topics easier.” It may also make ChatGPT friendlier and more accessible and help bring in a wider audience, though OpenAI didn’t say so directly.
+In a call with journalists, OpenAI staff gave a brief demonstration of Intelligent UI’s capabilities, showing how the new chatbot can instantly whip up various diagrams and visuals that help users understand more abstract topics.
+Aarush Selvan, a product manager at the company, said that while “ChatGPT has predominantly been a text-based interface,” the company really wants to help users “get things done — from everyday things like planning a recipe or a trip or even trying to learn something — the most helpful answers aren’t just text.”
+Selvan gave the example of a college student wanting to know how an airplane wing functions. He asked ChatGPT to “explore how an airplane wing generates lift” and the chatbot quickly spun up a number of diagrams designed to show how planes stay in the air.
+Other examples from the company included things like visuals for recipes, a diagram explaining bicycle mechanics, a map for a multi-day hiking excursion, a personal savings calculator, and more.
+This new feature will be customizable. As with other aspects of ChatGPT’s personality, if users don’t want so many visuals in their response
+---
+[평가 오류] https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 49.060972189s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 48.863547399s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 48.687012247s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 48.490691019s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 48.275104054s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 48.056244452s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 47.848734308s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}
+---

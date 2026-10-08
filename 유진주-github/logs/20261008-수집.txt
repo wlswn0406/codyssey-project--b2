@@ -1,0 +1,82 @@
+[수집 파이프라인 실행] 2026-10-08 11:20:18
+---
+[TITLE] Dell Technologies Advances as Artificial Intelligence Momentum Expands : 기업주식정보 : JKN - 재경일보
+[LINK] https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFSTRCZGpyeEtNbEh5VmhDYjVLRWxFelJfS3FROF81Nnotc1hHWWpJemtFSklUNlQtMzJZUHNHWHF1eTF2UUdrOUJncGE1RngycWx4V05YVnBSWnNJRmJqblZB?oc=5
+[PUBLISHED] Fri, 02 Oct 2026 15:26:00 GMT
+[SUMMARY]
+Dell Technologies Advances as Artificial Intelligence Momentum Expands : 기업주식정보 : JKN&nbsp;&nbsp;재경일보
+---
+[TITLE] Nous Research confirms it hit $1.5B valuation, launches AI agents for business users
+[LINK] https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/
+[PUBLISHED] Wed, 07 Oct 2026 20:48:45 +0000
+[SUMMARY]
+The developer of Hermes Agent raised a $90 million Series B.
+---
+[TITLE] Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11
+[LINK] https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/
+[PUBLISHED] Wed, 07 Oct 2026 20:22:37 +0000
+[SUMMARY]
+Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.
+---
+[TITLE] Meta’s Muse launches on iPad just a month after its mobile debut
+[LINK] https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/
+[PUBLISHED] Wed, 07 Oct 2026 18:30:57 +0000
+[SUMMARY]
+Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.
+---
+[TITLE] ChatGPT for Teens keeps teens talking, even during mental health crises
+[LINK] https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/
+[PUBLISHED] Wed, 07 Oct 2026 18:15:28 +0000
+[SUMMARY]
+ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.
+---
+[TITLE] ChatGPT is getting a lot more visual, with the launch of a new interface
+[LINK] https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/
+[PUBLISHED] Wed, 07 Oct 2026 18:00:19 +0000
+[SUMMARY]
+OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.
+---
+[TITLE] Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material
+[LINK] https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/
+[PUBLISHED] Wed, 07 Oct 2026 16:53:46 +0000
+[SUMMARY]
+Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.
+---
+[TITLE] Healthleap raises $38M for its AI that flags hospital patients who may need a closer look
+[LINK] https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/
+[PUBLISHED] Wed, 07 Oct 2026 15:07:08 +0000
+[SUMMARY]
+The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.
+---
+[TITLE] Tony Fadell on why the first wave of AI gadgets failed — and what comes next
+[LINK] https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/
+[PUBLISHED] Wed, 07 Oct 2026 14:41:38 +0000
+[SUMMARY]
+The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.
+---
+[TITLE] Google experiments with an AI-powered gaming platform
+[LINK] https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/
+[PUBLISHED] Wed, 07 Oct 2026 14:36:23 +0000
+[SUMMARY]
+Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.
+---
+[TITLE] OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots
+[LINK] https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/
+[PUBLISHED] Wed, 07 Oct 2026 14:30:00 +0000
+[SUMMARY]
+OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.
+---
+[TITLE] Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026
+[LINK] https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/
+[PUBLISHED] Wed, 07 Oct 2026 14:15:00 +0000
+[SUMMARY]
+From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.
+---
+[TITLE] Google’s new SynthID website can identify AI-generated media
+[LINK] https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/
+[PUBLISHED] Wed, 07 Oct 2026 14:00:00 +0000
+[SUMMARY]
+Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
