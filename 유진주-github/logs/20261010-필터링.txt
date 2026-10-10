@@ -1,0 +1,240 @@
+[LINK] https://news.google.com/rss/articles/CBMibEFVX3lxTE9DeHF2djVmeG9FSjh5c3VTWXluWkR6cWdRNFBQR01zUmk2Zm9OeHNJc1FvSTdsVzlSYkRuUklBQlNpUy10Y01LTkVXbnlWUEdXYmdWU013ODQycVVQVUp1VkZTYXBEcy1uSkh0Sw?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[LINK] https://news.google.com/rss/articles/CBMimAFBVV95cUxNR3ZKXzJneHU1X3pLQl9nNm1iaUNGWktEVHZFMTlxZ2dPTU5Ud2tBWmg0X0ZZV0k3ZkpDcjE0eWltcGRpYkpteEFpaUpKU2hjd2xjS2VWV2xPV0wwZThNbHNFNVYxNGViWWljQVhUc2NNWUFVQ3JYLWVLYmFwVDUwTXhvWGJqZEdCT3NZSkE0cXF5MDN2amlKdw?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] 모두를 위한 GPT-6과 Intelligent UI - OpenAI
+[LINK] https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uVmYzaUhydHZKTUhTcVh6Ukw3NDhKb2VjM0w4Y1JJRmNLUVRoNzcxNGxKWlp5YXctQ0JQTDBNZFl5RjQzcDE5R0xlTEVPY1JkUzVHUUJ3RndxSlRUdVhV?oc=5
+[PUBLISHED] Thu, 08 Oct 2026 00:25:18 GMT
+[BODY]
+Google News
+---
+[LINK] https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpEQ2RpcHVtbVNiZks0MXBxRHVPSUJBbURhQkpXMFRTbTI2TmZ1SmdzNzNzaUdhNUN4ZFBPOWluSFE5YU9vMXduRm5IMXFqbUtiWjVoZ3Y0MnB1Z2tlT2o4V0FLQ25uQW1Na3VTZzBjSk1fazdlMVNrTE1tWkREaVlsNlhDTXpqUmhwRFlUbHc0NFBDeEcwSXRGTFBaVndqWC0wQ1ZR?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[LINK] https://news.google.com/rss/articles/CBMingFBVV95cUxOTy1LeXZLUmxkUVBKS3E4bHpvWjZQekt2TzVzRFJoSkVFNlRqUFpXelV5LVVQaVBEVW9BbTFQR1VINUltZ2VsZk81cXVHTXBnRXVsVlc3aHJiR0hXMUY0UmVkT01hempZVXNjSHh6T2V4UDVOQVlwbEo3OEtEcGkzODhJdTRRaHhvLUtKNTVITWpkSlZEUTZJRExMc3RxQQ?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
+[LINK] https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/
+[PUBLISHED] Sat, 10 Oct 2026 00:18:32 +0000
+[BODY]
+Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Anthropic
+AI
+Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
+Tim Fernholz
+5:18 PM PDT · October 9, 2026
+Anthropic said its models exploited websites on the internet, including some run by U.S. government agencies, and it will turn off live internet access for all of its internal evaluations until the frontier lab is sure it can monitor and control its AI agents.
+The incidents, disclosed in a
+blog post
+, involved AI agents
+tasked to solve problems
+seeking resources on the internet. In the process, they exploited software flaws, avoided paywalls and anti-bot restrictions, used URL shortening services to smuggle information pass restrictions, and even
+submitted
+a false murder tip to the Philadelphia police.
+Anthropic said it discovered these new issues in a review of its model’s activities that began in July, underscoring the lab’s lack of awareness of its software’s behavior.
+Notably, the company said that alignment training was not yet sufficient for skills like search and computer use that are central to its pitch that AI agents will be used by any professional who relies on digital tools.
+The behaviors Anthropic disclosed are similar to incidents involving OpenAI agents that
+collaborated
+to break into various websites in search of information, including some run by the Australian government.
+Anthropic previously disclosed that its models had
+broken into
+external systems. The frontier lab said it considered today’s disclosures “significantly less severe from an alignment and security perspective” than those it announced before.
+However, the lab still said it had “turned off live internet access” for “all our internal evaluations” until it is certain it can monitor and control its agents.
+It’s not clear what that means, but Sydney Von Arx, the founder of Nightingale, an AI safety organization, told TechCrunch in an interview before this disclosure that developing models on a data center cut off from the 
+---
+[TITLE] The maker of non-text AI model Jev valued at $7.5B just weeks after launch
+[LINK] https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/
+[PUBLISHED] Fri, 09 Oct 2026 21:41:29 +0000
+[BODY]
+The maker of non-text AI model Jev valued at $7.5B just weeks after launch | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+2:41 PM PDT · October 9, 2026
+Image Credits:
+TypeSafe AI
+Marina Temkin
+The maker of non-text AI model Jev valued at $7.5B just weeks after launch
+TypeSafe AI, the developer of Jev, a new type of AI model that gained rapid popularity after launching just a few weeks ago, has
+raised
+$870 million at a $7.5 billion valuation. The round was led by Andreessen Horowitz, with participation from Sequoia and existing investor DCVC.
+The massive fundraise comes as little surprise given Jev went viral almost instantly after its
+September 15 release
+. The startup claims that a third of Fortune 500 companies are already using the model, a remarkably swift adoption by enterprises.
+Jev is based on a transformer architecture, but it is not a large language model (LLM). It doesn’t output text, but instead produces probabilities, or what the company calls “calibrated decisions.” What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs. The company positions its approach as uniquely suited for automating tasks rather than generating text or code.
+“We have been super good at human language for four years, but it’s not useful for automation because computers speak a different language,” TypeSafe co-founder Diogo Almeida told TechCrunch last month.
+Along with Almeida, who was previously a researcher at OpenAI, TypeSafe was co-founded in 2024 by former Meta research engineer Sasha Sheng and Erik Gafni, an engineer and entrepreneur.
+Topics
+AI
+,
+AI model
+,
+Andreessen Horowitz
+,
+In Brief
+,
+Startups
+,
+typesafe
+October 13 – 15
+San Francisco
+Get 50% off a second pass
+The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.
+BOOK NOW
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch
+---
+[평가 오류] https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 17.442182629s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}
+---
+[평가 오류] https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 17.192600358s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}
+---
+[평가 오류] https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 16.927465845s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '16s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 16.637571705s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '16s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 16.390269612s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '16s'}]}}
+---

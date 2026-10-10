@@ -1,0 +1,76 @@
+[수집 파이프라인 실행] 2026-10-10 10:57:42
+---
+[TITLE] 트럼프 “‘AI’ 대신 ‘슈퍼지능’이라 불러야”…백악관, ‘SI’ 용어 확산 나서 - 파이낸스투데이
+[LINK] https://news.google.com/rss/articles/CBMibEFVX3lxTE9DeHF2djVmeG9FSjh5c3VTWXluWkR6cWdRNFBQR01zUmk2Zm9OeHNJc1FvSTdsVzlSYkRuUklBQlNpUy10Y01LTkVXbnlWUEdXYmdWU013ODQycVVQVUp1VkZTYXBEcy1uSkh0Sw?oc=5
+[PUBLISHED] Fri, 09 Oct 2026 07:55:17 GMT
+[SUMMARY]
+트럼프 “‘AI’ 대신 ‘슈퍼지능’이라 불러야”…백악관, ‘SI’ 용어 확산 나서&nbsp;&nbsp;파이낸스투데이
+---
+[TITLE] Global X Artificial Intelligence & Technology ETF (Ondo Tokenized) 가격 | AIQON 시세, 실시간 차트, USD 변환, 시가총액 - CryptoRank
+[LINK] https://news.google.com/rss/articles/CBMimAFBVV95cUxNR3ZKXzJneHU1X3pLQl9nNm1iaUNGWktEVHZFMTlxZ2dPTU5Ud2tBWmg0X0ZZV0k3ZkpDcjE0eWltcGRpYkpteEFpaUpKU2hjd2xjS2VWV2xPV0wwZThNbHNFNVYxNGViWWljQVhUc2NNWUFVQ3JYLWVLYmFwVDUwTXhvWGJqZEdCT3NZSkE0cXF5MDN2amlKdw?oc=5
+[PUBLISHED] Thu, 08 Oct 2026 15:46:54 GMT
+[SUMMARY]
+Global X Artificial Intelligence & Technology ETF (Ondo Tokenized) 가격 | AIQON 시세, 실시간 차트, USD 변환, 시가총액&nbsp;&nbsp;CryptoRank
+---
+[TITLE] 모두를 위한 GPT-6과 Intelligent UI - OpenAI
+[LINK] https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uVmYzaUhydHZKTUhTcVh6Ukw3NDhKb2VjM0w4Y1JJRmNLUVRoNzcxNGxKWlp5YXctQ0JQTDBNZFl5RjQzcDE5R0xlTEVPY1JkUzVHUUJ3RndxSlRUdVhV?oc=5
+[PUBLISHED] Thu, 08 Oct 2026 00:25:18 GMT
+[SUMMARY]
+모두를 위한 GPT-6과 Intelligent UI&nbsp;&nbsp;OpenAI
+---
+[TITLE] Global X Artificial Intelligence & Technology ETF (Ondo Tokenized) 거래소 AIQON 마켓 | 매수·매도·트레이드 - CryptoRank
+[LINK] https://news.google.com/rss/articles/CBMipgFBVV95cUxONlpEQ2RpcHVtbVNiZks0MXBxRHVPSUJBbURhQkpXMFRTbTI2TmZ1SmdzNzNzaUdhNUN4ZFBPOWluSFE5YU9vMXduRm5IMXFqbUtiWjVoZ3Y0MnB1Z2tlT2o4V0FLQ25uQW1Na3VTZzBjSk1fazdlMVNrTE1tWkREaVlsNlhDTXpqUmhwRFlUbHc0NFBDeEcwSXRGTFBaVndqWC0wQ1ZR?oc=5
+[PUBLISHED] Thu, 08 Oct 2026 21:49:05 GMT
+[SUMMARY]
+Global X Artificial Intelligence & Technology ETF (Ondo Tokenized) 거래소 AIQON 마켓 | 매수·매도·트레이드&nbsp;&nbsp;CryptoRank
+---
+[TITLE] Global X Artificial Intelligence & Technology ETF (Ondo Tokenized) - CryptoRank
+[LINK] https://news.google.com/rss/articles/CBMingFBVV95cUxOTy1LeXZLUmxkUVBKS3E4bHpvWjZQekt2TzVzRFJoSkVFNlRqUFpXelV5LVVQaVBEVW9BbTFQR1VINUltZ2VsZk81cXVHTXBnRXVsVlc3aHJiR0hXMUY0UmVkT01hempZVXNjSHh6T2V4UDVOQVlwbEo3OEtEcGkzODhJdTRRaHhvLUtKNTVITWpkSlZEUTZJRExMc3RxQQ?oc=5
+[PUBLISHED] Thu, 08 Oct 2026 21:42:32 GMT
+[SUMMARY]
+Global X Artificial Intelligence & Technology ETF (Ondo Tokenized)&nbsp;&nbsp;CryptoRank
+---
+[TITLE] Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
+[LINK] https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/
+[PUBLISHED] Sat, 10 Oct 2026 00:18:32 +0000
+[SUMMARY]
+Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
+---
+[TITLE] The maker of non-text AI model Jev valued at $7.5B just weeks after launch
+[LINK] https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/
+[PUBLISHED] Fri, 09 Oct 2026 21:41:29 +0000
+[SUMMARY]
+What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
+---
+[TITLE] An Anthropic AI model sent a false homicide tip to Philadelphia police
+[LINK] https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/
+[PUBLISHED] Fri, 09 Oct 2026 19:36:56 +0000
+[SUMMARY]
+Anthropic did not discover this behavior until over two months after its AI submitted the false tip.
+---
+[TITLE] Amazon and others are done keeping data center deals secret. Is it enough to build trust?
+[LINK] https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/
+[PUBLISHED] Fri, 09 Oct 2026 16:56:42 +0000
+[SUMMARY]
+Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]
+---
+[TITLE] Amazon drops data center NDAs, and AI agents want your credit card
+[LINK] https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/
+[PUBLISHED] Fri, 09 Oct 2026 16:53:02 +0000
+[SUMMARY]
+Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [&#8230;]
+---
+[TITLE] We can’t help treating AI like it’s human. But should we?
+[LINK] https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/
+[PUBLISHED] Fri, 09 Oct 2026 16:40:14 +0000
+[SUMMARY]
+"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us," Dr. Sherry Turkle writes. "And we are wired to care for it in return."
+---
+[TITLE] a16z’s Olivia Moore on the state of consumer AI
+[LINK] https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/
+[PUBLISHED] Fri, 09 Oct 2026 15:43:33 +0000
+[SUMMARY]
+Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
