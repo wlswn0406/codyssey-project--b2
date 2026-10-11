@@ -1,0 +1,232 @@
+[TITLE] Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
+[LINK] https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
+[PUBLISHED] Sat, 10 Oct 2026 21:47:51 +0000
+[BODY]
+Microsoft’s Satya Nadella says AI models need an ‘emergency brake’ | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+2:47 PM PDT · October 10, 2026
+Image Credits:
+Dan DeLong
+Anthony Ha
+Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
+Microsoft CEO Satya Nadella is the latest tech executive to offer lengthy thoughts on how AI safety might be improved.
+In
+a Saturday morning post on X
+, Nadella wrote that it’s time “to step back and assess the trust architecture” of AI.
+“We can’t treat Super Intelligence as a set of nested black boxes and simply accept or reject its recommendations, answers, and actions,” Nadella wrote, using
+the Trump administration’s preferred term for AI
+.
+As outlined by Nadella, this approach “means separating the model from the harness that orchestrates its work,” as well as “externalizing controls and safeguards.” He also called for “every meaningful model action” to be documented with “tamper-proof human readable evidence,” and for systems where “an authorized person” always has the ability “to pause or shut down a model mid-task.”
+“We must assume a model is compromised and contain it from the start,” he said. “Think of it like an emergency brake.”
+Nadella’s comments come as leading AI companies acknowledge more and more incidents where
+they seemed to lose control of their models
+, and after
+Anthropic CEO Dario Amodei published a plan
+for more cautious AI development.
+Topics
+AI
+,
+Microsoft
+,
+Satya Nadella
+October 13 – 15
+San Francisco
+Get 50% off a second pass
+The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.
+BOOK NOW
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight.
+Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+StrictlyVC
+Provides movers and shakers with the inf
+---
+[TITLE] Apple discloses deal to hire team and license tech from personalized podcast startup Huxe
+[LINK] https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/
+[PUBLISHED] Sat, 10 Oct 2026 19:50:00 +0000
+[BODY]
+Apple discloses deal to hire team and license tech from personalized podcast startup Huxe | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Primakov /
+Shutterstock
+(opens in a new window)
+AI
+Apple discloses deal to hire team and license tech from personalized podcast startup Huxe
+Anthony Ha
+12:50 PM PDT · October 10, 2026
+Apple revealed in
+a regulatory filing
+that it has reached an agreement to bring on team members and technology from personalized audio startup Huxe, in what’s commonly known as a reverse acqui-hire deal.
+As first
+reported in MacRumors
+, Apple disclosed to the European Commission that it has agreed to make employment offers to “certain employees of Huxe AI,” and to “receive a non-exclusive license to Huxe’s intellectual property rights.”
+Reverse acqui-hires emerged in recent years as a way for larger companies to
+hire key team members and license technology
+from startups without acquiring the startups outright — presumably allowing them to build up AI talent and tech without drawing as much antitrust scrutiny. (Confusingly, these deals have both been
+referred to as “reverse acqui-hires” and as plain old “acqui-hires.”
+)
+In the case of Huxe, the startup was founded by developers who’d previously worked on
+the AI-generated podcast features
+in NotebookLM (recently
+renamed Gemini Notebook
+). But Huxe announced on May 21 that
+it was shutting down
+, with the team posting on
+the Huxe website
+that the company would be removing its app from the Apple and Google stores, halting service, and deleting user data.
+“The team is moving on to new things, and we won’t be continuing development of the product,” the company said. It also thanked its users, saying, “The fact that you used it, told friends about it, sent us your suggestions and your ideas, made it feel like we built it together.”
+On June 9, shortly after Huxe’s announcement, Apple notified the European Commission of its deal.
+The filing does not say who received employment offers or if they accepted. Nor does it disclose anything about Apple’s plans.
+Possibly related: Huxe’s shutdown announcement came just a day after
+Spotify unveiled AI-powered podcast generation feat
+---
+[LINK] https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/
+[STATUS] SKIP (Score: 0)
+---
+[LINK] https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/
+[STATUS] SKIP (Score: 0)
+---

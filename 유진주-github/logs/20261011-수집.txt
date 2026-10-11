@@ -1,0 +1,28 @@
+[수집 파이프라인 실행] 2026-10-11 10:23:12
+---
+[TITLE] Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
+[LINK] https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
+[PUBLISHED] Sat, 10 Oct 2026 21:47:51 +0000
+[SUMMARY]
+In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.
+---
+[TITLE] Apple discloses deal to hire team and license tech from personalized podcast startup Huxe
+[LINK] https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/
+[PUBLISHED] Sat, 10 Oct 2026 19:50:00 +0000
+[SUMMARY]
+Is Apple hoping to get into the AI-generated podcast business?
+---
+[TITLE] 3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream
+[LINK] https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/
+[PUBLISHED] Sat, 10 Oct 2026 15:00:00 +0000
+[SUMMARY]
+TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.
+---
+[TITLE] Here are the top AI agents that can live in your text messages
+[LINK] https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/
+[PUBLISHED] Sat, 10 Oct 2026 14:00:00 +0000
+[SUMMARY]
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
