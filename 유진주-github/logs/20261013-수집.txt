@@ -1,0 +1,58 @@
+[수집 파이프라인 실행] 2026-10-13 12:15:11
+---
+[TITLE] AI can’t just be built. It must be taught. - Korea JoongAng Daily
+[LINK] https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjRKdDBaZ3ZfQlR2aHRJYW1Cd0N5LVJ6MGtDVEpERnBvam1xMjdkR0lqZFp4bXlRNnN6OXJqam5oTTlYNnlBSklUWHc1Z2taZDVIcW9vdTFzZUkwRF8xZVJJcm42TUlhSmc4b3BwRFpvMXNuZE41WnR1WTNqVzl3VWdTcVlrY2xzMnBiVFlBTQ?oc=5
+[PUBLISHED] Tue, 13 Oct 2026 00:50:06 GMT
+[SUMMARY]
+AI can’t just be built. It must be taught.&nbsp;&nbsp;Korea JoongAng Daily
+---
+[TITLE] 나델라 CEO, “초지능 AI, 내부자 위협처럼 통제해야”…기업 보안 7대 원칙 제시 - 인공지능신문
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11ZTFhdjlSSHZvT3FpSVNLR3NUUE9SNnJZSUFFZmpMbVlKSWZkS0xKaU9fWTF0TWVfaFZ1THc3OTlkclVLUzJWQTRidHhCeW1fU3l1RHhZV3pjcmRxY3lhLThJS0Npc28?oc=5
+[PUBLISHED] Mon, 12 Oct 2026 12:49:18 GMT
+[SUMMARY]
+나델라 CEO, “초지능 AI, 내부자 위협처럼 통제해야”…기업 보안 7대 원칙 제시&nbsp;&nbsp;인공지능신문
+---
+[TITLE] Snowflake Surges as Broad Artificial Intelligence Sector Rebounds : 기업주식정보 : JKN - 재경일보
+[LINK] https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zRDc3amhtOHhoSEFrSmdjTEhWdlljeDU5Y19aVXFEQmRNWHRVdEs5cGc3RVJWSnkzQW8xQXQ3YkNWSzd4MU9QYmFkUnFRLThLUjBvNENoVndfbGVzMV90MnFR?oc=5
+[PUBLISHED] Fri, 09 Oct 2026 15:31:00 GMT
+[SUMMARY]
+Snowflake Surges as Broad Artificial Intelligence Sector Rebounds : 기업주식정보 : JKN&nbsp;&nbsp;재경일보
+---
+[TITLE] Meta releases its first frontier model, Muse Wonder
+[LINK] https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/
+[PUBLISHED] Mon, 12 Oct 2026 17:56:56 +0000
+[SUMMARY]
+Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.
+---
+[TITLE] WindBorne wins a hefty US Air Force contract for its balloon data
+[LINK] https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/
+[PUBLISHED] Mon, 12 Oct 2026 17:19:14 +0000
+[SUMMARY]
+A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.
+---
+[TITLE] Honeyjar offers AI tools to improve PR and comms at every company
+[LINK] https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/
+[PUBLISHED] Mon, 12 Oct 2026 15:45:00 +0000
+[SUMMARY]
+Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?
+---
+[TITLE] Microsoft president says UK is best placed to drive AI regulation
+[LINK] https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/
+[PUBLISHED] Mon, 12 Oct 2026 15:31:19 +0000
+[SUMMARY]
+Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.
+---
+[TITLE] This AI startup says it can generate permit-ready blueprints in minutes
+[LINK] https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/
+[PUBLISHED] Mon, 12 Oct 2026 15:27:59 +0000
+[SUMMARY]
+Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.
+---
+[TITLE] Former Plaud exec raises $26M for AI app that listens to you in the background
+[LINK] https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/
+[PUBLISHED] Mon, 12 Oct 2026 12:47:59 +0000
+[SUMMARY]
+One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---

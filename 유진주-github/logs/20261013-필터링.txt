@@ -1,0 +1,213 @@
+[LINK] https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjRKdDBaZ3ZfQlR2aHRJYW1Cd0N5LVJ6MGtDVEpERnBvam1xMjdkR0lqZFp4bXlRNnN6OXJqam5oTTlYNnlBSklUWHc1Z2taZDVIcW9vdTFzZUkwRF8xZVJJcm42TUlhSmc4b3BwRFpvMXNuZE41WnR1WTNqVzl3VWdTcVlrY2xzMnBiVFlBTQ?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] 나델라 CEO, “초지능 AI, 내부자 위협처럼 통제해야”…기업 보안 7대 원칙 제시 - 인공지능신문
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11ZTFhdjlSSHZvT3FpSVNLR3NUUE9SNnJZSUFFZmpMbVlKSWZkS0xKaU9fWTF0TWVfaFZ1THc3OTlkclVLUzJWQTRidHhCeW1fU3l1RHhZV3pjcmRxY3lhLThJS0Npc28?oc=5
+[PUBLISHED] Mon, 12 Oct 2026 12:49:18 GMT
+[BODY]
+Google News
+---
+[LINK] https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zRDc3amhtOHhoSEFrSmdjTEhWdlljeDU5Y19aVXFEQmRNWHRVdEs5cGc3RVJWSnkzQW8xQXQ3YkNWSzd4MU9QYmFkUnFRLThLUjBvNENoVndfbGVzMV90MnFR?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Meta releases its first frontier model, Muse Wonder
+[LINK] https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/
+[PUBLISHED] Mon, 12 Oct 2026 17:56:56 +0000
+[BODY]
+Meta releases its first frontier model, Muse Wonder | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Meta
+AI
+Meta releases its first frontier model, Muse Wonder
+Russell Brandom
+10:56 AM PDT · October 12, 2026
+Meta’s Superintelligence Lab released
+a pair of new state-of-the-art models
+on Monday, Muse Wonder and Muse Wonder Full, representing the company’s first attempt at a frontier model.
+Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.
+According to Meta’s testing (presented in
+the model card
+), Wonder and Wonder Full achieve comparable benchmark scores to Fable 5.1 and GPT-6 Astra.
+“Together, they mark the next step on our scaling ladder and a major leap toward personal superintelligence,” Meta’s blog post about the models reads.
+That scale is reflected in the pricing: Accessed through the Meta Model API, Wonder will cost $4 per million input tokens and $20 per million output tokens, making it roughly equivalent in cost to GPT-6 Sol or Opus 5.5.
+Notably, Wonder Full will only be available to Muse Code subscribers and will not be served through the API. Both models will also be used to power the Muse agent.
+In keeping with Meta’s interest in developing personal assistants that can perform tasks over a long period, the company placed particular emphasis on the new models’ ability to retain and synthesize information given by the user, a property Meta calls “active memory.”
+To achieve better recall, Meta highlighted
+the MemoryBench benchmark
+, which challenges continual learning and memory construction frameworks. According to the company’s testing, Muse Wonder now scores higher on MemoryBench than Fable, Opus, or Astra.
+“We put a tremendous amount of effort into making sure your model can remember what’s important to you over days, weeks, months, and beyond,” said research scientist Kavya Kopparapu in a video accompanying the launch.
+The new models are the first frontier model release since Scale AI founder Alexandr Wang restructured Meta’s AI efforts
+in August o
+---
+[TITLE] WindBorne wins a hefty US Air Force contract for its balloon data
+[LINK] https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/
+[PUBLISHED] Mon, 12 Oct 2026 17:19:14 +0000
+[BODY]
+WindBorne wins a hefty US Air Force contract for its balloon data | TechCrunch
+–:–:–:–
+Last day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on
+Oct 2
+.
+Book Exhibit Table Now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Windborne Systems
+AI
+WindBorne wins a hefty US Air Force contract for its balloon data
+Tim Fernholz
+10:19 AM PDT · October 12, 2026
+The U.S. Air Force will buy data collected by
+WindBorne Systems
+‘ fleet of autonomous weather balloons under a new contract that could be worth nearly $50 million to the startup.
+WindBorne currently has about 700 weather balloons flying around the globe, collecting atmospheric sensor readings that the company sells to customers and also feeds into its own AI weather forecasting model. WindBorne, founded in 2015 and based in Redwood City, California, is one of the first organizations to directly feed empirical data into a deep-learning weather model.
+The company has worked closely with the U.S. government, particularly the National Weather Service and the U.S. Air Force and Navy, but this is the single-largest contract the company has participated in. The contract is worth up to $49 million, but the Air Force pays only as it needs data. It can place orders for specific regions at specific times. So far, it has ordered $1.7 million worth, and executives expect more orders to follow.
+“This is largely a vehicle through which continued growth of the constellation can be supported, as well as some work on research and development to continue to improve the hardware and performance of the balloons,” WindBorne co-founder and CTO Andrey Sushko told TechCrunch. He added that the contract, which was awarded without competitive bidding, is “a determination by the government that for this capability of collecting global data, we were the only company able to provide it in the way that met their needs for these operations.”
+WindBorne CEO John Dean
+told TechCrunch
+in August that the company had raised a $37 million Series B round to continue scaling its business. Earlier this summer, the company
+released
+the latest version of its forecasting model, WeatherMesh 6, which
+it says
+provides more accurate forecasts than the traditional model run by the European Centre for Medium-Range Weather Forecasts (ECMW
+---
+[LINK] https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 47.738633833s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 47.545149985s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 47.365909528s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}
+---
