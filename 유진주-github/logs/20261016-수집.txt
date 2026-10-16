@@ -1,0 +1,64 @@
+[수집 파이프라인 실행] 2026-10-16 09:52:08
+---
+[TITLE] Global X Artificial Intelligence & Technology ETF (Ondo Tokenized) - CryptoRank
+[LINK] https://news.google.com/rss/articles/CBMingFBVV95cUxONUFPbS1YakpFaXhnRXJFMkhCZGtGTmpDenFGbzQyRG5LYW1BZFUwaGF1WklFLXBkLVRhWUtkVEZ0SHZ5OGRlOVhtRlNqdVpzeFI3RllPX09tMlJ5U19yMTFJWWlVUFl4SjEyZTZ4NUhZbEJBUUNabDRpR18yalRGTE90M1hmbXVsek5iWk1OaEhybFo5ellXUVpVSV9zZw?oc=5
+[PUBLISHED] Thu, 15 Oct 2026 06:00:26 GMT
+[SUMMARY]
+Global X Artificial Intelligence & Technology ETF (Ondo Tokenized)&nbsp;&nbsp;CryptoRank
+---
+[TITLE] Adobe Shares Rally Nearly 5% as Markets Weigh Artificial Intelligence Monetization : 기업주식정보 : JKN - 재경일보
+[LINK] https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HdG9fdVlnRWNpN1JrSUlSTTQwUXo5RE9ySkY0OFUyYjc3dnluR2NJWWNqcDNWOEJ6S0I0ZldfWHdhRmxZcUpPQlZ3ZlJYUzVFWEF0SkswaEFiVzZOc1RlNTV3?oc=5
+[PUBLISHED] Thu, 15 Oct 2026 15:30:00 GMT
+[SUMMARY]
+Adobe Shares Rally Nearly 5% as Markets Weigh Artificial Intelligence Monetization : 기업주식정보 : JKN&nbsp;&nbsp;재경일보
+---
+[TITLE] When it came to Cal AI’s viral success, a small army of influencers paid off
+[LINK] https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/
+[PUBLISHED] Thu, 15 Oct 2026 23:44:56 +0000
+[SUMMARY]
+The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.
+---
+[TITLE] Meta launches an open-weight AI model that runs on Macs
+[LINK] https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
+[PUBLISHED] Thu, 15 Oct 2026 20:04:53 +0000
+[SUMMARY]
+Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.
+---
+[TITLE] Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps
+[LINK] https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/
+[PUBLISHED] Thu, 15 Oct 2026 19:55:25 +0000
+[SUMMARY]
+Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.
+---
+[TITLE] Anthropic is letting METR researchers look under the hood with employee-level access
+[LINK] https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/
+[PUBLISHED] Thu, 15 Oct 2026 19:14:26 +0000
+[SUMMARY]
+METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.
+---
+[TITLE] Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more
+[LINK] https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/
+[PUBLISHED] Thu, 15 Oct 2026 18:56:46 +0000
+[SUMMARY]
+Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.
+---
+[TITLE] AI agents are coming to Rivian’s cars
+[LINK] https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/
+[PUBLISHED] Thu, 15 Oct 2026 15:02:36 +0000
+[SUMMARY]
+We'll likely learn more about how this will work at the company's upcoming "AI &#038; Autonomy Day" event in December.
+---
+[TITLE] Google’s Universal Cart shopping tool launches in the US
+[LINK] https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/
+[PUBLISHED] Thu, 15 Oct 2026 14:29:33 +0000
+[SUMMARY]
+The new shopping tool is available in the U.S. across Google Search and the Gemini app.
+---
+[TITLE] Amazon’s Bee launches two new personal AI devices, starting at $75
+[LINK] https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/
+[PUBLISHED] Thu, 15 Oct 2026 12:00:00 +0000
+[SUMMARY]
+Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
