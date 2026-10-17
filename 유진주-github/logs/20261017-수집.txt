@@ -1,0 +1,52 @@
+[수집 파이프라인 실행] 2026-10-17 09:52:38
+---
+[TITLE] Replit is no longer working with Anthropic, CEO says
+[LINK] https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/
+[PUBLISHED] Fri, 16 Oct 2026 21:22:28 +0000
+[SUMMARY]
+Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.
+---
+[TITLE] India becomes the latest country to report rogue AI agent activity
+[LINK] https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/
+[PUBLISHED] Fri, 16 Oct 2026 17:52:24 +0000
+[SUMMARY]
+The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.
+---
+[TITLE] An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet
+[LINK] https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
+[PUBLISHED] Fri, 16 Oct 2026 16:30:00 +0000
+[SUMMARY]
+Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]
+---
+[TITLE] Physical AI is more than robots, says the Nvidia veteran now investing in it
+[LINK] https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/
+[PUBLISHED] Fri, 16 Oct 2026 16:30:00 +0000
+[SUMMARY]
+Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being&#160;rebuilt.&#160; This view runs counter to those who believe that robotics, powered by a general foundation model,&#160;is about to have [&#8230;]
+---
+[TITLE] Elorian’s first AI model wants to reason with images, not just about them
+[LINK] https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/
+[PUBLISHED] Fri, 16 Oct 2026 16:01:37 +0000
+[SUMMARY]
+According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.
+---
+[TITLE] Jev is Vercel’s fastest-adopted AI model ever
+[LINK] https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/
+[PUBLISHED] Fri, 16 Oct 2026 15:33:49 +0000
+[SUMMARY]
+The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.
+---
+[TITLE] Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy
+[LINK] https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/
+[PUBLISHED] Fri, 16 Oct 2026 14:26:51 +0000
+[SUMMARY]
+Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing."
+---
+[TITLE] Replit’s CEO says the future of work is the ‘self-driving company’
+[LINK] https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/
+[PUBLISHED] Fri, 16 Oct 2026 12:55:09 +0000
+[SUMMARY]
+Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
