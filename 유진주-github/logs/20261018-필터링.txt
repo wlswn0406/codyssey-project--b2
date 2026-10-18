@@ -1,0 +1,232 @@
+[TITLE] 트럼프가 “AI 쓰지 마” 하자…IMF 성명서에서 진짜 사라졌다 - 마켓인
+[LINK] https://news.google.com/rss/articles/CBMic0FVX3lxTE9YT01SejJCSHMzOEkyOHk5MXkwR1pfSzJlU1kyMEhpYWlIYlIwWG9BQU9ra1E4S2hrNDlhN0VTN3BlM05UcGhnbXViUTFwby00ZXFVejdqajJpXzBrMVVsT25NQjFNMmp4VDVuV3NRY2xQaWc?oc=5
+[PUBLISHED] Sat, 17 Oct 2026 23:00:03 GMT
+[BODY]
+Google News
+---
+[LINK] https://news.google.com/rss/articles/CBMingFBVV95cUxNc00yWGJlT0FST0lTTlRYdDFteW1jZV82eVh6Wno3b05YTXFaMGNsamtLYmZXdlVTdjVmdmVyTUdCSmNRZGZLSUxWUjNtZ1ZOamFWNDh5SFVKbXV5OTNsb0lNTzJaM3VfbGdSOENPNEZ5ZFc3LUNheEROY0pMZV9Kakc3WklVcm41Z0NqakZ4dkRTcTA2TDJpUElSaEo2dw?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] “AI라 부르면 적” 트럼프가 꺼낸 ‘초지능’…대체 뭐길래 - 이데일리
+[LINK] https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3VnOWxTVmltVUNDd1Z0eFJ6Tjkza2hlMWpJRk9aVld1QlBqWEFlb3hqWktrZDJQTHphNm1kRnVXcV9raXU0cHBuMXpYd3BfM3htN29vckJ6bTRveENqQ3BXTUNGUUFpdUNTWjdJVkxWWGNCaVh0QklybVBzS3NzWQ?oc=5
+[PUBLISHED] Sat, 17 Oct 2026 01:02:20 GMT
+[BODY]
+Google News
+---
+[TITLE] Meta removes language that raised scraping and AI training concerns
+[LINK] https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
+[PUBLISHED] Sat, 17 Oct 2026 21:31:32 +0000
+[BODY]
+Meta removes language that raised scraping and AI training concerns | TechCrunch
+–:–:–:–
+Last day to save up to $200 to TechCrunch Founder Summit on Oct. 16.
+Register now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+2:31 PM PDT · October 17, 2026
+Image Credits:
+picture alliance / Contributor
+(opens in a new window)
+/ Getty Images
+Anthony Ha
+Meta removes language that raised scraping and AI training concerns
+Meta recently updated its commercial terms of use, declaring that the company can “use any content from [a business account’s] domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of” Meta products and services.
+According to
+legal experts interviewed by Nieman Lab
+, this looked like a “remarkable provision” that could give Meta permission to scrape the website of any publisher with a Meta business account and use the content to train the company’s AI models. (While
+Meta defeated a high-profile lawsuit over alleged copyright infringement
+last year,
+other cases
+against AI companies, including Meta, continue.)
+However, a Meta spokesperson
+insisted
+that the updated terms did not reflect a change in the way Meta crawls the web. And now,
+The Verge reports
+that the provision has been removed.
+“We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves,” the company said in a statement. “It does not change how Meta uses web crawlers.”
+Topics
+AI
+,
+Meta
+,
+Social
+November 4
+Boston
+Get 50% off a second pass
+Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner. Save 50% off a second pass. Meet scaling and investment leaders, ask questions, find solutions, and more.
+Last day to save Oct. 16
+Register Now
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight.
+Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+StrictlyVC
+Provides movers and shakers with the info they need to start their day.
+No newsletters se
+---
+[LINK] https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Replit makes OpenAI its default over Anthropic, CEO says
+[LINK] https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
+[PUBLISHED] Sat, 17 Oct 2026 18:48:08 +0000
+[BODY]
+Replit makes OpenAI its default over Anthropic, CEO says | TechCrunch
+–:–:–:–
+Last day to save up to $200 to TechCrunch Founder Summit on Oct. 16.
+Register now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Kimberly White / Getty Images
+AI
+Replit makes OpenAI its default over Anthropic, CEO says
+Kirsten Korosec
+Lucas Ropek
+Rebecca Bellan
+11:48 AM PDT · October 17, 2026
+Replit, the AI coding platform that has become a favorite of startup founders and developers, is no longer working with Anthropic, the company’s CEO and co-founder Amjad Masad said Thursday while onstage at
+TechCrunch Disrupt
+.
+Masad said the decision was made for a number of different reasons, including cost. Replit
+announced
+a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.
+“I think ChatGPT is better now,” Masad said, adding that the company uses an internal benchmark to help assess metrics like performance. “We publish a public benchmark as well, and consistently, Sol and Astra perform better on building vibe-coded applications from scratch. It was a decision based on both cost, partnership, and performance. And for all these reasons, we just felt like they were a better partner for now.”
+It seems, however, that Anthropic hasn’t been completely cut out of Replit, which sells a cloud-based software development platform where users can develop and deploy apps directly from inside their browser.
+After Disrupt, Masad clarified that customers can still access Anthropic models on the platform, but that OpenAI’s ChatGPT is now the default. This shift could significantly reduce Replit’s spend with Anthropic since most customers stick with the default rather than selecting a model themselves.
+Prior to striking a deal with OpenAI, Replit relied on Anthropic’s Claude models to run its platform. That partnership was said to have
+helped
+the company grow its revenue significantly, and Masad noted on stage that Replit had been, until recently, a top-five customer of Anthropic’s.
+“Replit remains model agnostic,” Masad told TechCrunch over the weekend. “Our users can choose Anthropic’s Claude or other supported models…OpenAI is now our preferred partner for powering Replit Agent, based on performance, economics, and the strength of our
+---

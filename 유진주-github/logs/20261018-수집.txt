@@ -1,0 +1,40 @@
+[수집 파이프라인 실행] 2026-10-18 09:28:29
+---
+[TITLE] 트럼프가 “AI 쓰지 마” 하자…IMF 성명서에서 진짜 사라졌다 - 마켓인
+[LINK] https://news.google.com/rss/articles/CBMic0FVX3lxTE9YT01SejJCSHMzOEkyOHk5MXkwR1pfSzJlU1kyMEhpYWlIYlIwWG9BQU9ra1E4S2hrNDlhN0VTN3BlM05UcGhnbXViUTFwby00ZXFVejdqajJpXzBrMVVsT25NQjFNMmp4VDVuV3NRY2xQaWc?oc=5
+[PUBLISHED] Sat, 17 Oct 2026 23:00:03 GMT
+[SUMMARY]
+트럼프가 “AI 쓰지 마” 하자…IMF 성명서에서 진짜 사라졌다&nbsp;&nbsp;마켓인
+---
+[TITLE] Global X Artificial Intelligence & Technology ETF (Ondo Tokenized) - CryptoRank
+[LINK] https://news.google.com/rss/articles/CBMingFBVV95cUxNc00yWGJlT0FST0lTTlRYdDFteW1jZV82eVh6Wno3b05YTXFaMGNsamtLYmZXdlVTdjVmdmVyTUdCSmNRZGZLSUxWUjNtZ1ZOamFWNDh5SFVKbXV5OTNsb0lNTzJaM3VfbGdSOENPNEZ5ZFc3LUNheEROY0pMZV9Kakc3WklVcm41Z0NqakZ4dkRTcTA2TDJpUElSaEo2dw?oc=5
+[PUBLISHED] Sat, 17 Oct 2026 02:55:13 GMT
+[SUMMARY]
+Global X Artificial Intelligence & Technology ETF (Ondo Tokenized)&nbsp;&nbsp;CryptoRank
+---
+[TITLE] “AI라 부르면 적” 트럼프가 꺼낸 ‘초지능’…대체 뭐길래 - 이데일리
+[LINK] https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3VnOWxTVmltVUNDd1Z0eFJ6Tjkza2hlMWpJRk9aVld1QlBqWEFlb3hqWktrZDJQTHphNm1kRnVXcV9raXU0cHBuMXpYd3BfM3htN29vckJ6bTRveENqQ3BXTUNGUUFpdUNTWjdJVkxWWGNCaVh0QklybVBzS3NzWQ?oc=5
+[PUBLISHED] Sat, 17 Oct 2026 01:02:20 GMT
+[SUMMARY]
+“AI라 부르면 적” 트럼프가 꺼낸 ‘초지능’…대체 뭐길래&nbsp;&nbsp;이데일리
+---
+[TITLE] Meta removes language that raised scraping and AI training concerns
+[LINK] https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
+[PUBLISHED] Sat, 17 Oct 2026 21:31:32 +0000
+[SUMMARY]
+A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.
+---
+[TITLE] Anthropic says its workforce has become less junior and is spending more time in meetings
+[LINK] https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
+[PUBLISHED] Sat, 17 Oct 2026 20:21:19 +0000
+[SUMMARY]
+The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.
+---
+[TITLE] Replit makes OpenAI its default over Anthropic, CEO says
+[LINK] https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
+[PUBLISHED] Sat, 17 Oct 2026 18:48:08 +0000
+[SUMMARY]
+Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
