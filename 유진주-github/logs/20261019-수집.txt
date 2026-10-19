@@ -1,0 +1,28 @@
+[수집 파이프라인 실행] 2026-10-19 09:34:18
+---
+[TITLE] [WT논평] The real threat involving artificial intelligence isn’t what you think - 세계일보
+[LINK] https://news.google.com/rss/articles/CBMiWEFVX3lxTE02ZHB6em14UUY4TWNiV0pLMDBVcURSWHQ0dXBYN1B1aWt2cjBUUkFPWHc4cjVkdG1hTklKbGR2c09Hb2Z0bWtZaWJDXzdxcEVBakJfSmtlR0zSAVRBVV95cUxPMlUwNVFPTVZvaWpScDN6bWpPMWR4ZHhVZVp4V2FPU1dKUDdkVDA5RVpDNTFGUXJ0dkI3RVhrMUFLMXdsQ2hybTFXWDdBa2VMZFR6Ujg?oc=5
+[PUBLISHED] Tue, 13 Oct 2026 13:51:31 GMT
+[SUMMARY]
+[WT논평] The real threat involving artificial intelligence isn’t what you think&nbsp;&nbsp;세계일보
+---
+[TITLE] From AI to Autonomous Networks: Mobileum Spark Highlights the Next Frontier of Telecom Intelligence - 뉴스와이어
+[LINK] https://news.google.com/rss/articles/CBMiX0FVX3lxTE56NXFSZVVtNDhyRmt3VHVPZ25PNVZjM2lGODI1TE1tOUFHRVBkVTl0MXJ2SWpiZmI1eXkwMVExbXhiN3FCVG53cHdEdFg3aUF0TUcybXljMkxlUGFkeTc0?oc=5
+[PUBLISHED] Sun, 18 Oct 2026 01:55:00 GMT
+[SUMMARY]
+From AI to Autonomous Networks: Mobileum Spark Highlights the Next Frontier of Telecom Intelligence&nbsp;&nbsp;뉴스와이어
+---
+[TITLE] Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’
+[LINK] https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/
+[PUBLISHED] Sun, 18 Oct 2026 20:37:40 +0000
+[SUMMARY]
+Anthropic said that it will commit 5% of its shares to the fund.
+---
+[TITLE] Disney agrees to hire the majority of Character.AI’s workforce
+[LINK] https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
+[PUBLISHED] Sun, 18 Oct 2026 16:30:00 +0000
+[SUMMARY]
+The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
