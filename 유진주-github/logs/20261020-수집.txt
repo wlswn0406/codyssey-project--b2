@@ -1,0 +1,94 @@
+[수집 파이프라인 실행] 2026-10-20 10:19:51
+---
+[TITLE] 인공지능(AI)은 신앙 형성에 어떤 영향을 주는가?(1) - 캐나다 한국일보
+[LINK] https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wVTY1UHdFS01TQ19IV1Y4VzNEUlhYVlJ1b2NhWlU4Qnp0QUo1TVA0LXkzSW1JT1lqc2FjdW5aTjkwNTVkZUd6UUVlc1NEd3Z3TklfMnFfVGxPOTVSbmRWdnBSaDdCdw?oc=5
+[PUBLISHED] Mon, 19 Oct 2026 07:20:00 GMT
+[SUMMARY]
+인공지능(AI)은 신앙 형성에 어떤 영향을 주는가?(1)&nbsp;&nbsp;캐나다 한국일보
+---
+[TITLE] AI 인프라 열풍의 역설, 투자금 회수는 멀었다 - ITWorld Korea
+[LINK] https://news.google.com/rss/articles/CBMi2wJBVV95cUxPSFNneldRVl9xRGkycmg0ZEp5bVQ4Rkp2RGtTajNNSEtaVjF5b1lsMndMNks5UTB4cG5TaTFONDNBOGdlc0FXYVZmZ0ltb2VPYVpuVFJUUzdrdGFsaERoNkpSN1ZiUGxVZ3Y2aVhSRHZjZFBjeEY5UE94OWpsa2lYODE3bkFCRG5WTkw0MzM0RlJHaXZDUE5OTUJBaFROMmJMY2ZYcU9KTUQ4aXFNZ2t2bTVVS01NU1Z4T2pnc1NQc3RSdWVfN3ZsMlpWN0RGdkRDVlVpdm5uUmd4eU12OXdlUmQzNFEzLU1YNjBLQnRzRlFSMTg3ay1WR1QyTFR4UjB4c0ZyV0o1MV9rRHAxRURPWXZTdTFPVnFYdHBYT2ltREFMeU1HWW04eW5xeTVvUV8tZURzMk45T1BDY1lib2JiZzl6SHhJV3EtMWlwbDlrYV9FODlVak5maVdHVQ?oc=5
+[PUBLISHED] Mon, 19 Oct 2026 00:28:26 GMT
+[SUMMARY]
+AI 인프라 열풍의 역설, 투자금 회수는 멀었다&nbsp;&nbsp;ITWorld Korea
+---
+[TITLE] 국립공주대, ‘AI 공간지능' 국제융합세션 개최 - 세종시민일보
+[LINK] https://news.google.com/rss/articles/CBMic0FVX3lxTFA3M19JSExiM0p5YmVtWUxkclBtQ29FSkROS25mMUtGVGIyRXU4QUFNNkdpamRpNHhMWV9Ed242NU4xR1RLbEtLcDhxSkhDWDVHMnFNTlF0NmI3VVJZM09seTQ4Ujd2dk9uNk1xQnJmWloycVE?oc=5
+[PUBLISHED] Mon, 19 Oct 2026 02:14:29 GMT
+[SUMMARY]
+국립공주대, ‘AI 공간지능' 국제융합세션 개최&nbsp;&nbsp;세종시민일보
+---
+[TITLE] From AI to Autonomous Networks: Mobileum Spark Highlights the Next Frontier of Telecom Intelligence - 세계뉴스통신
+[LINK] https://news.google.com/rss/articles/CBMidEFVX3lxTE5rb2JMb0VCU1NEZ2V4NlBXc2lQQWdna3dTMzkzZXNrLUdic3dvLVJJdlJVLTFXWlM0a24xamZYV3NZQ0piRE9XNVlnVHI5VzZQbWRvVFVNREV2ZHdTa3hmWkd2Y3lnSi0yTGN4d2JkNjVodWtj?oc=5
+[PUBLISHED] Mon, 19 Oct 2026 00:47:34 GMT
+[SUMMARY]
+From AI to Autonomous Networks: Mobileum Spark Highlights the Next Frontier of Telecom Intelligence&nbsp;&nbsp;세계뉴스통신
+---
+[TITLE] Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal
+[LINK] https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/
+[PUBLISHED] Mon, 19 Oct 2026 23:39:38 +0000
+[SUMMARY]
+In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.
+---
+[TITLE] Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says
+[LINK] https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/
+[PUBLISHED] Mon, 19 Oct 2026 22:49:27 +0000
+[SUMMARY]
+AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face&#8217;s chief policy officer, during a discussion at TechCrunch [&#8230;]
+---
+[TITLE] Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’
+[LINK] https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/
+[PUBLISHED] Mon, 19 Oct 2026 22:04:28 +0000
+[SUMMARY]
+Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.
+---
+[TITLE] Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool
+[LINK] https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/
+[PUBLISHED] Mon, 19 Oct 2026 20:09:24 +0000
+[SUMMARY]
+Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.
+---
+[TITLE] Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts
+[LINK] https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/
+[PUBLISHED] Mon, 19 Oct 2026 19:28:34 +0000
+[SUMMARY]
+OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.
+---
+[TITLE] Tolan snags $30M for its AI companion that helps users navigate life
+[LINK] https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/
+[PUBLISHED] Mon, 19 Oct 2026 19:00:12 +0000
+[SUMMARY]
+AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.
+---
+[TITLE] Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago
+[LINK] https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/
+[PUBLISHED] Mon, 19 Oct 2026 18:49:04 +0000
+[SUMMARY]
+Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.
+---
+[TITLE] Tenstorrent hits $6.2B valuation to scale open-weight AI chips
+[LINK] https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/
+[PUBLISHED] Mon, 19 Oct 2026 18:37:27 +0000
+[SUMMARY]
+After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.
+---
+[TITLE] People are using AI to make their smart TVs dumb again
+[LINK] https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/
+[PUBLISHED] Mon, 19 Oct 2026 16:13:22 +0000
+[SUMMARY]
+Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.
+---
+[TITLE] Nvidia launches new open models to run agents in the enterprise and on PCs
+[LINK] https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
+[PUBLISHED] Mon, 19 Oct 2026 15:37:09 +0000
+[SUMMARY]
+Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.
+---
+[TITLE] Laplace Intelligence red-teams robots and self-driving cars before they hit the real world
+[LINK] https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/
+[PUBLISHED] Mon, 19 Oct 2026 12:30:00 +0000
+[SUMMARY]
+University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
