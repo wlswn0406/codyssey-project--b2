@@ -1,0 +1,76 @@
+[수집 파이프라인 실행] 2026-10-22 10:03:17
+---
+[TITLE] 포스코퓨처엠, 美 팔란티어와 손잡고 AI 제조혁신 가속화 - 머니투데이 - 머니투데이
+[LINK] https://news.google.com/rss/articles/CBMibEFVX3lxTE1LMXZqYzJPTFozYlI1TWJRX2tRaUoyQ1BxSlZocjRjYkdxYXpocnNyTzZ6TmpLaWl6bHQtVFNNWlJidXVFLWg3ZVcwWjR3SzFhWi1qWmx3aHYxNE1UMHJQUFM1V2lVWDdjZDh1ZtIBckFVX3lxTFB5c1E0SFpBXzEwUU9LVUlsU3RBc1NfUjBDVDN0TEhrcTR0VWZhNHlZUm1FWDJ1WjhnZWVHTXBmTW11MHVLWXhGRUJ4UGVUMTN0UTJEdXRKU3ZGUTlkRmdRQ0U2bUpWR1NXYUFwMzF6WmxJUQ?oc=5
+[PUBLISHED] Thu, 22 Oct 2026 00:55:40 GMT
+[SUMMARY]
+포스코퓨처엠, 美 팔란티어와 손잡고 AI 제조혁신 가속화 - 머니투데이&nbsp;&nbsp;머니투데이
+---
+[TITLE] AI 주식주문 '정상처리'돼도 고객 뜻과 다르면…누가 책임질까 - 지디넷코리아
+[LINK] https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zVFRxQVp1UWIxenJZNVJZZkRmeGlEMGk0VEVKSXVjODZGdmhGQ2x6NlF4OTNQb3BzaFZVMFZRUnVNOUkweHZvM2RCTjJVZ2ZoMWt4VkdR?oc=5
+[PUBLISHED] Wed, 21 Oct 2026 02:04:22 GMT
+[SUMMARY]
+AI 주식주문 '정상처리'돼도 고객 뜻과 다르면…누가 책임질까&nbsp;&nbsp;지디넷코리아
+---
+[TITLE] Workday Surges on Expanding Enterprise Artificial Intelligence Alliances : 기업주식정보 : JKN - 재경일보
+[LINK] https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wbldpQUxFWkdlQ3Z4N2NrR0tnLXhUOFJXMDZPS1RHUndfRjhOS0xTYkxETnUyVFV3MGN0NnNDTDBZYWJreTQ4VVZGZGFIZXBPVGhsRlg5TkV0clJPclBoZ2p3?oc=5
+[PUBLISHED] Thu, 15 Oct 2026 15:27:00 GMT
+[SUMMARY]
+Workday Surges on Expanding Enterprise Artificial Intelligence Alliances : 기업주식정보 : JKN&nbsp;&nbsp;재경일보
+---
+[TITLE] Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown
+[LINK] https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/
+[PUBLISHED] Wed, 21 Oct 2026 22:51:22 +0000
+[SUMMARY]
+Blackstone’s AI head on why the PE giant isn't panicked by market jitters.
+---
+[TITLE] TechCrunch Founder Summit 2026: Everything you need to know
+[LINK] https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/
+[PUBLISHED] Wed, 21 Oct 2026 21:16:20 +0000
+[SUMMARY]
+TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.
+---
+[TITLE] Meta says Muse has over 10M users, with shopping a top activity
+[LINK] https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/
+[PUBLISHED] Wed, 21 Oct 2026 21:14:19 +0000
+[SUMMARY]
+Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.
+---
+[TITLE] Recursive launches Flint, a laptop coding model it says was largely built by AI
+[LINK] https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/
+[PUBLISHED] Wed, 21 Oct 2026 20:27:41 +0000
+[SUMMARY]
+Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.
+---
+[TITLE] While Amazon blocks AI agents, Walmart rolls out the welcome mat
+[LINK] https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/
+[PUBLISHED] Wed, 21 Oct 2026 19:30:00 +0000
+[SUMMARY]
+As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.
+---
+[TITLE] PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet
+[LINK] https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/
+[PUBLISHED] Wed, 21 Oct 2026 17:59:12 +0000
+[SUMMARY]
+This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.
+---
+[TITLE] Blacksmith hits unicorn valuation after Sequoia leads Series C
+[LINK] https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/
+[PUBLISHED] Wed, 21 Oct 2026 17:18:27 +0000
+[SUMMARY]
+Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.
+---
+[TITLE] AI promises productivity, but for managers, it’s mostly a headache for now
+[LINK] https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/
+[PUBLISHED] Wed, 21 Oct 2026 14:00:00 +0000
+[SUMMARY]
+More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.
+---
+[TITLE] Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’
+[LINK] https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/
+[PUBLISHED] Tue, 20 Oct 2026 16:20:06 +0000
+[SUMMARY]
+It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---

@@ -1,0 +1,620 @@
+[TITLE] 포스코퓨처엠, 美 팔란티어와 손잡고 AI 제조혁신 가속화 - 머니투데이 - 머니투데이
+[LINK] https://news.google.com/rss/articles/CBMibEFVX3lxTE1LMXZqYzJPTFozYlI1TWJRX2tRaUoyQ1BxSlZocjRjYkdxYXpocnNyTzZ6TmpLaWl6bHQtVFNNWlJidXVFLWg3ZVcwWjR3SzFhWi1qWmx3aHYxNE1UMHJQUFM1V2lVWDdjZDh1ZtIBckFVX3lxTFB5c1E0SFpBXzEwUU9LVUlsU3RBc1NfUjBDVDN0TEhrcTR0VWZhNHlZUm1FWDJ1WjhnZWVHTXBmTW11MHVLWXhGRUJ4UGVUMTN0UTJEdXRKU3ZGUTlkRmdRQ0U2bUpWR1NXYUFwMzF6WmxJUQ?oc=5
+[PUBLISHED] Thu, 22 Oct 2026 00:55:40 GMT
+[BODY]
+Google News
+---
+[TITLE] AI 주식주문 '정상처리'돼도 고객 뜻과 다르면…누가 책임질까 - 지디넷코리아
+[LINK] https://news.google.com/rss/articles/CBMiVkFVX3lxTE4zVFRxQVp1UWIxenJZNVJZZkRmeGlEMGk0VEVKSXVjODZGdmhGQ2x6NlF4OTNQb3BzaFZVMFZRUnVNOUkweHZvM2RCTjJVZ2ZoMWt4VkdR?oc=5
+[PUBLISHED] Wed, 21 Oct 2026 02:04:22 GMT
+[BODY]
+Google News
+---
+[TITLE] Workday Surges on Expanding Enterprise Artificial Intelligence Alliances : 기업주식정보 : JKN - 재경일보
+[LINK] https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wbldpQUxFWkdlQ3Z4N2NrR0tnLXhUOFJXMDZPS1RHUndfRjhOS0xTYkxETnUyVFV3MGN0NnNDTDBZYWJreTQ4VVZGZGFIZXBPVGhsRlg5TkV0clJPclBoZ2p3?oc=5
+[PUBLISHED] Thu, 15 Oct 2026 15:27:00 GMT
+[BODY]
+Google News
+---
+[TITLE] Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown
+[LINK] https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/
+[PUBLISHED] Wed, 21 Oct 2026 22:51:22 +0000
+[BODY]
+Blackstone's Jas Khaira says fears over AI-buildout debt are overblown | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Slava Blazer Photography
+AI
+Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown
+Marina Temkin
+3:51 PM PDT · October 21, 2026
+Private equity giant Blackstone is putting itself at the center of the AI boom, firm veteran Jas Khaira discussed last week on stage
+at TechCrunch Disrupt.
+It is writing checks via various strategies, ranging from offering massive loans to data centers to investing in frontier AI models and applications.
+Earlier this year, the firm launched Blackstone N1 (BXN1), a San Francisco-based central hub for its AI initiatives. The group is led by Khaira, who relocated from New York to be at the epicenter of AI.
+Unlike earlier tech cycles such as mobile or SaaS, which allowed companies to reach significant scale with moderate capital, the transition to AI requires staggering amounts of investment. That need for capital is precisely why Blackstone, with its $1.3 trillion in assets under management, could play such a critical role in this tech shift.
+Khaira emphasized that Blackstone sets itself apart from traditional venture capitalists through its focus on compute financing and its ability to offer flexible capital structures, ranging from debt to equity. And it has been investing aggressively.
+“We’re the largest owner of compute outside of the hyperscalers today, whether it’s investments in neo clouds, investments in data centers, and being able to use that compute strategically to support companies,” Khaira said.
+For instance, BXN1 played a key role in several compute-related deals, among them
+Crux AI,
+a neocloud launched in partnership with Google to commercialize its custom TPUs, to which Blackstone committed $5 billion as an investor. It also backed
+four-year-old Etched
+, a chip startup whose rapid development has caught investor attention. Neoclouds are cloud providers that rent out AI GPU infrastructure.
+Blackstone pioneered a financing structure that allowed it to lend massive sums to venture-backed cloud neoclouds by analyzing both committed customer contracts and using GPUs pledged as collateral.
+Blackstone’s fi
+---
+[LINK] https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Meta says Muse has over 10M users, with shopping a top activity
+[LINK] https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/
+[PUBLISHED] Wed, 21 Oct 2026 21:14:19 +0000
+[BODY]
+Meta says Muse has over 10M users, with shopping a top activity | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Samuel Boivin/NurPhoto
+(opens in a new window)
+/ Getty Images
+AI
+Meta says Muse has over 10M users, with shopping a top activity
+Sarah Perez
+2:14 PM PDT · October 21, 2026
+Meta said during its third-quarter earnings call on Wednesday that its AI app Muse has been adopted by more than 10 million users, confirming
+estimates released earlier this week
+by market intelligence firm Sensor Tower.
+But it is how people are using it, and how much they’re spending that has caught CEO Mark Zuckerberg’s attention. Zuckerberg said about 25% of people who set up Muse now use it daily, helping improve retention.
+He also shared that over a quarter of Muse’s engaged users who were shopping via the AI agent, had an average purchase size of over $200, which was surprising even to industry insiders.
+“Plaid told us that they hadn’t seen activity like they’re seeing with their connector on any other service before,” Zuckerberg said, referring to the financial technology company that connects payment apps to customers’ bank accounts. Muse uses Plaid’s connector to enable agentic shopping.
+Beyond shopping, Zuckerberg said other popular uses for Muse include personal productivity tasks, such as connecting the AI agent to users’ email or calendars. The exec stressed that this indicates users trusted Muse’s security setup, which includes a feature called “Muse Secure VM” designed to protect their data and privacy. He also mentioned that the forthcoming “Muse Confidential VM” will prevent even Meta from seeing users’ content.
+Now that Muse has achieved “product-market fit,” Zuckerberg said Meta’s focus will shift to scaling the AI agent, increasing revenue, and optimizing its compute costs. Remarkably, the tech company is forecasting that Muse will eventually bring in more revenue per user than its “family of apps” users do today — meaning its users on Facebook, Instagram, WhatsApp, and Messenger. Currently, that figure is around “several hundreds of dollars annually,” Zuckerberg said.
+Meta has said it ultimately intends to monetize Muse by keeping it free for most users, but keeping a per
+---
+[TITLE] Recursive launches Flint, a laptop coding model it says was largely built by AI
+[LINK] https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/
+[PUBLISHED] Wed, 21 Oct 2026 20:27:41 +0000
+[BODY]
+Recursive launches Flint, a laptop coding model it says was largely built by AI | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Piaras Ó Mídheach/Sportsfile / Getty Images
+AI
+Recursive launches Flint, a laptop coding model it says was largely built by AI
+Aditya Mehta
+1:27 PM PDT · October 21, 2026
+Recursive
+, an AI startup founded last year, is starting to live up to its name. The company, which is trying to build AI that can improve itself, released its first model,
+Flint
+, on Wednesday. Flint is a free coding model that can run on a laptop and was built largely with the help of AI.
+Recursive’s automated research system, which it calls the Eureka Machine, helped with nearly every step of Flint’s development, the company says. That let a small team build the model from scratch in under four months.
+Flint is an early public test of recursive self-improvement: the idea that AI can build better AI, which in turn builds even better AI. It’s also one of the most debated ideas in the industry. Some researchers fear that AI improving itself could slip out of human control. For now, Recursive’s version is more limited: an AI research assistant overseen by people that produced a model small enough for a laptop.
+The company emerged from stealth in May with
+$650 million in funding
+at a $4.65 billion valuation, from backers including GV, Nvidia, and AMD Ventures. Recursive is led by CEO Richard Socher, Salesforce’s former chief scientist.
+Because Flint runs on a user’s own computer rather than a company’s cloud servers, developers can use it offline, keep their code private, and avoid the
+usage fees
+that AI cloud services charge based on how much text the model processes. The model is free to download on Hugging Face, the popular site for sharing AI models, under the Apache 2.0 license, an open source license that allows free use and modification.
+Flint is a mixture-of-experts model, meaning it uses only a small slice of itself for any given task: just 2.5 billion of its 40 billion settings, known as parameters, at a time. That makes it light enough for an ordinary laptop and far smaller than Meta’s
+Muse Spark Open
+, an open model built for Macs that was released last week. Muse Spa
+---
+[TITLE] While Amazon blocks AI agents, Walmart rolls out the welcome mat
+[LINK] https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/
+[PUBLISHED] Wed, 21 Oct 2026 19:30:00 +0000
+[BODY]
+While Amazon blocks AI agents, Walmart rolls out the welcome mat | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Scott Olson / Getty Images
+AI
+While Amazon blocks AI agents, Walmart rolls out the welcome mat
+Sarah Perez
+12:30 PM PDT · October 21, 2026
+Walmart is embracing agentic commerce with the launch of its own Agent Gateway to manage transactions and other new features aimed at customers using AI agents, the retailer announced on Wednesday. The move comes shortly after Walmart’s top competitor,
+Amazon, began blocking AI agents
+from making purchases on behalf of online shoppers.
+The company’s embrace of AI technology differentiates it from other online businesses, including not only Amazon but also various travel and booking sites, which have responded to the growing consumer adoption of AI agents by
+locking them out of their websites completely
+. Walmart, on the other hand, had already
+announced
+a partnership with a leading agent in the space, Meta’s Muse, and offers integrations with popular AI apps like ChatGPT, Gemini, and others.
+Now it’s expanding on those efforts with more technology to prepare for a world where AI agents become mainstream, said Walmart president and CEO John Furner, speaking at the Masters of Scale Summit in San Francisco on Wednesday. The technology will support agentic shopping from both Walmart and the company’s discount warehouse, Sam’s Club.
+It starts with Walmart’s Agent Gateway, the company’s new MCP server, which is designed to help approved agents connect to Walmart over the model context protocol (MCP). The protocol, originally created by Anthropic, allows AI agents to connect to external data sources, tools, and other workflows. In this case, it lets an AI agent search across Walmart’s online inventory and make purchases on behalf of the agent’s user.
+What’s more, the retailer says that its Agent Gateway will be able to help customers shop for their usual brands or items without having to share their personal information or purchase history directly with the agent.
+The company has also developed new technology to differentiate an agent’s purchases from those initiated directly by the customer and to give shoppers more control over 
+---
+[TITLE] PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet
+[LINK] https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/
+[PUBLISHED] Wed, 21 Oct 2026 17:59:12 +0000
+[BODY]
+PHP Armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+PM images
+(opens in a new window)
+/ Getty Images
+Security
+PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet
+Julie Bort
+10:59 AM PDT · October 21, 2026
+The U.S. National Security Agency’s sent out
+an alarming warning
+on Wednesday that two critical holes had been found in PHP, with patches already
+issued by the PHP Foundation
+.
+PHP is a server-side programming language so widely used for web applications that it powers
+roughly 70% of the websites
+on the internet; by some accounts, that’s
+more than 33 million sites
+. It is also used by popular content management systems like WordPress.
+The NSA warned that these holes are so severe that if a website can’t be patched immediately, it should be pulled off the web until it can be. The holes allow attackers to infiltrate the server’s file system or a database that may be used by the web app.
+Interestingly, these holes have been tucked away in all versions of PHP since version 5, which was released in 2004. Websites not running relatively current versions of PHP will have some updating work to do, as PHP 8.1 and older versions are no longer supported. The recommendation is to update the web server to the current version of PHP, which is 8.5.12.
+So how did two such ubiquitous, decades-old flaws that affect nearly every website on the internet suddenly come to light? AI, naturally, particularly via OpenAI and Google’s Wiz.
+Security testing company Calif was engaged in OpenAI’s “Patch the Planet” initiative to find flaws in open source software. Using GPT‑5.6 Sol, it found one of the flaws, OpenAI disclosed
+in a blog post
+. Separately, the Wiz team also used AI, namely its Wiz Atlas security AI agent, Gemini 4 Argon, and GPT-5.6 Sol to find multiple vulnerabilities in PHP.
+Both OpenAI and Wiz followed responsible security research practices and worked with PHP on patches before publicly disclosing the flaws. Then they all worked together to flesh out what they found, and test the patches, drawing in a host of others to help.
+Wiz thanked Automattic, Akamai, AWS, Cloudflare, Fastl
+---
+[TITLE] Blacksmith hits unicorn valuation after Sequoia leads Series C
+[LINK] https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/
+[PUBLISHED] Wed, 21 Oct 2026 17:18:27 +0000
+[BODY]
+Blacksmith hits unicorn valuation after Sequoia leads Series C | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+10:18 AM PDT · October 21, 2026
+Image Credits:
+Blacksmith
+Dominic-Madori Davis
+Blacksmith hits unicorn valuation after Sequoia leads Series C
+Blacksmith, a platform that helps companies more efficiently build and test software, including code written by AI,
+announced Wednesday
+a
+$66 million Series C
+funding round led by Sequoia that values the company at $1 billion.
+In announcing the round, Blacksmith co-founder and CEO Aditya Jayaprakash said the company was founded to make continuous integration (CI) — the process of building, testing, merging, and validating code changes —
+“less painful.”
+In a blog post, he said that “most companies are struggling to keep up with the volume of CI they need to run,” especially in an era where so much code is written by AI.
+“As agents write more of the world’s software, the question that matters is whether it can be trusted,” he added.
+The company also announced that its annual recurring revenue has grown 17x and that it has run over 90 million CI jobs, or individual automated code checks. Customers include Mercury and Granola.
+The Series C
+comes just two months
+after its $45 million Series B, which valued the company at $550 million. A year ago, Blacksmith was valued at $60 million after raising a $10 million Series A. It has raised $125 million to date.
+Topics
+AI
+,
+Blacksmith
+,
+In Brief
+,
+Sequoia
+,
+Startups
+,
+unicorn
+,
+Venture
+November 4
+Boston
+Buy One Pass, Get a Second Free
+Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free
+Book before the BOGO deal expires
+Register Now
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight.
+Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+StrictlyVC
+Provides movers and shakers with the info they need to start their day.
+No newsletters selected.
+Subscribe
+By submitting your 
+---
+[LINK] https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 51.105740931s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '51s'}]}}
+---
