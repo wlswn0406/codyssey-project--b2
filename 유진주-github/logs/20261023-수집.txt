@@ -1,0 +1,100 @@
+[수집 파이프라인 실행] 2026-10-23 10:03:44
+---
+[TITLE] The AI Era, New Possibilities Unlocked by Intelligent Library Service Platforms “Futurenuri” - 서울시티
+[LINK] https://news.google.com/rss/articles/CBMib0FVX3lxTE5hbk52M2FCZF9ySGhVVDRIUWRoSmhhSzJtUzlSMV8ydmlZOTlvcFA0aUtYcl9UaFBEQ3RRalNZTXpMMGlHbUllTTRnOTRob2xGYTJScnd0ZnlSbnVqdDgtMXRrTktsR2F6NUg4WEtwRQ?oc=5
+[PUBLISHED] Fri, 23 Oct 2026 00:22:26 GMT
+[SUMMARY]
+The AI Era, New Possibilities Unlocked by Intelligent Library Service Platforms “Futurenuri”&nbsp;&nbsp;서울시티
+---
+[TITLE] The role of causality in explainable artificial intelligence - alphaXiv
+[LINK] https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FX3NmdC1NREVvWmU3UThwLUZxdlR6cGMtM3VNVzdQWThxZzB1STYycENZWEIxRFc1Wk5KT0lVd0hvN25scEEzMnNDSGs0b1dTTVZKSA?oc=5
+[PUBLISHED] Thu, 22 Oct 2026 05:02:25 GMT
+[SUMMARY]
+The role of causality in explainable artificial intelligence&nbsp;&nbsp;alphaXiv
+---
+[TITLE] What “AI” leaves out — and why it matters - Korea JoongAng Daily
+[LINK] https://news.google.com/rss/articles/CBMilgFBVV95cUxNUjRQeF9XdEJLV3F2YzJMUlkwUjRqaGVvNlAxeEVlNFVldk1wYmFLSEZaekt3QkhxSDBpSjZrcTcyNDBfTDJsRUZHb0RKUDRfc3dITnNjWTV3eE05ZVVnaHFnOUN2UkhBdko3dVpTQmdtTjl4cGFfcC1ROGM4cng5TE9UTXNZN19KZ2FNSjB5Sm1DWW1WZ2c?oc=5
+[PUBLISHED] Thu, 22 Oct 2026 00:34:11 GMT
+[SUMMARY]
+What “AI” leaves out — and why it matters&nbsp;&nbsp;Korea JoongAng Daily
+---
+[TITLE] Left alone with nothing to do, AI agents started playing
+[LINK] https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/
+[PUBLISHED] Fri, 23 Oct 2026 00:45:37 +0000
+[SUMMARY]
+MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.
+---
+[TITLE] OpenAI working on new $30B raise at $1.25T valuation ahead of IPO
+[LINK] https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
+[PUBLISHED] Thu, 22 Oct 2026 22:08:24 +0000
+[SUMMARY]
+Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.
+---
+[TITLE] 1Password launches a way for AI agents to log in on your behalf without seeing your password
+[LINK] https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
+[PUBLISHED] Thu, 22 Oct 2026 19:07:09 +0000
+[SUMMARY]
+The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.
+---
+[TITLE] OpenAI makes its Jev competitor widely available as decision model competition heats up
+[LINK] https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/
+[PUBLISHED] Thu, 22 Oct 2026 19:00:00 +0000
+[SUMMARY]
+OpenAI is launching its decision model to the world. Can it compete with the original Jev?
+---
+[TITLE] Canva releases its first image generation model
+[LINK] https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/
+[PUBLISHED] Thu, 22 Oct 2026 19:00:00 +0000
+[SUMMARY]
+Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.
+---
+[TITLE] Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’
+[LINK] https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/
+[PUBLISHED] Thu, 22 Oct 2026 18:43:53 +0000
+[SUMMARY]
+Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.
+---
+[TITLE] Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise
+[LINK] https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/
+[PUBLISHED] Thu, 22 Oct 2026 16:47:17 +0000
+[SUMMARY]
+Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.
+---
+[TITLE] Uber puts all 30,000 employees on ChatGPT Work
+[LINK] https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/
+[PUBLISHED] Thu, 22 Oct 2026 16:00:00 +0000
+[SUMMARY]
+The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.
+---
+[TITLE] Spotify’s current AI bet is about being the music service that agents choose
+[LINK] https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/
+[PUBLISHED] Thu, 22 Oct 2026 15:03:58 +0000
+[SUMMARY]
+Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.
+---
+[TITLE] Claude Duet app is Anthropic’s bet on agents
+[LINK] https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/
+[PUBLISHED] Thu, 22 Oct 2026 13:53:26 +0000
+[SUMMARY]
+Claude Duet is available through waitlist for Pro and Max plan users.
+---
+[TITLE] Nirva raises $33M for a pendant that only listens to you
+[LINK] https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/
+[PUBLISHED] Thu, 22 Oct 2026 13:26:52 +0000
+[SUMMARY]
+Nirva will ship its $249 ambient AI pendant by the end of the year.
+---
+[TITLE] DeepSeek reportedly raises $15B days after US restrictions
+[LINK] https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/
+[PUBLISHED] Thu, 22 Oct 2026 13:11:13 +0000
+[SUMMARY]
+DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.
+---
+[TITLE] Meta wants to pay for its broad AI buildout with a newly created class of stock
+[LINK] https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/
+[PUBLISHED] Wed, 21 Oct 2026 22:45:34 +0000
+[SUMMARY]
+The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
