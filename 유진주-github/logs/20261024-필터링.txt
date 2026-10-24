@@ -1,0 +1,205 @@
+[TITLE] 캐나다, AI 산업화에 7억 달러 투입…의료·에너지·농업·로봇 등 5대 산업 집중 육성 - 인공지능신문
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lNzg1N3I1RU5UczBmeGc4dzlFV0x4aFVlWnozZW5DQmRjOTBTZk1Kc0JZQUdpRVRJbjFJcUd1QWRfMHFocE55c3pWaFFhVzNZLVlfLTNfUjZ0SmpwenUtMmUyMi0xT3c?oc=5
+[PUBLISHED] Fri, 23 Oct 2026 09:47:38 GMT
+[BODY]
+Google News
+---
+[LINK] https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuOXlZQjAxdU45VDl0Q3dSS2RvbEVJTGJsY2Zwa2djY1ZybFByVno1OUdPQTk5LXlfU2dxMVB3WnQ2WnlnR25Nc0tqUQ?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] 트럼프가 “AI 쓰지 마” 하자…IMF 성명서에서 진짜 사라졌다 - 이데일리
+[LINK] https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWdyTVZpYWh1dDNlNDh2YlMzdnh2TTl0eVA4b0k3N0x2VWVqQ1VXWmRNbE1CMGtMMHdKeUgxODJmRG9zTmVET2N2MFZIbnMyVjBDR2dvaU9nQ1BQc2E1Smx1T0x6MDZYTk81dUlEazNJcDVUbE9PLWpUZ0MxSGtpLQ?oc=5
+[PUBLISHED] Sat, 17 Oct 2026 23:00:03 GMT
+[BODY]
+Google News
+---
+[TITLE] OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”
+[LINK] https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
+[PUBLISHED] Fri, 23 Oct 2026 23:05:49 +0000
+[BODY]
+OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Samuel Boivin/NurPhoto / Getty Images
+AI
+OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”
+Tim Fernholz
+4:05 PM PDT · October 23, 2026
+On Friday, OpenAI said that it will train its models using cached copies and simulated versions of the internet instead of the live web because the models are too unpredictable to be trusted with live internet access.
+The frontier lab announced its new policy two weeks after its rival, Anthropic,
+began limiting
+its newest and, in theory, most capable models from accessing the live internet. Researchers adopted these policies after
+months of incidents
+in which models pursuing training tasks broke into external systems in search of answers, collaborated on obscure message boards, and developed exotic hacking strategies.
+“Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access,” the company said in a
+blog post
+.
+OpenAI said that as recently as September 20, one of its frontier models exploited a misconfiguration to access the internet. That led the company to pause training work for the rest of the month so it could develop and test new approaches to securing its models.
+The decision to train these models in sandboxes cut off from the internet is notable because employees at frontier labs have insisted that doing so would be nearly infeasible.
+Keeping AI data centers separate from the internet “would need research teams to essentially be embedded inside of data centers in Iowa or wherever else around the world,” former OpenAI researcher Steven Adler
+told Fortune
+this month. “It’s a lot of overhead, and it isn’t clear to me that the safety benefits of it are large enough to merit just how large a tax it would be for a company to do it unilaterally.”
+“In nearly every post I make on X, without fail, I get between five and ten comments about my inability to secure a sandbox, or asking why the hell w
+---
+[LINK] https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia
+[LINK] https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/
+[PUBLISHED] Fri, 23 Oct 2026 04:00:00 +0000
+[BODY]
+Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Disrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off.
+REGISTER NOW.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+inDrive
+Transportation
+Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia
+Jagmeet Singh
+9:00 PM PDT · October 22, 2026
+Ride-hailing company
+inDrive
+, known for letting passengers and drivers negotiate fares, is working with Chinese autonomous driving firm Pony.ai and Nvidia to begin testing robotaxis in Kazakhstan in 2027.
+The companies said Friday that they had signed a memorandum of understanding to explore bringing Pony.ai’s robotaxis to inDrive’s platform — a reflection of the growing interest in self-driving technology beyond the U.S. and China.
+Testing will begin in Kazakhstan’s capital, Astana, in the first half of 2027, inDrive CTO Yuri Misnik told TechCrunch. The tests will initially involve a safety operator, with fully driverless rides as the eventual goal.
+Under the proposed plan, Pony.ai would provide its Gen-7 robotaxis, which inDrive would offer through its ride-hailing app and operate in Kazakhstan. Nvidia, on the other hand, would supply the AI technology, including its Hyperion platform and Halos safety system.
+The move comes as ride-hailing companies expand their push into robotaxis. Earlier this month, Uber announced plans to
+test Pony.ai’s robotaxis in London
+, where it has also started offering supervised autonomous rides with British startup Wayve, an
+investor-backed partner
+. Uber is also working with multiple robotaxi companies in other markets, including the Middle East.
+Having built its business around affordable rides, inDrive is now looking to bring a similar focus to autonomous ride-hailing as it explores a market where Uber and other rivals are already making moves.
+“Our approach is capital-light by design,” said Misnik. “We work with a range of partners in different markets, combining their expertise with ours to deliver a better customer experience.”
+Nvidia says its Hyperion platform could lower the cost of developing robotaxis by giving companies a ready-made foundation of sensors and computing technology, rather than requiring them to build and integrate everything themselve
+---

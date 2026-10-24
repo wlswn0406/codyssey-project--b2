@@ -1,0 +1,40 @@
+[수집 파이프라인 실행] 2026-10-24 10:12:52
+---
+[TITLE] 캐나다, AI 산업화에 7억 달러 투입…의료·에너지·농업·로봇 등 5대 산업 집중 육성 - 인공지능신문
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lNzg1N3I1RU5UczBmeGc4dzlFV0x4aFVlWnozZW5DQmRjOTBTZk1Kc0JZQUdpRVRJbjFJcUd1QWRfMHFocE55c3pWaFFhVzNZLVlfLTNfUjZ0SmpwenUtMmUyMi0xT3c?oc=5
+[PUBLISHED] Fri, 23 Oct 2026 09:47:38 GMT
+[SUMMARY]
+캐나다, AI 산업화에 7억 달러 투입…의료·에너지·농업·로봇 등 5대 산업 집중 육성&nbsp;&nbsp;인공지능신문
+---
+[TITLE] [포토] 주제 발표하는 이시행 LG AI연구원 Physical Intelligence Lab Tech Lead - 아이뉴스24
+[LINK] https://news.google.com/rss/articles/CBMiS0FVX3lxTFBuOXlZQjAxdU45VDl0Q3dSS2RvbEVJTGJsY2Zwa2djY1ZybFByVno1OUdPQTk5LXlfU2dxMVB3WnQ2WnlnR25Nc0tqUQ?oc=5
+[PUBLISHED] Thu, 22 Oct 2026 06:05:47 GMT
+[SUMMARY]
+[포토] 주제 발표하는 이시행 LG AI연구원 Physical Intelligence Lab Tech Lead&nbsp;&nbsp;아이뉴스24
+---
+[TITLE] 트럼프가 “AI 쓰지 마” 하자…IMF 성명서에서 진짜 사라졌다 - 이데일리
+[LINK] https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWdyTVZpYWh1dDNlNDh2YlMzdnh2TTl0eVA4b0k3N0x2VWVqQ1VXWmRNbE1CMGtMMHdKeUgxODJmRG9zTmVET2N2MFZIbnMyVjBDR2dvaU9nQ1BQc2E1Smx1T0x6MDZYTk81dUlEazNJcDVUbE9PLWpUZ0MxSGtpLQ?oc=5
+[PUBLISHED] Sat, 17 Oct 2026 23:00:03 GMT
+[SUMMARY]
+트럼프가 “AI 쓰지 마” 하자…IMF 성명서에서 진짜 사라졌다&nbsp;&nbsp;이데일리
+---
+[TITLE] OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”
+[LINK] https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
+[PUBLISHED] Fri, 23 Oct 2026 23:05:49 +0000
+[SUMMARY]
+OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
+---
+[TITLE] From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026
+[LINK] https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/
+[PUBLISHED] Fri, 23 Oct 2026 19:06:23 +0000
+[SUMMARY]
+Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.
+---
+[TITLE] Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia
+[LINK] https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/
+[PUBLISHED] Fri, 23 Oct 2026 04:00:00 +0000
+[SUMMARY]
+The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
