@@ -1,0 +1,28 @@
+[수집 파이프라인 실행] 2026-10-25 09:38:15
+---
+[TITLE] The AI graveyard: a running list of projects and startups that didn’t make it
+[LINK] https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+[PUBLISHED] Sat, 24 Oct 2026 19:00:00 +0000
+[SUMMARY]
+From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+---
+[TITLE] Block’s new voice model sounds eerily human
+[LINK] https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/
+[PUBLISHED] Sat, 24 Oct 2026 16:00:00 +0000
+[SUMMARY]
+Block said that the voice model can run locally on a MacBook M4 Max
+---
+[TITLE] Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.
+[LINK] https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/
+[PUBLISHED] Sat, 24 Oct 2026 15:00:00 +0000
+[SUMMARY]
+A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
+---
+[TITLE] Here are the top AI agents that can live in your text messages
+[LINK] https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/
+[PUBLISHED] Sat, 24 Oct 2026 14:00:00 +0000
+[SUMMARY]
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
