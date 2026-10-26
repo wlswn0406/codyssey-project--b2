@@ -1,0 +1,22 @@
+[수집 파이프라인 실행] 2026-10-26 09:48:50
+---
+[TITLE] Grok releases the first seven minutes of its AI-generated ‘Odyssey’
+[LINK] https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/
+[PUBLISHED] Sun, 25 Oct 2026 21:31:16 +0000
+[SUMMARY]
+The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
+---
+[TITLE] AI delivers ‘zero financial payoff’ to most companies, Apollo economist says
+[LINK] https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
+[PUBLISHED] Sun, 25 Oct 2026 16:57:32 +0000
+[SUMMARY]
+"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
+---
+[TITLE] The hottest AI wearables and gadgets you should know about
+[LINK] https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/
+[PUBLISHED] Sun, 25 Oct 2026 14:10:00 +0000
+[SUMMARY]
+We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
