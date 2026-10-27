@@ -1,0 +1,34 @@
+[수집 파이프라인 실행] 2026-10-27 10:39:41
+---
+[TITLE] Cohere says Alibaba’s Qwen model tried to send a file to Beijing
+[LINK] https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/
+[PUBLISHED] Tue, 27 Oct 2026 01:12:21 +0000
+[SUMMARY]
+An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.
+---
+[TITLE] Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked
+[LINK] https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/
+[PUBLISHED] Mon, 26 Oct 2026 16:49:42 +0000
+[SUMMARY]
+Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.
+---
+[TITLE] SpaceX locks in $40B GPU financing deal with Apollo
+[LINK] https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/
+[PUBLISHED] Mon, 26 Oct 2026 16:46:36 +0000
+[SUMMARY]
+The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.
+---
+[TITLE] Anthropic officially files for its public debut
+[LINK] https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/
+[PUBLISHED] Mon, 26 Oct 2026 14:35:22 +0000
+[SUMMARY]
+Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.
+---
+[TITLE] Will AI expose the rickety infrastructure of the internet?
+[LINK] https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/
+[PUBLISHED] Sat, 24 Oct 2026 20:15:33 +0000
+[SUMMARY]
+The moment you realize the internet is "held together by glue and dreams."
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
