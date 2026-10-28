@@ -1,0 +1,106 @@
+[수집 파이프라인 실행] 2026-10-28 10:52:15
+---
+[TITLE] 트럼프 “공문서 등 모든 분야서 AI용어 금지할 것, SI 모두가 사용” - 경향신문
+[LINK] https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SLXVrdGV6amtXTFNZY2JYbjFBLVpRM2dwaG1JVzJSZEdKOVlCdERiQktRUUh4anM4cUprR19YclkxWk5WcWlvVV9qWWNlT1AweUllSjVDZ2NTZ9IBX0FVX3lxTFBpRjdpZ2Y0ZTczZlUwSXlTVjFUTXViVWJIMHYyNW9Rb0txLUlkTm5Xd0dTUFZidW40bnUwOFFSd2Fhb0cyY0RfYzhqZEhScDBrVlBLcFdrMjBJbk9mbXNv?oc=5
+[PUBLISHED] Wed, 28 Oct 2026 01:24:00 GMT
+[SUMMARY]
+트럼프 “공문서 등 모든 분야서 AI용어 금지할 것, SI 모두가 사용”&nbsp;&nbsp;경향신문
+---
+[TITLE] 트럼프 "모든 분야서 AI 용어 사용 공식 금지…SI로 명칭 변경할 것" - 조세일보
+[LINK] https://news.google.com/rss/articles/CBMidEFVX3lxTFA4T05TcTF5TGtKMnpUX1p2N1V2YVI1ckhpajJGcWlheDJvTF9FbVpwbWQ2WUJCd3hyUGNXWGRXRVM3ZFRTZ29tbVd1Q1lOOXAzWVVMU1FjaS1KZER0dTFKYTBmaEQzbTFzbVVWLUZrZ1lGd2Rm?oc=5
+[PUBLISHED] Wed, 28 Oct 2026 00:29:27 GMT
+[SUMMARY]
+트럼프 "모든 분야서 AI 용어 사용 공식 금지…SI로 명칭 변경할 것"&nbsp;&nbsp;조세일보
+---
+[TITLE] 트럼프 "모든 분야서 AI용어 공식금지할 것"…또 SI 명칭 강요 - 연합뉴스
+[LINK] https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pN0Z1QWJVVkR1ekdzZy1DTkplQ2VBYlFTOEVtTWhXZXJqaUpfeUVIcVVMYWV6NmMzU1BHZE9SVmYtQno4WGI5MXpDOU1WTWpiUWlSbnFIQU0xM2vSAWBBVV95cUxNSTZiS0U2MGo4UDlEdkc4cTBpZmY3X3JOejFhbmZJMmp6T2R6ZFktNm1ublJFLUFBdXJtS1dMZ21UdzN6ZmZabGpDem10djM4Y0l5LUJjUTgxV3YxenJaekY?oc=5
+[PUBLISHED] Tue, 27 Oct 2026 17:25:12 GMT
+[SUMMARY]
+트럼프 "모든 분야서 AI용어 공식금지할 것"…또 SI 명칭 강요&nbsp;&nbsp;연합뉴스
+---
+[TITLE] 트럼프 “인공지능 AI 대신 초지능 SI로 불러야”…공식 문서서 AI 용어 퇴출 추진 - 파이낸스투데이
+[LINK] https://news.google.com/rss/articles/CBMibEFVX3lxTE8yVWJ3bE5teUVVMkdYQ0NpUjJGVUxpZVRSU1lVeDJSems0eEZQTldBaUdfUTlJWkV5ZkdvWkp5VDVkOTEwLWE2bFFrUUpVQ1RvNXBmTEQ0Vl9MdnlJeFczUUVkOU5oamhFVFlXdg?oc=5
+[PUBLISHED] Tue, 27 Oct 2026 23:00:01 GMT
+[SUMMARY]
+트럼프 “인공지능 AI 대신 초지능 SI로 불러야”…공식 문서서 AI 용어 퇴출 추진&nbsp;&nbsp;파이낸스투데이
+---
+[TITLE] VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more
+[LINK] https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/
+[PUBLISHED] Wed, 28 Oct 2026 01:15:28 +0000
+[SUMMARY]
+Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.
+---
+[TITLE] Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
+[LINK] https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/
+[PUBLISHED] Tue, 27 Oct 2026 23:34:27 +0000
+[SUMMARY]
+A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.
+---
+[TITLE] The data center boom has an upside: innovation for the US grid
+[LINK] https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/
+[PUBLISHED] Tue, 27 Oct 2026 22:55:41 +0000
+[SUMMARY]
+As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.
+---
+[TITLE] Bank of America kindly asks that you don’t share your banking password with your AI assistant
+[LINK] https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/
+[PUBLISHED] Tue, 27 Oct 2026 21:44:34 +0000
+[SUMMARY]
+The banking giant reminds customers that "you're responsible for activity" resulting from your AI agents' access.
+---
+[TITLE] Who’s really in charge at Anthropic after the IPO?
+[LINK] https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/
+[PUBLISHED] Tue, 27 Oct 2026 21:38:28 +0000
+[SUMMARY]
+Here's a clear explanation of Anthropic's incredibly complex governance structure.
+---
+[TITLE] Disruptive raises $10B fund to make big bets on at least 10 companies
+[LINK] https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/
+[PUBLISHED] Tue, 27 Oct 2026 18:55:35 +0000
+[SUMMARY]
+Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.
+---
+[TITLE] Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?
+[LINK] https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/
+[PUBLISHED] Tue, 27 Oct 2026 17:08:08 +0000
+[SUMMARY]
+TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.
+---
+[TITLE] Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering
+[LINK] https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/
+[PUBLISHED] Tue, 27 Oct 2026 16:30:57 +0000
+[SUMMARY]
+Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.
+---
+[TITLE] Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace
+[LINK] https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/
+[PUBLISHED] Tue, 27 Oct 2026 14:59:09 +0000
+[SUMMARY]
+Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.
+---
+[TITLE] Opera introduces a new web standard to let users deploy AI locally in their browser
+[LINK] https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/
+[PUBLISHED] Tue, 27 Oct 2026 13:00:00 +0000
+[SUMMARY]
+The new standard, WebAI, is designed to work with a variety of AI models.
+---
+[TITLE] General Compute raises $100 million Series A, countering the neocloud disaster narrative
+[LINK] https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/
+[PUBLISHED] Tue, 27 Oct 2026 13:00:00 +0000
+[SUMMARY]
+General Compute is betting on inference chips from outside the Nvidia ecosystem.
+---
+[TITLE] Nvidia backs Indian startup helping companies run AI models with fewer GPUs
+[LINK] https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/
+[PUBLISHED] Tue, 27 Oct 2026 11:00:00 +0000
+[SUMMARY]
+Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.
+---
+[TITLE] How OpenAI turned its coding tools into dots, an always-on personal assistant
+[LINK] https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/
+[PUBLISHED] Tue, 27 Oct 2026 02:00:00 +0000
+[SUMMARY]
+Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
