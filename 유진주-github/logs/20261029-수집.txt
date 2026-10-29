@@ -1,0 +1,82 @@
+[수집 파이프라인 실행] 2026-10-29 10:59:12
+---
+[TITLE] Artificial Analysis Intelligence Index v5 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수 - GeekNews
+[LINK] https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jbHNGLW1rY194X1FGT2ljYThFaE1Va3EyV0p5MFRudWExRXdhczRyX2owRHBzQ3VXZGJwN1BoREltaVdaNEJjYV9Ebw?oc=5
+[PUBLISHED] Thu, 29 Oct 2026 00:10:15 GMT
+[SUMMARY]
+Artificial Analysis Intelligence Index v5 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수&nbsp;&nbsp;GeekNews
+---
+[TITLE] 인공지능(AI) 시대, 학문 분야별 연구윤리의 길을 묻다(Seeking the Path of Research Ethics Across Academic Disciplines in the Era of AI) - 글로벌휴먼타임즈
+[LINK] https://news.google.com/rss/articles/CBMickFVX3lxTE1NNDFQODlRbE5JSV83RlZ2UGFZai02c3ZKMms5RHVDcllJV0pPRnBkdzIzZFNRYzBFVjd3NWlta0lHSzZoYURSanZVVEl1VFRlWTdIa0RmUXpyYm9oM0pFWlNwY3dRTzlUVUFNekFETGdudw?oc=5
+[PUBLISHED] Wed, 28 Oct 2026 05:54:44 GMT
+[SUMMARY]
+인공지능(AI) 시대, 학문 분야별 연구윤리의 길을 묻다(Seeking the Path of Research Ethics Across Academic Disciplines in the Era of AI)&nbsp;&nbsp;글로벌휴먼타임즈
+---
+[TITLE] 트럼프 “AI라는 말 쓰지 마라”…미국 모든 분야서 공식 금지 추진[1일1트] - 헤럴드경제 미주판
+[LINK] https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LeGlZX3JiTkRUZElpUWFaZVF0Umc4VWVwSWgxUW9aMVZFVU1fdVJWeUlYYk5zTmJ1M1FQTXRkVE1Qck5ERHloU0wwWkw5NEtyRjVTX3dIcHAzakE3bWhhNg?oc=5
+[PUBLISHED] Tue, 27 Oct 2026 05:39:00 GMT
+[SUMMARY]
+트럼프 “AI라는 말 쓰지 마라”…미국 모든 분야서 공식 금지 추진[1일1트]&nbsp;&nbsp;헤럴드경제 미주판
+---
+[TITLE] 부산시, ‘글로벌 AI 허브’ 유치전략 전격 발표… 인공지능 대전환(AX) 선도도시 도약(Busan City Unveils ‘Global AI Hub’ Attraction Strategy, Vaulting to a Leading AI Transformation (AX) Metropolis) - 글로벌휴먼타임즈
+[LINK] https://news.google.com/rss/articles/CBMickFVX3lxTE9WYmh6d20wZHcxOV9ZZ05pZkNmOThGeVZLVW5kUTNQWHhIY3B5Ri1RaTJNRmQwclVTWWJsN3JoM3FzejNETzM4cGtLVThwWHZ1UjJITFVsWUdVV1Z2akw3NGNsdGE2anI5UHVSS29yVWNQZw?oc=5
+[PUBLISHED] Tue, 27 Oct 2026 23:39:30 GMT
+[SUMMARY]
+부산시, ‘글로벌 AI 허브’ 유치전략 전격 발표… 인공지능 대전환(AX) 선도도시 도약(Busan City Unveils ‘Global AI Hub’ Attraction Strategy, Vaulting to a Leading AI Transformation (AX) Metropolis)&nbsp;&nbsp;글로벌휴먼타임즈
+---
+[TITLE] Google expands AI Search ads globally as core ad growth slows
+[LINK] https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/
+[PUBLISHED] Wed, 28 Oct 2026 21:48:37 +0000
+[SUMMARY]
+The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.
+---
+[TITLE] Microsoft recorded $10 billion in revenue from OpenAI
+[LINK] https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/
+[PUBLISHED] Wed, 28 Oct 2026 21:34:30 +0000
+[SUMMARY]
+Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.
+---
+[TITLE] Microsoft hits 10 quarters of record-breaking revenue in a row
+[LINK] https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/
+[PUBLISHED] Wed, 28 Oct 2026 21:25:30 +0000
+[SUMMARY]
+Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.
+---
+[TITLE] Anthropic just launched tools to show companies what their AI spending is buying
+[LINK] https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/
+[PUBLISHED] Wed, 28 Oct 2026 19:19:58 +0000
+[SUMMARY]
+The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.
+---
+[TITLE] Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms
+[LINK] https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/
+[PUBLISHED] Wed, 28 Oct 2026 17:00:00 +0000
+[SUMMARY]
+The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.
+---
+[TITLE] As AI agents reshape the web, Google opens Gemini and Search to more apps
+[LINK] https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/
+[PUBLISHED] Wed, 28 Oct 2026 17:00:00 +0000
+[SUMMARY]
+A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.
+---
+[TITLE] AI execs may be too out of touch to build for the general public
+[LINK] https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/
+[PUBLISHED] Wed, 28 Oct 2026 15:53:52 +0000
+[SUMMARY]
+Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.
+---
+[TITLE] South Korea’s financial industry hit by fresh wave of cyberattacks
+[LINK] https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/
+[PUBLISHED] Wed, 28 Oct 2026 15:41:18 +0000
+[SUMMARY]
+South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.
+---
+[TITLE] Voice AI in vogue: Nvidia releases new open transcription model
+[LINK] https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/
+[PUBLISHED] Wed, 28 Oct 2026 15:00:00 +0000
+[SUMMARY]
+Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
