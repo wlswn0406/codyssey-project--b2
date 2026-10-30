@@ -1,0 +1,94 @@
+[수집 파이프라인 실행] 2026-10-30 11:13:48
+---
+[TITLE] 英 기업 AI 도입률 1년 만에 두 배, 32%가 활용하지만 업무 혁신 이룬 기업은 소수 - 인공지능신문
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uaVJKWHdhX05mcDRIS2U0eUc3MGtMa1ozQVRGMDE2akpvc2Y0N3BSeWY1VVlJWEVmeTI4VmdwX1JWZHRuaDZuNDBXMmszamtldlBPMXZUanRiOEY3ZC1yWDhiNUpPZ0k?oc=5
+[PUBLISHED] Fri, 30 Oct 2026 00:37:31 GMT
+[SUMMARY]
+英 기업 AI 도입률 1년 만에 두 배, 32%가 활용하지만 업무 혁신 이룬 기업은 소수&nbsp;&nbsp;인공지능신문
+---
+[TITLE] 한국인공지능협회, 국회서 'AI 지정학 전략포럼' 개최… "집중의 시대에서 연결의 시대로" - 테크수다
+[LINK] https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RSFNib19PNk1hVUpQd2ZsZ0xZMURicXB2amJ3SUVFYmFwZXpwT1pZX3dqYnI1LW0waDl2enMtRmVtNjE2Y2tEM3JDUdIBUEFVX3lxTE5TSFBjMC14V2pORXZNNUp5aFZ0TjNEaWxITFJJczJKOVo5OWdpb2xhSTR6VV9tcERqM3l3TWs3UUNabnFJOU8waW1BQzh6eTQ3?oc=5
+[PUBLISHED] Thu, 29 Oct 2026 03:13:14 GMT
+[SUMMARY]
+한국인공지능협회, 국회서 'AI 지정학 전략포럼' 개최… "집중의 시대에서 연결의 시대로"&nbsp;&nbsp;테크수다
+---
+[TITLE] 10명 중 6명 AI로 대학교 과제…학생들 “인공지능 활용 지침 필요” - 한겨레
+[LINK] https://news.google.com/rss/articles/CBMiakFVX3lxTE4tWHFyai14NnIyOGs3SGNjd0Fnb1dQSkoxTkRoSDViR2JyV09OaTh2aWpyZllJSlVEdFRZVnZZeml4dHJPNTFDb3VxbERzc1RqU0JiRTVkbDZwWlJDcDdsbnJzRlQxcmpxekE?oc=5
+[PUBLISHED] Tue, 27 Oct 2026 08:11:00 GMT
+[SUMMARY]
+10명 중 6명 AI로 대학교 과제…학생들 “인공지능 활용 지침 필요”&nbsp;&nbsp;한겨레
+---
+[TITLE] You don’t need to believe in a god to get a religious exemption from using AI at work
+[LINK] https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/
+[PUBLISHED] Fri, 30 Oct 2026 01:20:48 +0000
+[SUMMARY]
+David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.
+---
+[TITLE] AWS will be a $1T business, Jassy says. But first, it will spend big.
+[LINK] https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/
+[PUBLISHED] Thu, 29 Oct 2026 23:42:22 +0000
+[SUMMARY]
+Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.
+---
+[TITLE] As search traffic dries up, Reddit announces it’s shifting to a logged-in experience
+[LINK] https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/
+[PUBLISHED] Thu, 29 Oct 2026 20:08:31 +0000
+[SUMMARY]
+As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.
+---
+[TITLE] Rivian expands joint venture with VW to include AI assistant
+[LINK] https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/
+[PUBLISHED] Thu, 29 Oct 2026 20:05:47 +0000
+[SUMMARY]
+Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.
+---
+[TITLE] OpenAI-backed Thrive Holdings acquires ADT
+[LINK] https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
+[PUBLISHED] Thu, 29 Oct 2026 19:56:19 +0000
+[SUMMARY]
+OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.
+---
+[TITLE] Meta quietly launches an AI fashion app called Style Sketch
+[LINK] https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/
+[PUBLISHED] Thu, 29 Oct 2026 19:14:36 +0000
+[SUMMARY]
+The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.
+---
+[TITLE] Granola crunches up a dictation feature to compete with Wispr
+[LINK] https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/
+[PUBLISHED] Thu, 29 Oct 2026 17:54:38 +0000
+[SUMMARY]
+Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.
+---
+[TITLE] Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity
+[LINK] https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/
+[PUBLISHED] Thu, 29 Oct 2026 17:00:00 +0000
+[SUMMARY]
+Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.
+---
+[TITLE] US investigated Chinese spy plot aimed at Nvidia CEO
+[LINK] https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/
+[PUBLISHED] Thu, 29 Oct 2026 16:42:32 +0000
+[SUMMARY]
+A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.
+---
+[TITLE] Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction
+[LINK] https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/
+[PUBLISHED] Thu, 29 Oct 2026 16:21:00 +0000
+[SUMMARY]
+Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.
+---
+[TITLE] Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round
+[LINK] https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/
+[PUBLISHED] Thu, 29 Oct 2026 14:35:26 +0000
+[SUMMARY]
+On Thursday, AI app Wabi, now describing itself as a "personal agent," said it has raised $55 million at a $1.25 billion valuation.
+---
+[TITLE] Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure
+[LINK] https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/
+[PUBLISHED] Thu, 29 Oct 2026 13:00:00 +0000
+[SUMMARY]
+With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---

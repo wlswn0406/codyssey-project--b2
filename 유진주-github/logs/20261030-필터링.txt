@@ -1,0 +1,995 @@
+[TITLE] 英 기업 AI 도입률 1년 만에 두 배, 32%가 활용하지만 업무 혁신 이룬 기업은 소수 - 인공지능신문
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uaVJKWHdhX05mcDRIS2U0eUc3MGtMa1ozQVRGMDE2akpvc2Y0N3BSeWY1VVlJWEVmeTI4VmdwX1JWZHRuaDZuNDBXMmszamtldlBPMXZUanRiOEY3ZC1yWDhiNUpPZ0k?oc=5
+[PUBLISHED] Fri, 30 Oct 2026 00:37:31 GMT
+[BODY]
+Google News
+---
+[LINK] https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RSFNib19PNk1hVUpQd2ZsZ0xZMURicXB2amJ3SUVFYmFwZXpwT1pZX3dqYnI1LW0waDl2enMtRmVtNjE2Y2tEM3JDUdIBUEFVX3lxTE5TSFBjMC14V2pORXZNNUp5aFZ0TjNEaWxITFJJczJKOVo5OWdpb2xhSTR6VV9tcERqM3l3TWs3UUNabnFJOU8waW1BQzh6eTQ3?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] 10명 중 6명 AI로 대학교 과제…학생들 “인공지능 활용 지침 필요” - 한겨레
+[LINK] https://news.google.com/rss/articles/CBMiakFVX3lxTE4tWHFyai14NnIyOGs3SGNjd0Fnb1dQSkoxTkRoSDViR2JyV09OaTh2aWpyZllJSlVEdFRZVnZZeml4dHJPNTFDb3VxbERzc1RqU0JiRTVkbDZwWlJDcDdsbnJzRlQxcmpxekE?oc=5
+[PUBLISHED] Tue, 27 Oct 2026 08:11:00 GMT
+[BODY]
+Google News
+---
+[TITLE] You don’t need to believe in a god to get a religious exemption from using AI at work
+[LINK] https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/
+[PUBLISHED] Fri, 30 Oct 2026 01:20:48 +0000
+[BODY]
+You don't need to believe in a god to get a religious exemption from using AI at work | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Malte Mueller / Getty Images
+AI
+You don’t need to believe in a god to get a religious exemption from using AI at work
+Amanda Silberling
+6:20 PM PDT · October 29, 2026
+Pope Leo XIV has decried AI as a threat to
+human dignity
+, but it’s not just the devoutly faithful who might worry about how AI squares with their beliefs. David Durman, a nontheistic Humanist, recently secured a
+religious exemption
+from using AI in the workplace.
+“Humanism is a collection of beliefs about the human experience and how humans interact with the world,” Durman, a University of Kentucky administrator, told TechCrunch. It centers on “human well-being and flourishing, both individually and collectively […] and implores a person to try to improve both their well-being and their flourishing as well as the others around them.”
+As he watched AI grow more popular in daily life, Durman sought out the
+American Humanist Association
+(AHA) — a nonprofit advancing secular humanism — to investigate how he could gain legal protections against having to use AI at work. He believes that using the technology runs counter to his beliefs.
+“The way we become moral actors for ourselves and for others is through the active application of our minds, and the diminishing of that [through AI use] is going to necessarily have a negative impact on our ability to do so,” he said, reflecting on how overreliance on AI might affect critical thinking.
+In a
+statement
+published by the AHA earlier this week, Durman wrote, “AI is interfering with people’s ability to earn a living, the environmental costs spell disaster for humanity and our planet, and its supplanting and theft of human creativity threaten elements of our culture like art and literature that make society flourish.”
+Humanism is not anti-religious, but it tends to appeal to people who are skeptical of a god or other supernatural power yet still seek a scientific and moral framework to ground themselves in.
+“Concern about AI and human dignity can run through several different faiths and traditions, whether that’s Catholic tea
+---
+[TITLE] AWS will be a $1T business, Jassy says. But first, it will spend big.
+[LINK] https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/
+[PUBLISHED] Thu, 29 Oct 2026 23:42:22 +0000
+[BODY]
+AWS will be a $1T business, Jassy says. But first, it will spend big. | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Kevin Winter / Getty Images
+AI
+AWS will be a $1T business, Jassy says. But first, it will spend big.
+Lucas Ropek
+4:42 PM PDT · October 29, 2026
+Andy Jassy has
+made it known
+that he believes AWS can be a trillion-dollar revenue business. During Amazon’s quarterly earnings call on Thursday, he repeated this ambition.
+“What we’re building at Amazon is unlike anything that’s ever been seen before. There has never been a business with a trillion dollars of annual revenue,” he said.
+However, before the cloud business gets there, Amazon is going to have ramp up its capital expenditures to build out the infrastructure necessary to support that blossoming business.
+“We still expect 2026 cash capex of approximately $220 billion — the majority for AWS — and expect to spend meaningfully more in 2027, with a clear line of sight to attract its financial returns,” Jassy revealed on Thursday.
+Amazon’s big spending on its AI infrastructure buildout has been
+an ongoing source of concern for investors
+this year. Indeed, during Thursday’s call, Wall Street analysts repeatedly asked Jassy to explain the spending, the signals that the growth really will come, and the profit margins expected.
+Jassy told them it was all money well spent because the e-commerce giant planned to capitalize on a historic moment in global cloud demand driven by AI. AWS revenue increased 39 percent from the year-ago quarter, a trend of steady growth for the
+sixth straight quarter
+.
+And the CEO forecast on the call that it would increase by 40% not just next year, but in 2028, too.
+“AWS is a $184 billion annualized revenue run-rate business, and yet the opportunity remains extraordinary,” the CEO enthused. “With our continued pace of innovation, new core and AI functionality, enterprises wanting to run their core and AI workloads in AWS, and the amount of capacity that we’re adding each year, we believe that AWS can grow north of 40 percent in each 2027 and in 2028, and be a trillion-dollar revenue business in the next five to 10 years.”
+Jassy added that the company was “in the very early d
+---
+[TITLE] As search traffic dries up, Reddit announces it’s shifting to a logged-in experience
+[LINK] https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/
+[PUBLISHED] Thu, 29 Oct 2026 20:08:31 +0000
+[BODY]
+As search traffic dries up, Reddit announces it's shifting to a logged-in experience | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Shutterstock
+AI
+As search traffic dries up, Reddit announces it’s shifting to a logged-in experience
+Sarah Perez
+1:08 PM PDT · October 29, 2026
+Reddit has long attracted millions of users to its site through Google, with many even appending the word “Reddit” to their search queries for better answers. But as search traffic dries up amid the shift to AI-powered search, Reddit is rethinking its relationship with the open internet. In its
+third-quarter earnings call
+on Thursday, the company announced it’s transitioning to a primarily “logged-in experience.”
+The move is designed to protect its data from AI scraping, allowing the company to instead forge lucrative licensing deals with model providers. But just as important, such a shift could help Reddit to increase its revenue even as it faces daily active user declines in its largest market, the U.S.
+Overall, Reddit’s global daily active users were flat quarter-over-quarter in Q3, reaching 130.3 million, while U.S. daily active users dropped from 53.2 million in Q2 to 50.7 million in Q3 and were down 2% year-over-year.
+Image Credits:
+Reddit
+The company is not alone in seeing such declines; the shift to an AI-centered web has impacted most websites and publishers by now, leading to fewer click-throughs, as AI summaries provide answers that don’t require website visits and Google’s traditional “ten blue links” have reduced relevance. (The change is now even
+impacting Google’s bottom line
+, its
+earnings
+revealed.)
+But at Reddit’s scale, the numbers associated with such a decline are enormous. The company said search traffic referrals dropped by more than 1 million referrals on average per week in October. It warned that if the trend continues, daily active users could decline to a low-double-digit percentage by next quarter. (To play that out: a hypothetical 10% to 12% decline could bring Reddit to roughly 115 million to 117 million daily actives, down from 130.3 million in Q3. That’s a huge drop!)
+At the same time, Reddit has gotten significantly better at monetizing its audience eve
+---
+[TITLE] Rivian expands joint venture with VW to include AI assistant
+[LINK] https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/
+[PUBLISHED] Thu, 29 Oct 2026 20:05:47 +0000
+[BODY]
+Rivian expands joint venture with VW to include AI assistant | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Rivian (screenshot)
+Transportation
+Rivian expands joint venture with VW to include AI assistant
+Kirsten Korosec
+1:05 PM PDT · October 29, 2026
+The $5.8 billion joint venture between Rivian and Volkswagen Group is expanding to include AI assistants.
+Rivian is now licensing elements of its AI voice assistant technology to Volkswagen Group as part of the broader joint venture, according to the company’s
+third-quarter investor presentation
+released Thursday.
+Rivian didn’t disclose the licensing fees, payment terms, or which Volkswagen vehicles will use the technology. However, the AI assistant, which
+recently rolled out to Riv
+i
+an vehicles
+, could make its Volkswagen debut in the automaker’s low-cost EV called the
+ID EVERY1
+. The small four-door hatchback is slated to be the first VW vehicle to use Rivian’s software and electrical architecture under the joint venture established in 2024.
+The joint venture between Rivian and VW Group has already expanded once before, at least financially. The companies initially announced a joint venture
+valued up to $5 billion
+, but within months VW upped its commitment to invest up to $5.8 billion in Rivian by 2027. The initial tie-up, formalized through an independent company that kicked off in November 2024, focused on bringing Rivian’s electrical architecture and software to Volkswagen’s next generation of vehicles.
+Rivian described the expansion to include elements of its AI assistant technology as “a proof point for the extensibility of the platform we’ve built in-house.”
+Rivian spent two years developing its AI assistant before showing it off last year. That development work continued longer than expected, with the assistant finally rolling out in May 2026 to its flagship R1S SUV, R1T pickup truck, and in October to its new midsize R2 SUV.
+Rivian has big aspirations for its AI assistant, which allows drivers and passengers to interact with the vehicle and control certain functions. Rivian founder and CEO RJ Scaringe told TechCrunch onstage at Disrupt 2026 that the company has created its own in-house agentic framew
+---
+[TITLE] OpenAI-backed Thrive Holdings acquires ADT
+[LINK] https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/
+[PUBLISHED] Thu, 29 Oct 2026 19:56:19 +0000
+[BODY]
+OpenAI-backed Thrive Holdings acquires ADT | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+12:56 PM PDT · October 29, 2026
+Image Credits:
+Timon Schneider/SOPA Images/LightRocket / Getty Images
+Julie Bort
+OpenAI-backed Thrive Holdings acquires ADT
+Thrive Holdings has acquired physical security company ADT for $10 per share or about $7.6 billion in equity, the companies
+announced
+on Thursday. Beyond equity, the total enterprise value of the deal is $15.3 billion, ADT said.
+Thrive Holdings is the holding company spinout from Josh Kushner’s powerhouse VC firm Thrive Capital. It also counts OpenAI
+as its partner
+, as well as an investor. The firm’s mission is to hold other companies long-term, revitalizing them with AI. Currently, Thrive Holdings holds over 75 companies, it says.
+As a partner, OpenAI supplies AI models and tech as well as people, otherwise known as forward-deployed engineers, to Thrive’s companies.
+Neither ADT nor Thrive announced what new AI-powered security products they will be releasing, but they did tease that the plan was to invest and release new products. “ADT will form the foundation of Thrive Holdings’ smart home security business,” the press release said.
+AI-powered physical security is having a moment right now.
+Apple just entered the field
+with a new line of smart home and home security products in collaboration with LG and Schneider Electric. Amazon updated its smart home line, including
+new AI-powered home cameras
+. ADT already partners with Apple and Google and is expected to continue to do so. And who knows what the future might bring? Some
+startups are offering AI dog robots as roving security guards
+.
+Note: This story was updated to include ADT’s current partnerships and to describe Thrive Holdings as a holding company.
+Topics
+ADT
+,
+AI
+,
+In Brief
+,
+M&A
+,
+thrive holdings
+,
+Venture
+November 4
+Boston
+Buy One Pass, Get a Second Free
+Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free
+Book before the BOGO deal expires
+Register Now
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best
+---
+[평가 오류] https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 45.768744998s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}}
+---
+[LINK] https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity
+[LINK] https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/
+[PUBLISHED] Thu, 29 Oct 2026 17:00:00 +0000
+[BODY]
+Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Toby Melville / AFP / Getty Images
+AI
+Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity
+Lucas Ropek
+10:00 AM PDT · October 29, 2026
+French AI company Mistral has released the weights for its trillion-parameter open source AI model Mistral Large 4 (ML4), allowing businesses and governments to download and deploy the system themselves. Nicknamed “Le Chonk,” the model was first
+introduced earlier this month
+.
+The release comes as competition between open-weight AI developers like Mistral and closed-model providers like OpenAI and Anthropic heats up, with the former arguing that businesses and governments shouldn’t have to rely on outside AI companies for access to advanced capabilities. That argument may hold more weight in cybersecurity, where organizations want more control over their data and systems.
+Or, as Mistral’s CEO, Arthur Mensch, explained, AI should “be a tool for empowerment, not dominance.” With Chonk, Mistral doubles down on that position, arguing that it’s able to achieve “state-of-the-art performance” at a “fraction of the compute and capital committed by closed labs.”
+The release of the model’s weights — the numerical training that animates the system — ensures that other companies and government agencies will now be able to deploy ML4 for their own purposes.
+Mistral says that its model is comparable in terms of performance with a Chinese open-weight competitor, GLM-5.3, which was
+previously considered
+one of the best open-weight models in the world — particularly when it comes to cyber work. However, Mistral’s model uses 47 percent fewer tokens per task, making it significantly more economical than GLM-5.3.
+The company also claims that the model outranks all other open models when it comes to agentic coding tasks on Artificial Analysis’ Coding Agent Index, an AI benchmarking site.
+“Amid growing cyber threats, ML4 brings state-of-the-art sovereign cyber defense capabilities to enterprises and governments globally,” the company said Thursday. “Enterprise and public sector instit
+---
+[TITLE] US investigated Chinese spy plot aimed at Nvidia CEO
+[LINK] https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/
+[PUBLISHED] Thu, 29 Oct 2026 16:42:32 +0000
+[BODY]
+US investigated Chinese spy plot aimed at Nvidia CEO | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+9:42 AM PDT · October 29, 2026
+Image Credits:
+Nvidia
+Julie Bort
+US investigated Chinese spy plot aimed at Nvidia CEO
+A top executive of a Singapore AI cloud firm that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy,
+anonymous sources told the New York Times
+.
+The executive, Alice Huang (or Huang Le), worked for Megaspeed and was photographed as one of multiple people hanging out with Nvidia CEO Jensen Huang during various business dinners in the Singapore region. U.S. intelligence agencies had been surveilling Alice Huang to learn more about her ties with China for about a year, the Times reports.
+The concern, sources said, was that Alice Huang had grown so close to Jensen Huang that she could have been gathering information about Nvidia’s plans and the CEO’s efforts to convince the Trump administration to allow it to ship more advanced technology to China.
+But an Nvidia spokesperson denied this, telling TechCrunch that the CEO’s relationship with the Megaspeed executive was the same as with any other regional customer.
+“Jensen’s interactions with Ms. Huang are not unusual or unexpected. Meetings with customers are part of a C.E.O.’s job; Jensen talks with thousands of customer executives every year,” the spokesperson said in an emailed statement. The company also said, “Our regional cloud customers receive ordinary business information — not sensitive NVIDIA trade secrets — and zero information relevant to national security.”
+In 2025, the
+Times reported
+that the Commerce Department had investigated Megaspeed over concerns that it was helping Chinese companies sidestep AI chip export regulations by reselling restricted chips to them. Alice Huang was said to be a top executive for the firm at the time.
+Topics
+AI
+,
+In Brief
+,
+Jensen Huang
+,
+nvidia
+November 4
+Boston
+Buy One Pass, Get a Second Free
+Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free
+Book before the BOGO deal expires
+Register Now
+Newsletters
+See More
+Subscribe for the industry’s biggest t
+---
+[TITLE] Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction
+[LINK] https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/
+[PUBLISHED] Thu, 29 Oct 2026 16:21:00 +0000
+[BODY]
+Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Dream
+Startups
+Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction
+Marina Temkin
+9:21 AM PDT · October 29, 2026
+Andy Elder and Arjun Mathur were Stanford roommates who both studied computer science before spending a decade at Palantir. Elder led product design for a team of 800 people building software for U.S. defense and intelligence agencies, while Mathur served as a senior vice president in the company’s commercial practice. When the friends decided to build a startup early last year, there was no question they would do it together.
+Despite having no direct background in architecture, Elder and Mathur were troubled by a growing problem: Fewer buildings are constructed in the U.S. today than a
+few decades ago
+, as development costs have surged.
+“We’ve gone from dial-up internet to superintelligent AI, but our ability to build the physical world around us has actually decreased,” Mathur told TechCrunch.
+Believing AI can boost productivity across the architecture, engineering, and construction (AEC) industry, they set out to build
+Dream
+, a startup developing built world models that automate building design and engineering. Dream has emerged from stealth with $17 million in seed funding led by Andreessen Horowitz, alongside other backers, including SV Angel, XYZ, and Zigg Capital. The startup aims to replace cumbersome, outdated AEC tools like Autodesk’s AutoCAD and Revit.
+If you sit next to an architect or a structural engineer, you’ll notice that they are still “drawing” every piece of their designs part by part on legacy software, Mathur said. “AI really plays no role in that equation.”
+While a standard LLM like ChatGPT can generate an image of a building, the result won’t be structurally sound. Dream, by contrast, is grounded in real physics and construction standards. Just as LLMs learn from text, Dream’s world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.
+“Our model actually understands what’s 
+---
+[TITLE] Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round
+[LINK] https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/
+[PUBLISHED] Thu, 29 Oct 2026 14:35:26 +0000
+[BODY]
+Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Wabi
+AI
+Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round
+Sarah Perez
+7:35 AM PDT · October 29, 2026
+The race to build the winning AI assistant is on, and investors are spreading out their bets. On Thursday, another AI app,
+Wabi
+, now describing itself as a “personal agent,”
+said
+it has raised $55 million at a $1.25 billion valuation.
+Founded by Eugenia Kuyda, who previously founded the AI companion startup Replika, Wabi originally focused on allowing anyone
+to build apps using prompts
+. Last month, however, the startup
+announced
+a pivot of sorts to become an AI messenger.
+The idea now is that the new Wabi — or Wabi 2.0, as it was called — could build the interfaces you need to get things done as part of its role as your personal AI agent.
+The company suggests Wabi could be used to build mini apps for things like meal planning, tracking local restaurants, planning date nights, creating fitness plans, designing specialized trivia games, and more.
+Image Credits:
+Wabi
+The additional funding indicates that Wabi’s investors agree that its new agentic angle has some potential, especially given the market around AI agents is hot right now, with viral AI agent Instinct pulling in another billion
+at a $10 billion valuation
+in September.
+Even Tolan, which makes a cute, Muppet-like AI companion to help people navigate life,
+just raised $30 million
+.
+“Eugenia has a unique sense for where AI is headed and a track record of great taste in building it,” said Alex Lim, general partner at IVP, which led the new round, in a statement. “She has a clear vision for how people will interact with AI, one that goes far beyond the text box or command line. Wabi is the expression of that vision, and we’re thrilled to support her.”
+Other participants in the round included Andreessen Horowitz (a16z), Forerunner, Amazon Alexa Fund, and angel investors like Shopify CEO Tobi Lütke, Salesforce CEO Marc Benioff, former Yahoo! head Marissa Mayer, former Twitter CEO Dick Costolo, and one half of The Chainsmokers, Alex Pall.
+Topics
+AI
+
+---
+[TITLE] Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure
+[LINK] https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/
+[PUBLISHED] Thu, 29 Oct 2026 13:00:00 +0000
+[BODY]
+Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Deepgram
+AI
+Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure
+Ivan Mehta
+6:00 AM PDT · October 29, 2026
+The voice AI sector is hot, and top players are trying to consolidate their position as more business models come to the fore through partnerships and acquisitions. Deepgram is the latest to make such moves: The company said on Thursday that it is acquiring Daily, the maker and maintainer of one of the most popular open source voice AI infrastructures, Pipecat.
+The companies didn’t disclose the deal amount but said that they will keep Pipecat open source.
+For the uninitiated, Pipecat is a framework that manages voice and video streams along with other pieces in the pipeline, like speech-to-text (STT), large language models (LLMs), and text-to-speech (TTS) models while reducing latency. Its maker, Daily, provides hosted infrastructure for voice and video calls of any kind.
+With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.
+Daily has raised over $62 million in funding to date from investors such as Tiger Global, Highfield Capital, Nat Friedman, Lachy Groom, and Kevin Weil, according to PitchBook data. Earlier this year, Deepgram reached unicorn status with
+a $130 million Series C round
+. Incidentally, both companies were in the same Y Combinator batch in 2016.
+Kwindla Kramer, Daily’s co-founder, said around the time when GPT-4 came out, the company started experimenting with AI-to-human communication over voice and text, which eventually resulted in the Pipecat framework. He noted that while there has been a lot of acquisition interest, he favored Deepgram’s CEO Scott Stephenson’s commitment to keeping Pipecat open source forever, and the engineering culture of both organizations matched, giving Daily’s team the freedom to work on different parts of the stack within a bigger organization.
+“Scott was super committed to Pipecat being open source and vendor-neutral forever. I think there is both a personal commitment and commercial driver there. If you sit 
+---
