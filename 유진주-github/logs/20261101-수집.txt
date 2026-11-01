@@ -1,0 +1,34 @@
+[수집 파이프라인 실행] 2026-11-01 10:35:55
+---
+[TITLE] North Korean General Secretary Kim Jong Un: “The Integration of Artificial Intelligence into Unmanned Armed Systems Is the Top Priority in the Modernization of Our Armed Forces” - NK경제
+[LINK] https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZUGxOZWpZamZSSXQ5dTJSYWtmanM3X1BFYTMtTG54OHlKd1RyOVpRUlVic3hSTUNuTHVUSzFUMUNBU2l5Y3Azd1F4dTBLeC1BeDh2ZVRRTEF0V0ExbUZIZ1lnQWdxWUp4eW1j0gFuQVVfeXFMTUZDeWtMRVNMX1lobjlxVHVEbmo4ZjZ0a0ItZ0VlaGZtZHdQNWFRazlrR1JiVHd6amN1THA4eGZHS3JfeXRaNGpxMDlCaEg5Y2hJWGtUMjgxZmZCdWZUSFlhYURDeVI3cG9tZVZKY3c?oc=5
+[PUBLISHED] Fri, 30 Oct 2026 01:39:42 GMT
+[SUMMARY]
+North Korean General Secretary Kim Jong Un: “The Integration of Artificial Intelligence into Unmanned Armed Systems Is the Top Priority in the Modernization of Our Armed Forces”&nbsp;&nbsp;NK경제
+---
+[TITLE] 생명과학 분야 인공지능(AI) 시장 규모 보고서, 2034년 - Straits Research
+[LINK] https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlc1akt5S0hPTnA0TkhzT0lmaWg2Z0VaS0xjMmtEbWZRWTRGNTZhRmVwQlE1YW9Wd3NjczZBajRVX0lCQlotTXN3TklSU3FoR2NrN3FfM2oyTXVxR1hNVG0tY2llZjRQV0Jvcy1xTUNmNFNqS0hDN1lLOXFyeFdYOFFGUTZwWEtaRUNzSjZB?oc=5
+[PUBLISHED] Mon, 26 Oct 2026 07:00:00 GMT
+[SUMMARY]
+생명과학 분야 인공지능(AI) 시장 규모 보고서, 2034년&nbsp;&nbsp;Straits Research
+---
+[TITLE] Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’
+[LINK] https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/
+[PUBLISHED] Sat, 31 Oct 2026 21:41:00 +0000
+[SUMMARY]
+Apple's new CEO defended the company's current position in the AI landscape.
+---
+[TITLE] Judge allows NAACP lawsuit over xAI data center pollution to move forward
+[LINK] https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/
+[PUBLISHED] Sat, 31 Oct 2026 21:17:03 +0000
+[SUMMARY]
+An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.
+---
+[TITLE] OpenAI reportedly lowers funding target for new round
+[LINK] https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/
+[PUBLISHED] Sat, 31 Oct 2026 16:12:55 +0000
+[SUMMARY]
+OpenAI’s latest funding round doesn't seem to be living up to expectations.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
