@@ -1,0 +1,22 @@
+[수집 파이프라인 실행] 2026-11-02 10:57:02
+---
+[TITLE] 전쟁부터 AI까지 서로 딴소리…G20 외교장관 공동성명 불발 - 연합뉴스
+[LINK] https://news.google.com/rss/articles/CBMiW0FVX3lxTE5INUd0b2UwTVRSdDd2T3A2c0hab0lYRk05eUVGbHRPd2otYkV5UVVKZlZoNlplcXBPb0RtdTJiUHE4WW5uUDgtZlYySVhwbFZvT3llcnpUU0dmUUnSAWBBVV95cUxPQmdDR0QtaFozUG5zUE5ScnNVWlZuRVlROFJkWXVNNEpoWjFjRjdULThtYW5uOENyZ1Z6dHFHVGIxckhtQmNvbXJMaG9oVnZlZWhfRzl1Z1p4bHBBLVphdkI?oc=5
+[PUBLISHED] Sun, 01 Nov 2026 03:39:29 GMT
+[SUMMARY]
+전쟁부터 AI까지 서로 딴소리…G20 외교장관 공동성명 불발&nbsp;&nbsp;연합뉴스
+---
+[TITLE] OpenAI might rebrand its data centers as ‘AI compute campuses’
+[LINK] https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/
+[PUBLISHED] Sun, 01 Nov 2026 21:55:23 +0000
+[SUMMARY]
+Data centers are deeply unpopular. But what if we called them something else?
+---
+[TITLE] AI can make tech CEOs’ lives easier. What about everyone else?
+[LINK] https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/
+[PUBLISHED] Sun, 01 Nov 2026 20:57:58 +0000
+[SUMMARY]
+On Equity, we discuss why tech CEO statements can seem so tone deaf.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
