@@ -1,0 +1,88 @@
+[수집 파이프라인 실행] 2026-11-03 12:45:38
+---
+[TITLE] 위험한 AI를 누가 멈출 것인가, 앤트로픽과 오픈AI의 서로 다른 해법 - ITWorld Korea
+[LINK] https://news.google.com/rss/articles/CBMi5gJBVV95cUxPU1dFSGdTZEcyeVZ5Yk5CQ3B5U2s4N01rcEZMVXlGVEh1aVlXVG84YlJCVW9id1RDZjdtdzJfUjYyNDNuQUY5UzFJRHVfcFh4bDhEdjkxSjdsRGFpQlBLc1FMeTVYWW4zY0IxQWdBVGl3MzlCTDRNSDZvem9NQ0s3eTNySklhYVd5cDZJNUktcWlKUUgxUDFocXB3aFRUa3h1clVyd1hrUEJfQk00SnNxSzQxNDI1QVRVWko1VFV0QTRxNndCcXF6YnZrTW4xd3F6NzlpdDhvR2JOZl90TmFRYXFjZXV6SnVNRFpadFFTMXJIZXhHbjhsLXVOU3FVYXpTbm9XZ1ZjWVlPY1hTenI1UFg1QjU1ZzJUN0I1a3dOcklHS3g4SVI4UFdtMjFBdXpRaUpMQjl4R0oxbEU1RThFa2hjUXhvS21vbXZjTU50VW1yV09kdWVyUHR0QTctN2l5RjQ1RUhn?oc=5
+[PUBLISHED] Mon, 02 Nov 2026 02:34:26 GMT
+[SUMMARY]
+위험한 AI를 누가 멈출 것인가, 앤트로픽과 오픈AI의 서로 다른 해법&nbsp;&nbsp;ITWorld Korea
+---
+[TITLE] Nate Soares, 초지능 개발 중단을 외치는 AI 연구자 - Martin Cid Magazine
+[LINK] https://news.google.com/rss/articles/CBMiigJBVV95cUxNMWwwaURZbjVfNFc3aExxZ0NFVDQyNEVHakdSUTU3Ylg3R0xjbkJrZ0Z0RS1uQVNlREJMZngxOVRWZUNZLTM4S3RkRWR2a25RU2d6TUNJM3lvZUtWUkdGbHdJNzNMcXNyNEJxajloaHc0UXRyM25JUllMZlNtY2lDYTMxS0kxZDI0VXNQTlVLUmN0NHlCMmxQMzRSQktLVFhoWGRjOGdEa2h4STctRVNlM1lGU0Z0N3BSVlN3LWpOb1VZeTJDbW9EcVZYYkgtTl85d0ZIMGJ5YmZGd1MxaUdabzNwSW94OUNtaVlVS3BfVDk2SEhUcjNWdTFKbl94bUZ2bE95aWlYVG9idw?oc=5
+[PUBLISHED] Mon, 02 Nov 2026 01:40:29 GMT
+[SUMMARY]
+Nate Soares, 초지능 개발 중단을 외치는 AI 연구자&nbsp;&nbsp;Martin Cid Magazine
+---
+[TITLE] Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses
+[LINK] https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/
+[PUBLISHED] Tue, 03 Nov 2026 03:30:00 +0000
+[SUMMARY]
+Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.
+---
+[TITLE] Apple may try to increase revenue by doing…something with third-party AI apps
+[LINK] https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/
+[PUBLISHED] Tue, 03 Nov 2026 01:49:52 +0000
+[SUMMARY]
+Apple hinted at ways that it could spur revenue through third-party "opportunities" during its Monday night earnings call.
+---
+[TITLE] Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens
+[LINK] https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/
+[PUBLISHED] Tue, 03 Nov 2026 00:35:52 +0000
+[SUMMARY]
+Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.
+---
+[TITLE] Trajectory raises $45M to make AI model training accessible to nontechnical experts
+[LINK] https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/
+[PUBLISHED] Mon, 02 Nov 2026 23:13:53 +0000
+[SUMMARY]
+The one-year-old startup is now valued at $300 million.
+---
+[TITLE] Anthropic warns that it’s very close to RSI capability, aka self-building AI
+[LINK] https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/
+[PUBLISHED] Mon, 02 Nov 2026 22:14:50 +0000
+[SUMMARY]
+RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.
+---
+[TITLE] Web host Squarespace lays off 19% of its employees
+[LINK] https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/
+[PUBLISHED] Mon, 02 Nov 2026 19:25:59 +0000
+[SUMMARY]
+The website builder said that the job losses are part of a broader restructuring of its organization.
+---
+[TITLE] New York Times and other outlets sue web browser Brave over alleged content scraping
+[LINK] https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/
+[PUBLISHED] Mon, 02 Nov 2026 19:19:17 +0000
+[SUMMARY]
+The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.
+---
+[TITLE] 42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’
+[LINK] https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/
+[PUBLISHED] Mon, 02 Nov 2026 16:30:00 +0000
+[SUMMARY]
+Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?
+---
+[TITLE] Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs
+[LINK] https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/
+[PUBLISHED] Mon, 02 Nov 2026 16:23:21 +0000
+[SUMMARY]
+Musk recently referred to Grok Bot as having "the fastest growth of a product that I've ever seen in my life."
+---
+[TITLE] Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition
+[LINK] https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/
+[PUBLISHED] Mon, 02 Nov 2026 15:00:00 +0000
+[SUMMARY]
+Two startups tackling the data center water problem are joining forces in a $16 million deal.
+---
+[TITLE] OpenAI is finally merging ChatGPT’s Chat and Work tabs
+[LINK] https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/
+[PUBLISHED] Mon, 02 Nov 2026 13:57:53 +0000
+[SUMMARY]
+OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.
+---
+[TITLE] Data centers are now a midterm issue, even in Brooklyn
+[LINK] https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/
+[PUBLISHED] Sun, 01 Nov 2026 02:22:10 +0000
+[SUMMARY]
+At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---

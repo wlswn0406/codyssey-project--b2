@@ -1,0 +1,395 @@
+[TITLE] 위험한 AI를 누가 멈출 것인가, 앤트로픽과 오픈AI의 서로 다른 해법 - ITWorld Korea
+[LINK] https://news.google.com/rss/articles/CBMi5gJBVV95cUxPU1dFSGdTZEcyeVZ5Yk5CQ3B5U2s4N01rcEZMVXlGVEh1aVlXVG84YlJCVW9id1RDZjdtdzJfUjYyNDNuQUY5UzFJRHVfcFh4bDhEdjkxSjdsRGFpQlBLc1FMeTVYWW4zY0IxQWdBVGl3MzlCTDRNSDZvem9NQ0s3eTNySklhYVd5cDZJNUktcWlKUUgxUDFocXB3aFRUa3h1clVyd1hrUEJfQk00SnNxSzQxNDI1QVRVWko1VFV0QTRxNndCcXF6YnZrTW4xd3F6NzlpdDhvR2JOZl90TmFRYXFjZXV6SnVNRFpadFFTMXJIZXhHbjhsLXVOU3FVYXpTbm9XZ1ZjWVlPY1hTenI1UFg1QjU1ZzJUN0I1a3dOcklHS3g4SVI4UFdtMjFBdXpRaUpMQjl4R0oxbEU1RThFa2hjUXhvS21vbXZjTU50VW1yV09kdWVyUHR0QTctN2l5RjQ1RUhn?oc=5
+[PUBLISHED] Mon, 02 Nov 2026 02:34:26 GMT
+[BODY]
+Google News
+---
+[TITLE] Nate Soares, 초지능 개발 중단을 외치는 AI 연구자 - Martin Cid Magazine
+[LINK] https://news.google.com/rss/articles/CBMiigJBVV95cUxNMWwwaURZbjVfNFc3aExxZ0NFVDQyNEVHakdSUTU3Ylg3R0xjbkJrZ0Z0RS1uQVNlREJMZngxOVRWZUNZLTM4S3RkRWR2a25RU2d6TUNJM3lvZUtWUkdGbHdJNzNMcXNyNEJxajloaHc0UXRyM25JUllMZlNtY2lDYTMxS0kxZDI0VXNQTlVLUmN0NHlCMmxQMzRSQktLVFhoWGRjOGdEa2h4STctRVNlM1lGU0Z0N3BSVlN3LWpOb1VZeTJDbW9EcVZYYkgtTl85d0ZIMGJ5YmZGd1MxaUdabzNwSW94OUNtaVlVS3BfVDk2SEhUcjNWdTFKbl94bUZ2bE95aWlYVG9idw?oc=5
+[PUBLISHED] Mon, 02 Nov 2026 01:40:29 GMT
+[BODY]
+Google News
+---
+[TITLE] Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses
+[LINK] https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/
+[PUBLISHED] Tue, 03 Nov 2026 03:30:00 +0000
+[BODY]
+Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Google
+AI
+Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses
+Jagmeet Singh
+7:30 PM PST · November 2, 2026
+Google has launched its
+experimental AI app Dreambeans
+in India, its first market outside the U.S., as the company looks to tap the world’s second-largest internet market to bring personalized visual stories drawn from users’ digital activity to a broader audience.
+On Monday, Google expanded Dreambeans, available on Android and iOS, to India with support for 13 local languages, including Hindi, Punjabi, Tamil, Telugu, and Bengali, alongside English. The launch comes less than two months after Google made the app
+available to all eligible U.S. users
+aged 18 and older.
+Introduced
+in June, Google’s Dreambeans uses information from connected Google services, including Calendar, Gemini, Gmail, Photos, Search, and YouTube, to proactively generate personalized, illustrated stories about users’ interests and everyday lives, without requiring them to enter a prompt. The app initially featured static, AI-generated illustrations, but Google recently added a feature that uses its Veo video-generation model to even animate images in select stories.
+Google said it chose India as Dreambeans’ first international market because of strong interest from Indian users seeking access to the app and the widespread use of its services in the country. India stood out for its high overlap of users across Gemini, Gmail, and Google Photos, Google product manager Gozde Oznur said during a press briefing.
+Dreambeans has recorded nearly 55,000 downloads in the U.S. since its June debut, according to estimates from market intelligence firm Sensor Tower shared with TechCrunch. About 63% of those downloads came in September, when Google opened the app to all eligible U.S. users aged 18 and older. However, downloads dropped 84% month over month to about 5,500 in October.
+In the first 30 days after Google opened Dreambeans to all eligible U.S. users, the app recorded an estimated 29,000 downloads, compared with
+---
+[TITLE] Apple may try to increase revenue by doing…something with third-party AI apps
+[LINK] https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/
+[PUBLISHED] Tue, 03 Nov 2026 01:49:52 +0000
+[BODY]
+Apple may try to increase revenue by doing...something with third-party AI apps | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Mario Tama / Getty Images
+TC
+Apple may try to increase revenue by doing…something with third-party AI apps
+Lucas Ropek
+5:49 PM PST · November 2, 2026
+Apple’s services business remains at record levels, but it’s facing
+growing pressure
+. The central part of that business, Apple’s App Store, has faced regulatory pressure and a slump in mobile gaming, which have
+hurt services growth
+.
+However, on Monday’s earnings call, Apple signaled that it may look to boost services revenue through third-party apps. What does that mean, exactly? Unfortunately, it’s not entirely clear.
+When discussing how AI could potentially “contribute to revenue growth over time,” Kevan Parekh, Apple’s chief financial officer, said: “On the product side, you know, we feel AI offers a compelling reason for customers to upgrade and switch in order to get the latest capabilities, and we also feel there’s opportunities across third-party apps and partnerships as well as first-party opportunities.”
+Parekh did not elaborate on what sorts of opportunities might be available via third-party apps. However,
+Reuters reported
+Monday that investors are wondering whether Apple could profit by distributing third-party AI agents through the App Store and taking a cut of the revenue they generate.
+Regulatory and legal changes have cut into App Store commission revenue in some markets, even as Apple’s services business as a whole continues to grow. Third-party estimates in August, for example, suggested the company had seen
+an 18% drop
+in U.S. commission revenue, with declines also in Brazil and Japan after those countries introduced new regulations. Apple has traditionally controlled payments within its app marketplace tightly, taking a cut of all App Store transactions. But a
+lawsuit by Epic Games
+ultimately forced the company to allow apps to redirect users to outside payment systems. Other legal challenges
+throughout the world
+have further hampered the business.
+During the earnings call, Parekh referenced Apple’s App Store woes and returned to the idea that the company’s service
+---
+[TITLE] Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens
+[LINK] https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/
+[PUBLISHED] Tue, 03 Nov 2026 00:35:52 +0000
+[BODY]
+Y Combinator's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Hutton Supancic / SXSW Conference and Festivals / Getty Images
+AI
+Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens
+Julie Bort
+4:35 PM PST · November 2, 2026
+Y Combinator CEO Garry Tan has, in the past,
+jokingly admitted
+that he’s suffered from “cyber psychosis” and sometimes barely sleeps because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast
+The Builders
+, set to publish on Tuesday, Tan put a price tag on his passion.
+“I spend about maybe $100[,000] to $200,000 a year on tokens,” he told Isaacson. He uses agents for countless work projects and coding tasks and has freely shared his set of 23 Claude Code skills,
+called gstack
+, on GitHub — an effort to help teach others what agents can do, he said.
+On the one hand, he uses his agent the way many people use AI: to help him research Isaacson’s podcast and prep for the kinds of questions he might be asked. On the other, his agent also helps him run his life.
+“It’s read all of my email and all of my Dropbox. It’s read, like, all of my Apple Notes, even my therapy notes going back 20 years,” he said.
+He describes using AI agents as getting help with “almost anything that you do in your day-to-day life, and for it to do it somewhat more autonomously. Think of it as a Jiminy Cricket on your shoulder at all times. Like, almost anything you want to do, it knows you, and it’s there to help. And it will actually sort of run ahead and say, ‘What about this?’ Or it’ll help you see around corners.”
+As an early OpenClaw adopter who is now a power user, Tan says one thing he’s learned is not to treat AI agents like traditional software. Some people are so worried about “repeatability and safety that they actually trade off all of the beautiful parts of working with an AI agent, which basically can be so similar to a human,” he said.
+For instance, Y Combinator is also using an agent that is “rebuilding the way we operate at YC,” he said. “We now have an internal AI agent, for instance, named Stray Light th
+---
+[TITLE] Trajectory raises $45M to make AI model training accessible to nontechnical experts
+[LINK] https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/
+[PUBLISHED] Mon, 02 Nov 2026 23:13:53 +0000
+[BODY]
+Trajectory raises $45M to make AI model training accessible to nontechnical experts | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Trajectory
+AI
+Trajectory raises $45M to make AI model training accessible to nontechnical experts
+Marina Temkin
+3:13 PM PST · November 2, 2026
+Whether developed by OpenAI or Anthropic or built on open source alternatives, current AI models share a critical limitation: They don’t learn from their mistakes without further training.
+Businesses adapting these models for specialized fields, such as law and finance, typically get around this by fine-tuning general models. However, that often requires hiring internal research teams or relying on expensive consultants, commonly known as forward-deployed engineers (FDEs).
+Trajectory
+, a startup founded about a year ago by three Stanford classmates with experience at Google DeepMind and Apple, wants to automate that process, allowing AI models to learn from feedback and continuously improve at specialized tasks.
+The 18-person company just announced that it raised $45 million in a Series A round at a $300 million valuation, led by Sequoia, with participation from Nvidia, Bessemer Venture Partners, and Bain Capital Ventures.
+Trajectory co-founder Ronak Malde compared foundational models to a very smart PhD student who’s always starting a new job. “But what the economy values is someone who worked on the job for 30 years,” he told TechCrunch.
+The startup aims to solve this problem through an approach known as continual learning. Businesses using Trajectory can start with an open source AI model and connect the platform to their applications, allowing it to collect feedback on how the model performs. Trajectory then uses that information to retrain the model, helping it improve at specialized tasks over time.
+With Trajectory, lawyers, doctors, and other specialists can improve the models near automatically themselves, Malde said. That capability could make deploying specialized AI faster and cheaper.
+Companies like Harvey and Rogo are already using Trajectory’s platform to post-train open source models, helping them perform more like experienced lawyers or financial analysts by learning from p
+---
+[평가 오류] https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 6.009620363s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '6s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 5.704808027s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 5.408806009s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 5.104553775s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 4.796271807s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '4s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 4.494628518s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '4s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 4.205429043s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '4s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 3.920707801s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}}
+---
