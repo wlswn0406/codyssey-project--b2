@@ -1,0 +1,64 @@
+[수집 파이프라인 실행] 2026-11-04 11:48:07
+---
+[TITLE] Apple Watch의 Audio Intelligence, 개발자 베타 테스트 시작 - Unite.AI
+[LINK] https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWkzd01lZi1RRFJnMzlSMDhtdzVIcWlXRkNLdVhFNFFaOWhwNkFHM0hUenNDSGY3czVIMlpjSUp1b21HMndWeGxjTURNN0ZQcTNkTWQxdnVpWUh1Q3RIenVIWTZwQy0zcnVpeWh5OXhueHFrNjdOZmJkZ0RjOVIzVWE0a1VXMzVDdjhxaU5n?oc=5
+[PUBLISHED] Tue, 03 Nov 2026 07:38:05 GMT
+[SUMMARY]
+Apple Watch의 Audio Intelligence, 개발자 베타 테스트 시작&nbsp;&nbsp;Unite.AI
+---
+[TITLE] Anthropic is working on a system to prove AI models’ identity
+[LINK] https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/
+[PUBLISHED] Tue, 03 Nov 2026 22:41:03 +0000
+[SUMMARY]
+Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.
+---
+[TITLE] Data centers are turning to old jet engines as the wait for power grows
+[LINK] https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/
+[PUBLISHED] Tue, 03 Nov 2026 22:19:53 +0000
+[SUMMARY]
+The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.
+---
+[TITLE] Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom
+[LINK] https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/
+[PUBLISHED] Tue, 03 Nov 2026 21:43:08 +0000
+[SUMMARY]
+Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.
+---
+[TITLE] AI inference startup Fal doubles its valuation to $16B as demand surges
+[LINK] https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
+[PUBLISHED] Tue, 03 Nov 2026 19:34:43 +0000
+[SUMMARY]
+The five-year-old startup raised a $1.3  billion round led by Bessemer.
+---
+[TITLE] Netflix’s new AI Discover tab helps you find something to watch based on your mood
+[LINK] https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/
+[PUBLISHED] Tue, 03 Nov 2026 18:42:16 +0000
+[SUMMARY]
+The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.
+---
+[TITLE] Anthropic is still grappling with the economics of compute
+[LINK] https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/
+[PUBLISHED] Tue, 03 Nov 2026 17:07:01 +0000
+[SUMMARY]
+At a moment when Anthropic's compute margins should be getting better, they’re getting worse.
+---
+[TITLE] Google will let schools disable its AI tools, but not without sacrificing Search
+[LINK] https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/
+[PUBLISHED] Tue, 03 Nov 2026 16:30:34 +0000
+[SUMMARY]
+Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.
+---
+[TITLE] Apple restricts dating apps and AI companions to users 18 and up
+[LINK] https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/
+[PUBLISHED] Tue, 03 Nov 2026 15:38:27 +0000
+[SUMMARY]
+Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.
+---
+[TITLE] Apple Watch’s AI features for rewinding and recapping conversations begin beta testing
+[LINK] https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/
+[PUBLISHED] Tue, 03 Nov 2026 07:20:00 +0000
+[SUMMARY]
+Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
