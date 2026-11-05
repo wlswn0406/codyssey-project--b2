@@ -1,0 +1,76 @@
+[수집 파이프라인 실행] 2026-11-05 11:56:10
+---
+[TITLE] "AI로 아마존 산림파괴 막는다"... 유네스코·ITU·브라질, 글로벌 AI 기후연구소 설립 - 인공지능신문
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1TWtKU0FjUnA2U1hSYlQtUnhXRV9UQjVyRTY0Ynp5VjJ3cndkTmhsQmE1Z1VIVkFMM2p4N2R4aU54RXhFYks3QUJRQThkbDRmZFVvZXR4MVpOQ2RGM1ZLeEZzRmllUDQ?oc=5
+[PUBLISHED] Wed, 04 Nov 2026 02:51:48 GMT
+[SUMMARY]
+"AI로 아마존 산림파괴 막는다"... 유네스코·ITU·브라질, 글로벌 AI 기후연구소 설립&nbsp;&nbsp;인공지능신문
+---
+[TITLE] Apple is reportedly cutting budgets for its internal AI usage
+[LINK] https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/
+[PUBLISHED] Thu, 05 Nov 2026 01:26:22 +0000
+[SUMMARY]
+The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.
+---
+[TITLE] AI PACs spent millions trying to shape Congress — here’s how they fared
+[LINK] https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/
+[PUBLISHED] Wed, 04 Nov 2026 22:45:09 +0000
+[SUMMARY]
+AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.
+---
+[TITLE] Nothing CEO says company’s mysterious AI-first device is dropping next month
+[LINK] https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/
+[PUBLISHED] Wed, 04 Nov 2026 22:13:16 +0000
+[SUMMARY]
+While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.
+---
+[TITLE] Almost no one uses AI agents to book their Uber, company says
+[LINK] https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/
+[PUBLISHED] Wed, 04 Nov 2026 21:56:01 +0000
+[SUMMARY]
+During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.
+---
+[TITLE] OpenAI is already trying to shape the 2028 election
+[LINK] https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/
+[PUBLISHED] Wed, 04 Nov 2026 21:25:44 +0000
+[SUMMARY]
+OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.
+---
+[TITLE] Meta acquires AI coding startup Conductor
+[LINK] https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/
+[PUBLISHED] Wed, 04 Nov 2026 21:10:56 +0000
+[SUMMARY]
+The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.
+---
+[TITLE] Open source AI is booming. Hugging Face explains who profits.
+[LINK] https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/
+[PUBLISHED] Wed, 04 Nov 2026 19:30:04 +0000
+[SUMMARY]
+Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]
+---
+[TITLE] DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy
+[LINK] https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/
+[PUBLISHED] Wed, 04 Nov 2026 19:29:52 +0000
+[SUMMARY]
+DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.
+---
+[TITLE] Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs
+[LINK] https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/
+[PUBLISHED] Wed, 04 Nov 2026 18:44:57 +0000
+[SUMMARY]
+Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up?&#160; On this episode of [&#8230;]
+---
+[TITLE] I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling
+[LINK] https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/
+[PUBLISHED] Wed, 04 Nov 2026 16:51:35 +0000
+[SUMMARY]
+Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.
+---
+[TITLE] Google faces backlash for plan that would turn off Search for schools that restrict AI
+[LINK] https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/
+[PUBLISHED] Wed, 04 Nov 2026 16:17:22 +0000
+[SUMMARY]
+Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
