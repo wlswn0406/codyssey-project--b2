@@ -1,0 +1,568 @@
+[TITLE] [기고]공공부문 AI 윤리기준, 신뢰받는 'AI정부'의 출발점 - 머니투데이 - 머니투데이
+[LINK] https://news.google.com/rss/articles/CBMieEFVX3lxTE5qN1U3a0tmTXpzZ1VFZmFiaTZydjQxaWVaLVNXQVMydTF0VmVyUUFtTk5vSlJwUkdieUZYNjJBU2NHSllnSm9ublNrMFZfMFdoT3RVZjdpMXBTak5YeXFFTmJSa3loVzBrN2tSOHFzOG1uamo4M2JfMtIBfkFVX3lxTE9iang5QkVtek5KM3FFMHF5ZEJvSmdMdEt6VEtFaHBvd05pNFp5QUp6U1owOG1fb25LU0FfRTVYYzhqaUFrRkx0NFhlRDduY3hKek0zTXBBVEtZcUVJLV9fTnp3MkFxLXpTTUVNeERSZndFcGVYMTJiNEhhU0FBUQ?oc=5
+[PUBLISHED] Thu, 05 Nov 2026 20:00:00 GMT
+[BODY]
+Google News
+---
+[TITLE] 미 민주당 의원, AI 개발 동결·초지능 전면 금지 촉구 - Cryptopolitan
+[LINK] https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0d4aGI4ZmhnNnZ5MVdQQTR5d3ozZXIwY29tYkFQbEJ2d2ZqVVhRcVZYcEQ0ejRYU25YY1RXVFlPSlAxVWtfNDBhUXFicXkyWkx1MkNKTmxGSW9McE43WkpNUHRJV2l4bnhwWHFkUVFnX1dzY0ktUzFfVWNGUHJydVRpaw?oc=5
+[PUBLISHED] Thu, 05 Nov 2026 03:59:16 GMT
+[BODY]
+Google News
+---
+[TITLE] Airbnb says it’s launching an AI travel agent in the first half of 2027
+[LINK] https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/
+[PUBLISHED] Thu, 05 Nov 2026 22:40:55 +0000
+[BODY]
+Airbnb says it's launching an AI travel agent in the first half of 2027 | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Airbnb
+AI
+Airbnb says it’s launching an AI travel agent in the first half of 2027
+Sarah Perez
+2:40 PM PST · November 5, 2026
+Airbnb has
+teased
+its plans to build its own AI travel agent before, but on Thursday the company announced that the new AI feature will launch in the first half of 2027. In the company’s
+Q3 shareholder letter on Thursday
+, Airbnb also provided more detail about how the agent will work, what it will actually do, and how it’s different from a typical AI chatbot.
+In prior interviews, CEO Brian Chesky sketched out the travel company’s approach to AI,
+describing a plan to build an AI agent
+that has a richer interface than a conventional chatbot. He also expressed his opinions about how chatbots aren’t the right interface for travel, noting that people take pleasure in the planning process and in anticipating a trip. Any agent that it built, then, shouldn’t take away from the inspiration and the browsing,
+he told TechCrunch
+in an interview last month.
+Chesky today reiterated that belief, telling analysts on the earnings call that people won’t use one AI agent for everything.
+“Today’s AI agents like Muse and Instinct are good at simple routine tasks like making a restaurant reservation or scheduling an appointment. But planning a trip is different,” he said. “Travel is aspirational. Discovering where to go and where to stay is part of the experience. In fact, 80% of travelers say they enjoy spending time researching trips. People want to look at photos. They want to compare homes. They want to make decisions with people they’re traveling with,” he continued. “And I don’t think the general-purpose agents are the best to do that. So that is why we are building our own AI agent,” Chesky said.
+Airbnb described its agent as having a personalized interface that’s designed specifically for travel, where it will “build an interface” around a user’s question instead of simply responding as a chatbot would.
+“What we are doing is developing a custom-designed AI-native experience that responds to what guests are looking for,” Chesky said
+---
+[TITLE] Meta says US users can now video chat with their Muse AI avatar
+[LINK] https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/
+[PUBLISHED] Thu, 05 Nov 2026 19:48:28 +0000
+[BODY]
+Meta says US users can now video chat with their Muse AI avatar | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Meta
+AI
+Meta says US users can now video chat with their Muse AI avatar
+Sarah Perez
+11:48 AM PST · November 5, 2026
+Muse Voice, a feature that lets users call and video chat with Meta’s consumer AI agent, Muse, is now available to everyone in the U.S., the company announced on Thursday.
+First
+introduced
+at Meta’s Connect developer conference in September, the video-chatting feature involves new AI models,
+Muse Realtime Avatar
+and Muse Realtime Voice technology, which help power the digital avatar that chats with the user.
+While other AI competitors offer voice chat features, Meta’s Muse offers a cute, animated avatar (nicknamed Jolly), which users interact with as they ask questions or request tasks to be handled on their behalf. Users can also customize the avatar as they choose, changing it to something that looks more like a person, animal, or some other character.
+The company believes that anthropomorphizing Muse in this way could make consumers feel more connected to their AI agent — a connection that could grow even stronger as they begin to engage in live conversations with it.
+As the Muse avatar speaks, Meta says it will use “subtle expressions and gestures” that match the tone of the conversation. (Muse doesn’t actually “see” the user, but it hears them and reacts based on their conversations.)
+The news of the rollout was announced
+via blog post
+and
+on X
+by Meta’s chief AI officer, Alexandr Wang, who shared a demo of his Muse in action. The video saw Wang joking around, referencing his love of posting memes on X, which he told his Muse may have gotten him in trouble with his boss. His Muse, a fluffy white dog, responds with a suggestion to add disclaimers to those memes that could be misinterpreted as Meta endorsing anything risqué. (Ha!)
+The added support for video chats and calls comes just before Meta’s plan to launch
+a Tamagotchi-like wearable device for its Muse AI agent
+before year-end. When the device arrives, the digital avatar will appear on its small screen, letting users talk to the agent, which can then reply or carry out tasks 
+---
+[TITLE] Meta warns that election backlash against data centers could make AI expansion harder
+[LINK] https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/
+[PUBLISHED] Thu, 05 Nov 2026 19:12:39 +0000
+[BODY]
+Meta warns that election backlash against data centers could make AI expansion harder | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Gerville / Getty Images
+AI
+Meta warns that election backlash against data centers could make AI expansion harder
+Sarah Perez
+11:12 AM PST · November 5, 2026
+Meta president Dina Powell McCormick said that the Democratic wins in the midterm elections are going to make it a lot harder for companies to build data centers, adding that the industry has “not done as good a job as we needed to explain the benefits of these investments.”
+Speaking at the
+WSJ Tech conference
+on Wednesday, the Meta exec pointed out that the backlash against data centers — which was
+very much on the ballot during this election season
+— was also tied to people’s feelings about AI technology overall.
+“The visible sort of manifestation of AI is a data center, and it’s something that people can say, ‘I don’t want this in my community,’” she explained. “I think there’s an underlying bigger issue, which is how people feel about AI in general.”
+Meta believes it could turn around the negative consumer sentiment around AI if it’s able to demonstrate the value, not only of the data centers coming to local communities, but also in the technology itself.
+“The stakes of who builds the technology that cures cancer, that gives access to education, that is also a very fundamental difference … Mark [Zuckerberg, Meta CEO] is very ‘long human,’ and he’s betting on humans more than machines,” Powell McCormick explained. “And that’s what we mean when we say the future is for everyone. That people should not be left behind. But the way to ensure that is that this technology is democratized, that people have access to it in a very fair and transparent way,” she said.
+The exec also touted Meta’s experience in building data centers, saying that the company has been doing so for 20 years, as it takes a lot of compute power to offer the products it does in the social networking space. Today, the company has data centers in 23 states, she said, and five of them, including one in Texas, are planned as projects of 1 gigawatt or more.
+But Meta is now worried that it could lose some of it
+---
+[TITLE] OpenAI released a new cybersecurity model. Is that enough?
+[LINK] https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/
+[PUBLISHED] Thu, 05 Nov 2026 19:06:12 +0000
+[BODY]
+OpenAI released a new cybersecurity model. Is that enough? | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Samuel Boivin/NurPhoto / Getty Images
+AI
+OpenAI released a new cybersecurity model. Is that enough?
+Tim Fernholz
+11:06 AM PST · November 5, 2026
+Max Justicz, the chief technology officer and co-founder of the startup Charge Robotics, used an OpenAI model to find
+a severe vulnerability
+that — if exploited — could allow hackers to take control of servers running Ubuntu, a widely used open source Linux-based operating system.
+Justicz, who has a hobbyist’s interest in cybersecurity and previously found a vulnerability in the same codebase, told TechCrunch that he found this issue using GPT 5.6 Sol, released in July, through the AI maker’s Daybreak Blue, a program that gives cybersecurity defenders access to powerful frontier models.
+“I literally just aimed ChatGPT at the same body of code and said ‘I found this bug previously that was fixed several years ago, please find bugs as bad or worse,’ and it came back in two hours with this,” Justicz said. “It’s extremely convoluted and hard for a human to find, but it works!”
+He reported the issue to the Debian Project, which maintains the software in question and issued a patch to fix the vulnerability. There has been no known evidence of exploitation. Still, the ease with which he found it suggests that we’ve only seen the tip of the iceberg when it comes to potential exploits that even novice hackers can utilize with the help of AI models.
+“I can only imagine what one could do with more time and access to less neutered models. We should expect some extremely crazy bugs to be found and exploited over the next few months,” Justicz wrote in a
+social media thread
+discussing his finding. “This might be obvious to most folks here, but there is currently huge alpha in taking some code or binary someone has not audited yet and just aiming a powerful AI model at it.”
+OpenAI appears to have noticed. Today, the AI giant
+announced
+a new model focused on cybersecurity, ChatGPT Cyber, would be made available to the highest tier of users in the cybersecurity program, Daybreak Red, which allows offensive cybersecurity researche
+---
+[TITLE] OpenAI president Greg Brockman says company could be IPO ready in 2027
+[LINK] https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/
+[PUBLISHED] Thu, 05 Nov 2026 18:02:27 +0000
+[BODY]
+OpenAI president Greg Brockman says company could be IPO ready in 2027 | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+TechCrunch
+AI
+OpenAI president Greg Brockman says company could be IPO ready in 2027
+Sarah Perez
+10:02 AM PST · November 5, 2026
+OpenAI co-founder and president Greg Brockman said the company would be ready for an IPO in 2027, noting that its enterprise revenue has been growing. Speaking at a
+Wall Street Journal tech conference
+on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.
+In response to the interviewer’s question about being IPO-ready next year, Brockman replied, “I think so. Yes.”
+“We’ve been very clear this year that we want to go public when we feel is the right time for us, and I feel extremely good about the business. I feel like we’ve made so much progress this year, and I’ve honestly never felt more confident in what we’re doing,” Brockman said.
+He detailed how OpenAI’s trajectory as an enterprise had changed over the course of 2026, noting that the first and second quarters were “pretty rough.” He also admitted that OpenAI “wasn’t even in the conversation” when it came to agentic coding — an area where Anthropic’s Claude Code has gained market share.
+“We had Codex, but no one was talking about it,” Brockman continued, “and I think that we just kept our heads down and executed.”
+By the third quarter, activity picked up, as OpenAI saw 70% quarterly growth in its annualized revenue — something Brockman attributed to the enterprise side of the business doubling. He explained that the growth wasn’t simply the result of something that happened in the quarter itself, but rather the culmination of investments the company had been making up to that point.
+Now the majority of OpenAI’s revenue is coming from the enterprise business, which previously accounted for only around 30% of its total revenue.
+“And it’s not that consumer [revenue has shrunk] … It’s been growing, but it’s the enterprise segment has really taken off,” he said, pointing to a recent partnership with JPMorgan Chase as one example of the type of client it’s now w
+---
+[TITLE] Claude can now analyze your spending with its new Personal Finance tool
+[LINK] https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/
+[PUBLISHED] Thu, 05 Nov 2026 18:00:00 +0000
+[BODY]
+Claude can now analyze your spending with its new Personal Finance tool | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Anthropic
+AI
+Claude can now analyze your spending with its new Personal Finance tool
+Aisha Malik
+10:00 AM PST · November 5, 2026
+Anthropic announced Thursday that Claude is getting a new tool called “Personal Finance,” designed to help users keep track of their money. With it, users can connect their bank and credit card accounts through Plaid and ask Claude questions about their finances. Anthropic says access is read-only, meaning Personal Finance can’t move, manage, or invest users’ money.
+By letting Claude connect directly to bank and credit card accounts, Anthropic is positioning its chatbot as a financial companion that can help people understand their spending and make sense of their money, rather than simply offering them generic advice.
+With the launch, Claude is playing catch-up to OpenAI’s ChatGPT, which introduced similar
+personal finance tools
+in May that also let users connect their financial accounts and ask questions about everything from spending patterns to long-term financial planning.
+“Claude gives you answers in everyday language, from your balances and transactions, and explains any term that’s new to you,” Anthropic wrote in a blog post. “Like the rest of Claude, Personal Finance has no ads or sponsored recommendations, and it doesn’t offer credit cards, loans, or savings accounts of its own, so your money questions get a straight answer.”
+Image Credits:
+Anthropic
+For instance, at the end of the month, a user could ask Claude, “Where did my money go this month?” The chatbot will then add up spending across the connected accounts and sort it by category, such as rent and utilities, food and drink, and shopping. Users can choose to go deeper by following up with questions like, “Is that more than usual?” or “Anything else I’m missing?”
+Anthropic says the tool goes beyond basic spending summaries by analyzing transactions across connected accounts to flag potential issues, such as duplicate charges, unexpected fees, and steadily increasing bills. Users can also ask broader questions about their finances, such as whether t
+---
+[평가 오류] https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 30.157943124s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 29.938962856s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 29.728231065s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.\nPlease retry in 29.492123907s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://ai.google.dev/gemini-api/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+---

@@ -1,0 +1,76 @@
+[수집 파이프라인 실행] 2026-11-06 11:56:17
+---
+[TITLE] [기고]공공부문 AI 윤리기준, 신뢰받는 'AI정부'의 출발점 - 머니투데이 - 머니투데이
+[LINK] https://news.google.com/rss/articles/CBMieEFVX3lxTE5qN1U3a0tmTXpzZ1VFZmFiaTZydjQxaWVaLVNXQVMydTF0VmVyUUFtTk5vSlJwUkdieUZYNjJBU2NHSllnSm9ublNrMFZfMFdoT3RVZjdpMXBTak5YeXFFTmJSa3loVzBrN2tSOHFzOG1uamo4M2JfMtIBfkFVX3lxTE9iang5QkVtek5KM3FFMHF5ZEJvSmdMdEt6VEtFaHBvd05pNFp5QUp6U1owOG1fb25LU0FfRTVYYzhqaUFrRkx0NFhlRDduY3hKek0zTXBBVEtZcUVJLV9fTnp3MkFxLXpTTUVNeERSZndFcGVYMTJiNEhhU0FBUQ?oc=5
+[PUBLISHED] Thu, 05 Nov 2026 20:00:00 GMT
+[SUMMARY]
+[기고]공공부문 AI 윤리기준, 신뢰받는 'AI정부'의 출발점 - 머니투데이&nbsp;&nbsp;머니투데이
+---
+[TITLE] 미 민주당 의원, AI 개발 동결·초지능 전면 금지 촉구 - Cryptopolitan
+[LINK] https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0d4aGI4ZmhnNnZ5MVdQQTR5d3ozZXIwY29tYkFQbEJ2d2ZqVVhRcVZYcEQ0ejRYU25YY1RXVFlPSlAxVWtfNDBhUXFicXkyWkx1MkNKTmxGSW9McE43WkpNUHRJV2l4bnhwWHFkUVFnX1dzY0ktUzFfVWNGUHJydVRpaw?oc=5
+[PUBLISHED] Thu, 05 Nov 2026 03:59:16 GMT
+[SUMMARY]
+미 민주당 의원, AI 개발 동결·초지능 전면 금지 촉구&nbsp;&nbsp;Cryptopolitan
+---
+[TITLE] Airbnb says it’s launching an AI travel agent in the first half of 2027
+[LINK] https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/
+[PUBLISHED] Thu, 05 Nov 2026 22:40:55 +0000
+[SUMMARY]
+Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.
+---
+[TITLE] Meta says US users can now video chat with their Muse AI avatar
+[LINK] https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/
+[PUBLISHED] Thu, 05 Nov 2026 19:48:28 +0000
+[SUMMARY]
+Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.
+---
+[TITLE] Meta warns that election backlash against data centers could make AI expansion harder
+[LINK] https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/
+[PUBLISHED] Thu, 05 Nov 2026 19:12:39 +0000
+[SUMMARY]
+Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.
+---
+[TITLE] OpenAI released a new cybersecurity model. Is that enough?
+[LINK] https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/
+[PUBLISHED] Thu, 05 Nov 2026 19:06:12 +0000
+[SUMMARY]
+OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.
+---
+[TITLE] OpenAI president Greg Brockman says company could be IPO ready in 2027
+[LINK] https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/
+[PUBLISHED] Thu, 05 Nov 2026 18:02:27 +0000
+[SUMMARY]
+Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.
+---
+[TITLE] Claude can now analyze your spending with its new Personal Finance tool
+[LINK] https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/
+[PUBLISHED] Thu, 05 Nov 2026 18:00:00 +0000
+[SUMMARY]
+With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.
+---
+[TITLE] Axiom Math wants to keep AI slop out of mathematics
+[LINK] https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/
+[PUBLISHED] Thu, 05 Nov 2026 16:16:45 +0000
+[SUMMARY]
+As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.
+---
+[TITLE] Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure
+[LINK] https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/
+[PUBLISHED] Thu, 05 Nov 2026 15:19:05 +0000
+[SUMMARY]
+The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.
+---
+[TITLE] Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents
+[LINK] https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/
+[PUBLISHED] Thu, 05 Nov 2026 14:42:00 +0000
+[SUMMARY]
+Aina's ring can also take calls and help you dictate notes on your Mac.
+---
+[TITLE] A YC startup is putting $1M behind 5 unsolved materials science problems for AI
+[LINK] https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/
+[PUBLISHED] Thu, 05 Nov 2026 13:00:00 +0000
+[SUMMARY]
+While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
