@@ -1,0 +1,88 @@
+[수집 파이프라인 실행] 2026-11-07 11:26:23
+---
+[TITLE] 팔란티어-창신, 파트너십 체결…데이터·AI로 신발 개발 제조 혁신 - 디일렉
+[LINK] https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QeWFaek9yYUNvTm92VzRzNlRXUmRSS1pESlJ4Q2VMV0JQbU1FQkxiUWJLMjY4VWJidEtwcUJiWmJ3VFRGZFY2S1YwS0U4RFdjM1gwX3dIa2F4c3ZGU1NsZy0wb25Ydw?oc=5
+[PUBLISHED] Fri, 06 Nov 2026 06:49:13 GMT
+[SUMMARY]
+팔란티어-창신, 파트너십 체결…데이터·AI로 신발 개발 제조 혁신&nbsp;&nbsp;디일렉
+---
+[TITLE] 국가AI전략위, ‘초지능 대응 TF’ 꾸린다… 내년 6월까지 10대 과제 발굴 - Chosunbiz
+[LINK] https://news.google.com/rss/articles/CBMiggFBVV95cUxNeE5zd1piWVJMSlJpeUx2dkJGdDZSeHVDWUc1YVY3ekJPRlJCcDZ2eFlSSlJvZm1JZGNoVFgwVEJvYV9ndUllUEh5VXFwejRzT1BSbWotdHVOQ2U1MVNHNjh6REdQWnNVamVtU1JLVnZHdmZVNTlJVnBqZXNzbDZxUnlR0gGWAUFVX3lxTE9kcUdQQTQxQ2ZsUG9YNVZlWUtfYUdLY2swYi1YT2hDWFB2cG5mc3Fhd0RteGNfZEpqZDNreU8yU283ckduZTVVVXUycXJlSW83by1kN2o4T2haWXhnQmFWb2JVS3JCWC1DOUdTVkpXdHhSVXgxZlJIdWhLUjk4djBRSmRfMGZpY2w5NmxkN2wxSU0xbU85Zw?oc=5
+[PUBLISHED] Fri, 06 Nov 2026 07:03:42 GMT
+[SUMMARY]
+국가AI전략위, ‘초지능 대응 TF’ 꾸린다… 내년 6월까지 10대 과제 발굴&nbsp;&nbsp;Chosunbiz
+---
+[TITLE] How the National Museum of Korea curates its AI strategy - CIO
+[LINK] https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVJSUWZaMW0ta3lJeF9udDBSbGkzWThHbmw0Y0tZVloxX2o3c3d4R2wzT09jMjE3RGRPNlQxNlVDeU1MZlp6a3lfWlVlSWRIOXVQSGJUejRScjZrTzlBLXY2ckY5RTNRRUxTTWxXOUlOckk1TmRkZVlncmp1MmY1VnVtMXJEUjlEb0pJMEd3cm9SemJQS05LNDluNWF2RVNhLXYyeWN0T2UtZzZPQUM4Nm8yV19IeXdsTmxqZThTNUVfQkVZUmJCcmRpMDdQQ2xVLUlPY2tyRElMUkpDOVNpbk0wTGdxdw?oc=5
+[PUBLISHED] Fri, 06 Nov 2026 10:30:37 GMT
+[SUMMARY]
+How the National Museum of Korea curates its AI strategy&nbsp;&nbsp;CIO
+---
+[TITLE] Crusoe sells troubled Wyoming data center project to Google
+[LINK] https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/
+[PUBLISHED] Sat, 07 Nov 2026 01:40:28 +0000
+[SUMMARY]
+The deal highlights the challenges of developing massive AI data centers.
+---
+[TITLE] OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation
+[LINK] https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/
+[PUBLISHED] Fri, 06 Nov 2026 22:53:46 +0000
+[SUMMARY]
+OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
+---
+[TITLE] Hundreds of Artex AI hacking tools found publicly exposed to the web
+[LINK] https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/
+[PUBLISHED] Fri, 06 Nov 2026 18:44:38 +0000
+[SUMMARY]
+Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
+---
+[TITLE] Meta introduces Spaces, a new way to collaborate with your Muse agent
+[LINK] https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
+[PUBLISHED] Fri, 06 Nov 2026 18:44:20 +0000
+[SUMMARY]
+Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.
+---
+[TITLE] How a Blue Wave midterm might reshape the AI industry
+[LINK] https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/
+[PUBLISHED] Fri, 06 Nov 2026 18:00:00 +0000
+[SUMMARY]
+Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]
+---
+[TITLE] After the midterms, is the AI industry in for a rough two years?
+[LINK] https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/
+[PUBLISHED] Fri, 06 Nov 2026 17:23:52 +0000
+[SUMMARY]
+Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a [&#8230;]
+---
+[TITLE] Ramp data shows AI spending stalling just as Anthropic nears its IPO
+[LINK] https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/
+[PUBLISHED] Fri, 06 Nov 2026 15:54:47 +0000
+[SUMMARY]
+AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.
+---
+[TITLE] After blocking Muse, Amazon now lets users text Alexa to help them shop
+[LINK] https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/
+[PUBLISHED] Fri, 06 Nov 2026 14:10:00 +0000
+[SUMMARY]
+Amazon said that the feature will roll out to millions of users in coming weeks.
+---
+[TITLE] Underdog shows off a 32MB speech model in new demo
+[LINK] https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/
+[PUBLISHED] Fri, 06 Nov 2026 13:02:16 +0000
+[SUMMARY]
+Despite its small size, Underdog's new model can generate both speech and music.
+---
+[TITLE] Physicl raises $10M to make the digital world real enough for robots
+[LINK] https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/
+[PUBLISHED] Fri, 06 Nov 2026 13:00:00 +0000
+[SUMMARY]
+Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.
+---
+[TITLE] Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M
+[LINK] https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/
+[PUBLISHED] Fri, 06 Nov 2026 06:28:32 +0000
+[SUMMARY]
+Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---

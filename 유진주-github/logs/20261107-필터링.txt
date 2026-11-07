@@ -1,0 +1,325 @@
+[LINK] https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QeWFaek9yYUNvTm92VzRzNlRXUmRSS1pESlJ4Q2VMV0JQbU1FQkxiUWJLMjY4VWJidEtwcUJiWmJ3VFRGZFY2S1YwS0U4RFdjM1gwX3dIa2F4c3ZGU1NsZy0wb25Ydw?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] 국가AI전략위, ‘초지능 대응 TF’ 꾸린다… 내년 6월까지 10대 과제 발굴 - Chosunbiz
+[LINK] https://news.google.com/rss/articles/CBMiggFBVV95cUxNeE5zd1piWVJMSlJpeUx2dkJGdDZSeHVDWUc1YVY3ekJPRlJCcDZ2eFlSSlJvZm1JZGNoVFgwVEJvYV9ndUllUEh5VXFwejRzT1BSbWotdHVOQ2U1MVNHNjh6REdQWnNVamVtU1JLVnZHdmZVNTlJVnBqZXNzbDZxUnlR0gGWAUFVX3lxTE9kcUdQQTQxQ2ZsUG9YNVZlWUtfYUdLY2swYi1YT2hDWFB2cG5mc3Fhd0RteGNfZEpqZDNreU8yU283ckduZTVVVXUycXJlSW83by1kN2o4T2haWXhnQmFWb2JVS3JCWC1DOUdTVkpXdHhSVXgxZlJIdWhLUjk4djBRSmRfMGZpY2w5NmxkN2wxSU0xbU85Zw?oc=5
+[PUBLISHED] Fri, 06 Nov 2026 07:03:42 GMT
+[BODY]
+Google News
+---
+[LINK] https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVJSUWZaMW0ta3lJeF9udDBSbGkzWThHbmw0Y0tZVloxX2o3c3d4R2wzT09jMjE3RGRPNlQxNlVDeU1MZlp6a3lfWlVlSWRIOXVQSGJUejRScjZrTzlBLXY2ckY5RTNRRUxTTWxXOUlOckk1TmRkZVlncmp1MmY1VnVtMXJEUjlEb0pJMEd3cm9SemJQS05LNDluNWF2RVNhLXYyeWN0T2UtZzZPQUM4Nm8yV19IeXdsTmxqZThTNUVfQkVZUmJCcmRpMDdQQ2xVLUlPY2tyRElMUkpDOVNpbk0wTGdxdw?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Crusoe sells troubled Wyoming data center project to Google
+[LINK] https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/
+[PUBLISHED] Sat, 07 Nov 2026 01:40:28 +0000
+[BODY]
+Crusoe sells troubled Wyoming data center project to Google | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Brett Coomer/Houston Chronicle / Getty Images
+AI
+Crusoe sells troubled Wyoming data center project to Google
+Marina Temkin
+5:40 PM PST · November 6, 2026
+Crusoe, an eight-year-old, Denver-based data center developer recently valued at
+$30.9 billion
+,
+confirmed
+Friday it has sold an unfinished data center project in southeastern Wyoming to Google.
+Google, which Crusoe had tried and failed to land as a customer for the project, is taking over the development after reportedly raising concerns about its cost and construction timeline under Crusoe’s management.
+Crusoe initially announced the project last year with Blackstone-backed infrastructure company Tallgrass, planning to eventually scale it to 10 gigawatts of power capacity.
+Google did not disclose how much it paid Crusoe for the unfinished project, bu it announced  plans to
+invest $17 billion
+to develop the data center campus.
+The deal highlights how difficult it can be for independent data center developers to deliver massive projects on time and within budget, given the challenges of securing equipment and power. Growing opposition from local communities can further complicate development.
+Despite taking over the Wyoming facility, Google hasn’t walked away from working with Crusoe entirely. Crusoe is developing
+another data
+center for Google near Amarillo, Texas.
+The deal to sell the site to Google was first reported
+by Bloomberg
+in June, but the Wyoming setback didn’t stop Crusoe from raising a
+$3.9 billion round
+in September.
+Crusoe makes money by leasing data center space to customers that bring their own GPUs, by renting out its own GPUs, and by selling compute power used to run AI models, known as inference.
+Crusoe’s largest projects serve some of the biggest names in AI. Its campus in Abilene, Texas, is being built in phases for Oracle and OpenAI, and the company is also constructing a separate 900-megawatt campus next door for Microsoft, with its first building expected to come online in mid-2027. Meta is also a customer, and Bloomberg reported that the trading firm Jane Street signed a
+$13 b
+---
+[평가 오류] https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/ - API 호출 실패: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+---
+[평가 오류] https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 43.917144706s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}}
+---
+[TITLE] Meta introduces Spaces, a new way to collaborate with your Muse agent
+[LINK] https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/
+[PUBLISHED] Fri, 06 Nov 2026 18:44:20 +0000
+[BODY]
+Meta introduces Spaces, a new way to collaborate with your Muse agent | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Meta
+AI
+Meta introduces Spaces, a new way to collaborate with your Muse agent
+Lucas Ropek
+10:44 AM PST · November 6, 2026
+Meta recently launched
+its Muse agents
+— a new generation of cuddly agentic helpers. Now, the company has launched Spaces, a new way to communicate and collaborate with them.
+As far as I can tell, Spaces are basically breakout conversations that revolve around a particular topic — although Meta refers to them as “custom experiences.” They live in the sidebar of the interface where you interact with your Muse agent. Clicking on the Space brings up the conversation, where Muse works toward a particular goal on your behalf.
+For instance, if you wanted to plan a vacation, you could open a new Space focused on that particular project, and whenever you want to work on it with Muse, you would click to open that particular tab. Or, if you’re focused on collecting recipes for an upcoming family event, you’d open a new Space for that particular project. Other examples Meta gives are a holiday gift tracker, a wedding planner, or a space for DIY projects.
+“Describe an idea in chat, and Muse builds a space for you, whether that’s a tracker, a planner or a project board,” Meta says.
+Image Credits:
+Meta
+Spaces can also be easily integrated with third-party apps and information, Meta says.
+“Connect the apps you use, and your spaces keep themselves up to date in the background, so new concert dates, price changes, or savings progress show up without you having to ask,” the company says.
+On Friday, Mark Zuckerberg, Meta’s founder and CEO,
+posted
+about the new feature on X: “Playing around with spaces in Muse lately — tell Muse what you need and it builds it. I’ve made a BBQ game, an event tracker, and a home control dashboard. Excited to see what you build.”
+Muse agents — and the cuddly avatars that enclose them — have been greeted with a relatively warm reception over the past few months. During its earnings call in October,
+Zuckerberg said that
+its agents had 10 million users in the U.S. and Canada — less than two months after the agents d
+---
+[평가 오류] https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 35.847367137s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}
+---
+[평가 오류] https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 35.659006182s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 35.465353099s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 35.25967339s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}
+---
+[TITLE] Underdog shows off a 32MB speech model in new demo
+[LINK] https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/
+[PUBLISHED] Fri, 06 Nov 2026 13:02:16 +0000
+[BODY]
+Underdog shows off a 32MB speech model in new demo | TechCrunch
+–:–:–:–
+Buy One Founder Summit Ticket, Get a Second for Free.
+Register now.
+Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts.
+REGISTER HERE.
+Close
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Underdog
+AI
+Underdog shows off a 32MB speech model in new demo
+Ivan Mehta
+5:02 AM PST · November 6, 2026
+AI companies across the world are racing to make bigger and better models, but the problem is all of them need massive amounts of processing power. On the other end, some researchers and startups are creating smaller models that can run on edge devices, like your phone or computer.
+One such startup, Underdog, has released
+a game
+built with its new voice model called Woof that’s only 32MB large.
+The game features a room with a retro tech theme, a typewriter, and a CRT monitor. There is a desk lamp, which makes a sound when you click its switch. The intro warns users about “intrusive” cloud providers in the town — ostensibly a jab at cloud-based models.
+You can interact with the typewriter and music tuner.
+We made a game for our new frontier text-to-speech model, Woof. 31.7 MB, so small that it runs in your browser
+Play the game on X… all voices are Woof. Defeat Darkcloud for an invite
+https://t.co/ImUFYDCBQG
+pic.twitter.com/tthHx7ZGBK
+— Underdog AI (@UnderdogAI)
+November 5, 2026
+You can type anything on the typewriter using your keyboard, and the game will speak it back. You can also rotate the tuner to generate different kinds of music.
+All of this works within the browser through Underdog’s speech generation model, which, the company says, can run on most devices without any internet connection. The model has 31 million parameters and is open for everyone to download.
+While such a small model likely won’t replace bigger models, it may still be enough to drive local assistant experiences or create personalized podcasts.
+This demo comes weeks after Underdog launched
+Bark
+, a 167MB speech-to-text model also designed to run on edge devices for transcription and dictation.
+Sigil Wen,
+the founder of Underdog
+, told TechCrunch that he started building the app because, instead of using notetakers like Granola, he wanted to build his own system with AI models that can run on users’ devices and let them own their data.
+“I think we will be able to run most capable mode
+---
+[평가 오류] https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 28.9041159s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 28.714950967s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
+---
