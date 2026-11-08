@@ -1,0 +1,16 @@
+[수집 파이프라인 실행] 2026-11-08 10:55:32
+---
+[TITLE] Amid U.S. AI investment jitters… Bae Kyung-hoon says “Korea must not delay investment” - 경향신문
+[LINK] https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zWHVueVc1d1NDX0xKTXZWQzFkOERqenpURFNNV2pFb3BId3E4VF9vRWU1MFlLSVFWTjA4VUdpUXBEbzFMOHpZSnJrbzJGUnFUd1dIY3hPdnhUYmx4bGc?oc=5
+[PUBLISHED] Fri, 06 Nov 2026 09:24:00 GMT
+[SUMMARY]
+Amid U.S. AI investment jitters… Bae Kyung-hoon says “Korea must not delay investment”&nbsp;&nbsp;경향신문
+---
+[TITLE] Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo
+[LINK] https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/
+[PUBLISHED] Sat, 07 Nov 2026 21:17:08 +0000
+[SUMMARY]
+A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
