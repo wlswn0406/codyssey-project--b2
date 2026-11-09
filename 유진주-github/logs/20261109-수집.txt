@@ -1,0 +1,10 @@
+[수집 파이프라인 실행] 2026-11-09 11:10:05
+---
+[TITLE] Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy
+[LINK] https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/
+[PUBLISHED] Sun, 08 Nov 2026 21:00:11 +0000
+[SUMMARY]
+In a memo to the company, Huang admitted that he had an affair.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
