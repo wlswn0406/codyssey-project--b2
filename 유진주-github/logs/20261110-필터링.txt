@@ -1,0 +1,434 @@
+[LINK] https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUhHV0g0WkhfNmVldHV5dGxsazNtTVdOU3FDcmROMzBtb0FkM0hzR0IybG5FdHU0MnBFZ2U2dXRZYWFsWURxSG0xaW9oV1VfOW1VbXVrQndVUFpjenE3RDNod0xTNlNoeEJXZkNRRnVNd1J0czA1VHNkdlZPcl9VUE05UEtrMW9KbFgzWFRMWmxwTm5fb0xqUUVMcjdXWkFNdUJ1dg?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Anthropic reportedly plans to move forward with IPO plans
+[LINK] https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/
+[PUBLISHED] Tue, 10 Nov 2026 01:27:12 +0000
+[BODY]
+Anthropic reportedly plans to move forward with IPO plans | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+5:27 PM PST · November 9, 2026
+Image Credits:
+Ruhani Kaur/Bloomberg / Getty Images
+Marina Temkin
+Anthropic reportedly plans to move forward with IPO plans
+Launching a major tech IPO would seem risky right now, shortly after one of Nasdaq’s biggest sell-offs and amid revelations that a CEO central to the AI boom had an affair with a suspected Chinese spy. But that isn’t deterring Anthropic, which is moving ahead with its listing plans, according to
+The Wall Street Journal
+.
+Anthropic plans to set a valuation range this week and begin trading on Thursday or Friday of next week, the Journal reported.
+Investors will look to Anthropic’s valuation to gauge the strength of the AI boom. Some institutional investors are now pushing for a valuation below the $1.5 trillion target discussed as recently as last week, a figure that was itself considerably below the $2 trillion floated a few months ago, the report said.
+OpenAI, Anthropic’s main rival, was reportedly valued at
+$1.25 trillion
+last week after the ChatGPT maker raised $11 billion in fresh capital, short of the $20 billion it had initially sought.
+Topics
+AI
+,
+Anthropic
+,
+In Brief
+,
+IPO
+,
+valuation
+2027
+San Francisco
+Get an Early Peek at the Next TechCrunch Disrupt
+Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.
+Sign up for our waitlist
+Register Now
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight.
+Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+StrictlyVC
+Provides movers and shakers with the info they need to start their day.
+No newsletters selected.
+Subscribe
+By submitting your email, you agree to our
+Terms
+and
+Privacy Notice
+.
+Related
+AI
+Anthropic releases new Mythos and Fable models amid RSI concerns
+Russell Brandom
+9 hours ago
+Climate
+Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines
+Tim De Chant
+11 hours ago
+AI
+Medium’s new TK app brings AI assistance directly into the writing process
+Sarah Perez
+12 hours ago
+Latest in AI
+In Brief
+Anthropic reportedly plans to
+---
+[LINK] https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Anthropic releases new Mythos and Fable models amid RSI concerns
+[LINK] https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/
+[PUBLISHED] Mon, 09 Nov 2026 19:24:51 +0000
+[BODY]
+Anthropic releases new Mythos and Fable models amid RSI concerns | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+bIllustration y Nikolas Kokovlis / NurPhoto / Getty Images
+AI
+Anthropic releases new Mythos and Fable models amid RSI concerns
+Russell Brandom
+11:24 AM PST · November 9, 2026
+Anthropic released
+new versions of its most advanced models
+on Monday, with the launch of Mythos 5.2 and Fable 5.2. The company says the new models “show improvements in areas like coding, reasoning, and vision” and communicate more clearly with users.
+Notably, Anthropic is lowering the cost of Fable from $10 to $8 per million input tokens. As a result, Fable 5.2 is now cheaper than its primary competitor GPT-6 Astra. Anthropic says that the new version of Fable will return responses 30% faster across effort levels. Faster inference serving is available for double the price.
+Fable 5.2 is also compatible with zero data retention (ZDR) policies through the
+Enterprise Frontier Safeguards system
+, long a sticking point for many enterprise clients.
+It’s Anthropic’s first model release since the arrival of
+a third-party report from the assessment group METR
+, which suggested the lab might be approaching recursive self-improvement (RSI) — or the ability for AI models to carry on model training independently. The METR report found internal models were speeding up Anthropic’s AI progress by roughly 2x, although many uncertainties remain.
+Still, Anthropic’s release notes significant ongoing challenges in accurately testing model capabilities. “Claude Mythos 5.2 and Fable 5.2 each voice suspicion that they are being evaluated more often than any of our recent models, which challenges our ability to assess how they will act in real-world settings. As these settings expand and capabilities increase with future models, we expect this challenge to grow.”
+Anthropic maintains that the new version of Mythos does not have the ability to act covertly against its user, a verdict that’s detailed further in
+Mythos 5.2’s system card
+.
+“Claude Mythos 5.2 shows stronger covert capabilities than prior Claude models on several of our evaluations, particularly when its reasoning is hidden from the monitor,” the system card reads. “That said, we believe that low levels of absolute performance on our new covert evaluations support claims that rely on detection of harmful actions in high-stake
+---
+[TITLE] Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny
+[LINK] https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/
+[PUBLISHED] Mon, 09 Nov 2026 18:09:52 +0000
+[BODY]
+Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+PATRICK T. FALLON / Contributor / Getty Images
+Government & Policy
+Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny
+Rebecca Bellan
+10:09 AM PST · November 9, 2026
+Nvidia CEO Jensen Huang has never been quiet about his belief that the U.S. should continue selling AI chips to China, rather than shutting the country off from the technology. The revelation that he had an affair with an alleged Chinese spy threatens to complicate that argument.
+The Financial Times
+reported Friday on Huang’s relationship with Alice Huang, a former executive at Megaspeed, an Nvidia customer. Jensen Huang
+admitted
+to the affair and apologized in a memo to the company on Sunday. U.S. intelligence officials believe Alice Huang was recruited by Chinese intelligence to gather information about the CEO and influence the company’s efforts to loosen chip export restrictions.
+Nvidia’s independent directors, working with outside legal counsel, are
+investigating
+the matter, and
+Congress is already demanding answers
+.
+The controversy comes at a sensitive moment for Nvidia. Historically, China has been a big market for the company. It has shrunk in recent years due to strict U.S. export controls and an aggressive push by Beijing for domestic alternatives. In the three months ended July 26, Nvidia recorded $7.9 billion in revenue from customers headquartered in China, roughly 8% of total revenue.
+Huang has
+repeatedly lobbied
+the U.S. government to
+expand access to China
+, and some of his persuasion tactics have been successful. Huang met repeatedly with President Donald Trump and administration officials last year; afterward, the government reversed restrictions on Nvidia’s H20 chips and allowed exports of its more powerful H200 processors.
+On numerous occasions, Huang has publicly lamented export controls, calling them a “
+failure
+” at a conference last year and saying in May that it was “
+not wise
+” for the U.S. and China to create two distinct AI ecosystems. He has also warned that shutting Nvidia out of China’s compute market would enable the country to develop its own AI chips to challenge Nvidia internationally.
+China is already moving in that direction.
+Reuters reported
+last week that about 600,
+---
+[TITLE] Meta releases Muse Ember, a new lightweight model for agent execution
+[LINK] https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/
+[PUBLISHED] Mon, 09 Nov 2026 18:00:00 +0000
+[BODY]
+Meta releases Muse Ember, a new lightweight model for agent execution | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Meta Superintelligence Labs
+AI
+Meta releases Muse Ember, a new lightweight model for agent execution
+Russell Brandom
+10:00 AM PST · November 9, 2026
+Meta Superintelligence Lab released a new AI model on Monday called Muse Ember, the lab’s lightest and most cost-efficient AI model yet. In its release, Meta said Ember was “designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing.”
+Meta particularly emphasized Ember’s cost-per-task, using
+Artificial Analysis’s composite benchmark score
+to show Ember as cheaper and smarter than competitors like Anthropic’s Haiku and OpenAI’s Luna.
+Image Credits:
+Meta Superintelligence Labs
+At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna. Not only that, it’s cost-competitive with open source competitors like DeepSeek V4.1 Flash and GLM 5.3 Flash.
+Given the emphasis on low cost and accuracy at scale, Ember is designed to pair with a larger model like Meta’s Muse Wonder in an agentic harness. In the case of a customer-support agent, for instance, you might see a heavier model establishing rules for how to handle a particular issue, then sending a lighter-weight model to apply the rules across tens of thousands of cases. As Meta puts it in the announcement, “Muse Wonder plans, Muse Ember handles the volume.”
+With volume-heavy use cases in mind, Meta also trained Ember to work well across different types of media, including text, images, and audio. The result makes the model surprisingly flexible in what kind of inputs it can handle. As Meta puts it in the announcement, “agents can read screenshots, charts, and scanned documents, or work from voice memos, meeting recordings, and video without a separate model.”
+Ember is the fourth model released under Meta’s Muse brand, following the mid-weight Spark (
+released in April
+), Spark’s open source twin Glimmer (
+released in August
+), and the Wonder frontier model (
+released in October
+). The flagship consumer AI product, the Muse Agent, was
+released in September
+to
+unexpected success
+, with new features like
+Spaces
+and
+video chat
+rolling out earlier this month.
+Topics
+AI
+,
+Meta
+,
+meta superintellige
+---
+[평가 오류] https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 19.250719234s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 19.118640678s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 19.001236389s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 18.880742363s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '18s'}]}}
+---
