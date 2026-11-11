@@ -1,0 +1,390 @@
+[LINK] https://news.google.com/rss/articles/CBMic0FVX3lxTE03WjU4VkhMdFB3anZZMVlWT0w5S1RBRDVpcXN0OG9PNE1OQXZtU3YxV0ZWVWpVU3FVTXFOYUw0YUd6VHk3Nk01SW1BY3RwMHlVX0s4dFM3aWVSaFJjUHhhM1VlLWFBbjEweFZPVmEtX1F2dUU?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] 딥엑스, 삼성 2나노 기반 생성형 AI 반도체로 CES 혁신상…내년 말 양산 돌입 - 녹색경제신문
+[LINK] https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rdjkwNmIxUHB2eDRYQVRrQ1FSTjJJTVRHYndYWmhvbENfeFlWZ1ZyTmcxajVmVDBOampmV2Zld3dUeU41UHlMbjVoSThHRG1sYU9DRjVNNnpQZVJmbjkyMUlmWXpId3Uw?oc=5
+[PUBLISHED] Tue, 10 Nov 2026 08:42:07 GMT
+[BODY]
+Google News
+---
+[LINK] https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect
+[LINK] https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
+[PUBLISHED] Tue, 10 Nov 2026 20:52:13 +0000
+[BODY]
+OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Angelina Katsanis/Bloomberg / Getty Images
+Government & Policy
+OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect
+Rebecca Bellan
+12:52 PM PST · November 10, 2026
+New York is gearing up to enforce one of the country’s most significant AI safety laws. The state opened a registration portal Tuesday, with which large frontier AI developers like Anthropic and OpenAI will be required to register by January 1, 2027.
+The RAISE Act
+, New York’s safety and transparency bill, kicks in at the start of the year. It mandates that large frontier developers — companies with more than $500 million in annual revenue — have to publish safety frameworks on their websites, report critical safety incidents within 72 hours, and issue public model transparency reports.
+The newly formed Office of Digital Innovation, Governance, Integrity, and Trust (DIGIT) will implement the RAISE Act and oversee large frontier AI labs. Penalties can be as high as $1 million for one violation and $3 million for subsequent violations.
+The state also can bring enforcement actions against companies that fail to register with the new portal, though a spokesperson declined to provide specifics.
+“Tech moguls tell us that their vision for AI is inevitable,” Governor Kathy Hochul said Tuesday during a press briefing. “They tell us get on board or get left behind… That any collateral damage is worth it as long as we win the race to the AI cliff.”
+On Tuesday, Hochul also launched the New York Center for AI Responsibility and Research based at State University of New York’s Binghamton University. The center will independently evaluate the safety, security, and operation of advanced AI systems and work with DIGIT to review companies’ safety frameworks. Hochul first announced the center in January with $55 million in donations and capital.
+“We’re building a national model for smart, sensible AI regulation, a model that puts communities above corporations and people above powerful technology,” Hochul said.
+The RAISE Act isn’t the only safety law New York has passed. Last year, the state began enforcing
+a law that requires AI companion
+operators to regularly let users know they’re talking to a bot, and to make reasonable efforts to detect suicidal id
+---
+[TITLE] All 7 Anthropic founders will each cash out about $250M in IPO
+[LINK] https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/
+[PUBLISHED] Tue, 10 Nov 2026 19:57:52 +0000
+[BODY]
+All 7 Anthropic founders will each cash out about $250M in IPO | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Evan-Marie Petit Photography
+AI
+All 7 Anthropic founders will each cash out about $250M in IPO
+Julie Bort
+11:57 AM PST · November 10, 2026
+As Anthropic barrels toward an enormous IPO that could value it at
+$1.4 trillion,
+the company has disclosed a tidbit in its new S-1 filing about how many shares each of its seven co-founders plan to sell.
+Each will sell 3,378,378 shares. Anthropic has floated an unusually broad initial price range of $70 to $78 a share. At the midrange of $74, each founder would take in just shy of $250 million.
+At the low end, $70, each would have to settle for pocketing just over $236 million in cash; at the high end, $78, each would take in just under $264 million.
+However, in an IPO as eagerly anticipated as this one, companies can often price shares above the initial range.
+The S-1 is already hinting at high demand. Board member Reed Hastings has indicated he wants to buy $300 million worth of shares through his donor-advised fund. Board member Christopher Liddell also wants to buy $3 million worth of shares.
+The seven co-founders are Dario Amodei, CEO; Daniela Amodei, president and chair of the board; Tom Brown, chief compute officer; Jack Clark, head of public benefit; Jared Kaplan, chief science officer (pictured above); Sam McCandlish, chief architect; and Christopher Olah, interpretability research lead.
+After the sale, each of them will own about 3.2% of the total outstanding Class A shares, the S-1 says, or roughly 22% collectively. That’s not their share of the company overall. Class A is just one of Anthropic’s share classes, and other holders, including Amazon and Google, hold nonvoting Class N shares, so the founders’ stake in the company’s total equity will be considerably smaller. Even still, they, as a group, remain in control of the company. Each will also receive one share of Class F stock, which carries supervoting rights. Collectively, the founders will control 51.1% of the votes, but no single founder will hold significantly more shares or votes than the others.
+As is now industry lore, the seven left OpenAI to start Anthropic in 2021 after disagreements with OpenAI’s leadership over how AI should be built. Siblings Dario and Daniela Amodei, who held senior research and policy roles at OpenAI
+---
+[TITLE] Oura to acquire AI-native primary care startup Counsel Health for $625M
+[LINK] https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/
+[PUBLISHED] Tue, 10 Nov 2026 19:23:34 +0000
+[BODY]
+Oura to acquire AI-native primary care startup Counsel Health for $625M | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Smith Collection/Gado / Getty Images
+AI
+Oura to acquire AI-native primary care startup Counsel Health for $625M
+Aisha Malik
+11:23 AM PST · November 10, 2026
+Oura
+announced
+on Tuesday that it’s acquiring AI-native primary care company Counsel Health for $625 million. The deal comes a few weeks after Oura
+postponed
+its
+up to $2.2 billion IPO
+indefinitely, citing “uncertainty in the IPO market.”
+Counsel Health is an AI-powered healthcare platform that combines a chat-based medical experience with access to licensed physicians. Its service was integrated into the Oura app in June.
+Users can connect with Counsel’s medical AI to get personalized medical advice, and chat with a physician when needed, all within the Oura app. Now, the companies plan to expand on their existing partnership to build across preventative care, acute care, and specialty and chronic care.
+While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By acquiring Counsel Health, Oura is looking to expand its business and help users access medical care.
+“Oura helps members understand their physiology and, with Counsel, they can take action on their health across a range of needs, from quick questions and prescriptions to lab results, chronic care, and referrals,” said Oura CEO Tom Hale in a
+press release
+.
+Counsel Health raised
+a $25 million Series A
+a year ago, led by Andreessen Horowitz (a16z) and GV. PitchBook estimates it had raised a total of $36 million.
+Following the acquisition, Oura says Counsel will continue serving existing and new enterprise partners, with the goal of expanding its AI-native care model to more people beyond Oura’s membership.
+Counsel CEO Muthu Alagappan will join Oura as chief clinical AI officer, alongside the company’s 70 employees,
+Bloomberg
+reports.
+“At Counsel, we’ve built medical AI around trust, safety and responsibility, keeping physicians in the loop for clinical decisions,” Alagappan said in the press release. “Oura’s data gives clinicians objective context, trended biometrics, and member engagement to deliver more informed care. From the start, our teams bonded over a joint vision, shared culture, and
+---
+[평가 오류] https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 48.906500736s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 48.739346496s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 48.596705143s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 48.468948596s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 48.343244826s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}
+---
+[TITLE] Meta’s AI agent Muse lands on Apple Watch and Android Wear OS
+[LINK] https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/
+[PUBLISHED] Tue, 10 Nov 2026 15:29:30 +0000
+[BODY]
+Meta's AI agent Muse lands on Apple Watch and Android Wear OS | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Mark Zuckerberg on X
+AI
+Meta’s AI agent Muse lands on Apple Watch and Android Wear OS
+Aisha Malik
+7:29 AM PST · November 10, 2026
+Meta is bringing its Muse AI agent to the Apple Watch and Android’s Wear OS, the company
+announced
+on Monday. With the launch, users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation directly on their smartwatch.
+Works around the clock, and now on your wrist. Muse is now on Apple Watch and Wear OS ⌚️
+pic.twitter.com/97QRap5XKz
+— Muse (@Muse)
+November 9, 2026
+The smartwatch launch comes just a month after Meta introduced a dedicated
+iPad app
+for Muse. First launched on the App Store in September, the AI assistant’s expansion across Apple devices signals Meta’s growing ambitions for its consumer AI product and its focus on making Muse a central part of its ecosystem.
+Muse is now one of dozens of consumer-facing AI agents competing for users’ attention. Like many of its competitors, it allows users to connect their accounts to manage email, meetings, bills, and more, while also handling tasks such as booking reservations, ordering groceries, setting goals, and making purchases.
+Users can also personalize their Muse avatar to their liking and change it into something that resembles a person, an animal, or another type of character.
+Despite being a relatively new product, Meta has wasted little time introducing new capabilities to Muse.
+A few days ago, Meta launched
+Spaces
+, a new way to communicate and collaborate with Muse. Spaces function as dedicated conversations around specific topics, which Meta describes as “custom experiences” as they’re mini apps that are built on the fly. They appear in the sidebar of the Muse interface and bring up a focused conversation where the AI agent works toward a particular goal on the user’s behalf.
+Last week, Meta rolled out the ability for users in the U.S. to
+video chat
+with their Muse AI avatar. Meta said Muse will use “subtle expressions and gestures” that reflect the tone and context of the conversation as it speaks. It’s worth noting that Muse doesn’t actually see users, but can hear them and respond in real time.
+Shortly after its launch, Muse became one of just 12 mobile apps to have
+surpassed 10 million U.S. downloads
+within t
+---
+[평가 오류] https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 41.820592021s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 41.666887943s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 41.562254359s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 41.439662103s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 41.334601461s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 41.204022453s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}
+---

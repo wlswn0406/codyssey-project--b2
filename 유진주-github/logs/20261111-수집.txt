@@ -1,0 +1,112 @@
+[수집 파이프라인 실행] 2026-11-11 11:20:05
+---
+[TITLE] WATA AI, CES 2027 혁신상 'AI’, ‘Supply & Logistics' 2개 부문 수상 - 대한경제
+[LINK] https://news.google.com/rss/articles/CBMic0FVX3lxTE03WjU4VkhMdFB3anZZMVlWT0w5S1RBRDVpcXN0OG9PNE1OQXZtU3YxV0ZWVWpVU3FVTXFOYUw0YUd6VHk3Nk01SW1BY3RwMHlVX0s4dFM3aWVSaFJjUHhhM1VlLWFBbjEweFZPVmEtX1F2dUU?oc=5
+[PUBLISHED] Wed, 11 Nov 2026 01:28:45 GMT
+[SUMMARY]
+WATA AI, CES 2027 혁신상 'AI’, ‘Supply & Logistics' 2개 부문 수상&nbsp;&nbsp;대한경제
+---
+[TITLE] 딥엑스, 삼성 2나노 기반 생성형 AI 반도체로 CES 혁신상…내년 말 양산 돌입 - 녹색경제신문
+[LINK] https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rdjkwNmIxUHB2eDRYQVRrQ1FSTjJJTVRHYndYWmhvbENfeFlWZ1ZyTmcxajVmVDBOampmV2Zld3dUeU41UHlMbjVoSThHRG1sYU9DRjVNNnpQZVJmbjkyMUlmWXpId3Uw?oc=5
+[PUBLISHED] Tue, 10 Nov 2026 08:42:07 GMT
+[SUMMARY]
+딥엑스, 삼성 2나노 기반 생성형 AI 반도체로 CES 혁신상…내년 말 양산 돌입&nbsp;&nbsp;녹색경제신문
+---
+[TITLE] OpenAI acquires Odessia, travel startup created by Sonder founder
+[LINK] https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/
+[PUBLISHED] Tue, 10 Nov 2026 21:08:52 +0000
+[SUMMARY]
+OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.
+---
+[TITLE] OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect
+[LINK] https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/
+[PUBLISHED] Tue, 10 Nov 2026 20:52:13 +0000
+[SUMMARY]
+New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.
+---
+[TITLE] All 7 Anthropic founders will each cash out about $250M in IPO
+[LINK] https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/
+[PUBLISHED] Tue, 10 Nov 2026 19:57:52 +0000
+[SUMMARY]
+Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.
+---
+[TITLE] Oura to acquire AI-native primary care startup Counsel Health for $625M
+[LINK] https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/
+[PUBLISHED] Tue, 10 Nov 2026 19:23:34 +0000
+[SUMMARY]
+The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”
+---
+[TITLE] PSI is trying to make a business out of AI-driven scientific discovery
+[LINK] https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/
+[PUBLISHED] Tue, 10 Nov 2026 19:03:52 +0000
+[SUMMARY]
+PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.
+---
+[TITLE] OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google
+[LINK] https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/
+[PUBLISHED] Tue, 10 Nov 2026 18:49:52 +0000
+[SUMMARY]
+OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.
+---
+[TITLE] Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks
+[LINK] https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/
+[PUBLISHED] Tue, 10 Nov 2026 17:30:00 +0000
+[SUMMARY]
+As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.
+---
+[TITLE] Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline
+[LINK] https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+[PUBLISHED] Tue, 10 Nov 2026 17:04:19 +0000
+[SUMMARY]
+The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+---
+[TITLE] Google broadens its AI hardware portfolio with two new specialized chips
+[LINK] https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/
+[PUBLISHED] Tue, 10 Nov 2026 15:54:08 +0000
+[SUMMARY]
+Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.
+---
+[TITLE] Meta’s AI agent Muse lands on Apple Watch and Android Wear OS
+[LINK] https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/
+[PUBLISHED] Tue, 10 Nov 2026 15:29:30 +0000
+[SUMMARY]
+Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.
+---
+[TITLE] Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly
+[LINK] https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/
+[PUBLISHED] Tue, 10 Nov 2026 14:05:10 +0000
+[SUMMARY]
+Adobe is taking on Figma with a new prototype builder tool in Firefly.
+---
+[TITLE] Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion
+[LINK] https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/
+[PUBLISHED] Tue, 10 Nov 2026 14:01:39 +0000
+[SUMMARY]
+The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.
+---
+[TITLE] After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era
+[LINK] https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/
+[PUBLISHED] Tue, 10 Nov 2026 14:00:00 +0000
+[SUMMARY]
+Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.
+---
+[TITLE] Spotify’s AI DJ gets new voices, personalities, and an option for less chatter
+[LINK] https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/
+[PUBLISHED] Tue, 10 Nov 2026 14:00:00 +0000
+[SUMMARY]
+Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.
+---
+[TITLE] Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns
+[LINK] https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/
+[PUBLISHED] Tue, 10 Nov 2026 13:00:00 +0000
+[SUMMARY]
+Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.
+---
+[TITLE] Otter AI can now follow conversations across 30+ languages
+[LINK] https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/
+[PUBLISHED] Tue, 10 Nov 2026 07:00:00 +0000
+[SUMMARY]
+Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
