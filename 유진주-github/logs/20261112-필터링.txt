@@ -1,0 +1,799 @@
+[LINK] https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VLUFDeEZkdFl1N2JKejFwRl9LOEM4czRUNi1oQ2oyQVcwY0JkWDlsZERwTjFyTy1aR19HNFZFdG8yeEJkZFg2b3hWeDNRd3hVQ3JVQWxB?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] The unfolding Jensen Huang scandal: a timeline
+[LINK] https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+[PUBLISHED] Wed, 11 Nov 2026 23:50:00 +0000
+[BODY]
+The unfolding Jensen Huang scandal: a timeline | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Justin Sullivan / Getty Images
+AI
+The unfolding Jensen Huang scandal: a timeline
+Amanda Silberling
+3:50 PM PST · November 11, 2026
+Nvidia co-founder CEO Jensen Huang has never been as flashy or controversy-prone as AI leaders like OpenAI’s Sam Altman or SpaceXAI’s Elon Musk. Now, the 63-year-old industry kingpin has admitted that he
+cheated on his wife
+of 40 years in an affair that could have ramifications beyond Huang’s personal life and potentially impact national security.
+United States officials believe that Huang’s likely romantic interest, Megaspeed executive Alice Huang, is
+a Chinese spy
+who has been feeding information back to Beijing. (Alice Huang, a Chinese citizen, is of no relation to Jensen Huang.)
+Megaspeed, a Singapore-based AI infrastructure company, had reportedly
+purchased
+$4.8 billion in Nvidia chips over the last two years. The U.S. and Singapore have both previously investigated Megaspeed over suspicions that the firm was illegally sharing chips with China. The Justice Department has since taken over the federal investigation into the company, the Times has reported.
+The story took a sudden new turn on Wednesday. Citing five people who worked at Nvidia, the Times reported that Huang also
+had an extramarital relationship
+with Kimberly Powell, the company’s vice president of health care, who reports directly to him. Nvidia, Huang and Powell have not confirmed the report. Reached by a Times reporter, Huang reportedly said, “I don’t think you should be talking to me directly,” before hanging up.
+Separately, the Wall Street Journal reported that Nvidia’s board is preparing to
+oust Huang
+, and Nvidia’s shares fell in after-hours trading.
+The U.S. and China are embroiled in a fierce technological arms race to build the most advanced AI infrastructure, which could shape each country’s economic future, military prowess, and capacity for innovation. Nvidia is valuable in this competition as one of the world’s largest makers of AI chips, which are essential for accelerating AI development. But as an American company, Nvidia faces government restrictions on the sale of its most powerful chips to Chinese entities.
+As the controversy unfolds, we are organizing the most relevant events into a reverse-chronological timeline to keep you up to date
+---
+[LINK] https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Why the data center you dread might never even be built
+[LINK] https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/
+[PUBLISHED] Wed, 11 Nov 2026 20:15:15 +0000
+[BODY]
+Why the data center you dread might never even be built | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+AI
+Why the data center you dread might never even be built
+Theresa Loconsolo
+Rebecca Bellan
+Tim De Chant
+12:15 PM PST · November 11, 2026
+31 min
+Loading the player…
+The data center boom is running into serious real-world obstacles, from widespread
+local opposition
+and permitting delays to a
+scramble for electricity
+. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With
+billions of dollars
+in AI infrastructure investment at stake, separating realistic projects from speculative ones is becoming increasingly important.
+On this episode of TechCrunch’s
+Equity
+podcast, hosts Rebecca Bellan and Tim De Chant are joined by
+Brent Nelson
+, senior managing director of markets and strategy at
+Ascend Analytics
+, to separate the data center projects that are likely to get built from the ones that may never get off the ground.
+Subscribe to Equity on
+YouTube
+,
+Apple Podcasts
+,
+Overcast
+,
+Spotify
+and all the casts. You also can follow Equity on
+X
+and
+Threads
+, at @EquityPod.
+Topics
+AI
+,
+AI data center
+,
+data center
+,
+Government & Policy
+Theresa Loconsolo
+Audio Producer
+Theresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University.
+You can contact or verify outreach from Theresa by emailing
+[email protected]
+.
+View Bio
+Rebecca Bellan
+Senior Reporter
+Rebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications.
+You can contact or verify outreach from Rebecca by emailing
+[email protected]
+or via encrypted message at rebeccabellan.491 on Signal.
+View Bio
+Tim De Chant
+Senior Reporter, Climate
+Tim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, t
+---
+[TITLE] How backlash and red tape continue to slow data centers post-Blue Wave
+[LINK] https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/
+[PUBLISHED] Wed, 11 Nov 2026 20:02:14 +0000
+[BODY]
+How backlash and red tape continue to slow data centers post-Blue Wave | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+How backlash and red tape continue to slow data centers post-Blue Wave
+Theresa Loconsolo
+,
+Rebecca Bellan
+,
+Tim De Chant
+Nov 11, 2026
+Listen on
+Apple Podcasts
+Listen on
+Spotify
+The data center boom is running into serious real-world obstacles, from widespread
+local opposition
+and permitting delays to a
+scramble for electricity
+. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With
+billions of dollars
+in AI infrastructure investment at stake, separating realistic projects from speculative ones is becoming increasingly important.
+On this episode of TechCrunch’s
+Equity
+podcast, hosts Rebecca Bellan and Tim De Chant are joined by
+Brent Nelson
+, senior managing director of markets and strategy at
+Ascend Analytics
+, to separate the data center projects that are likely to get built from the ones that may never get off the ground.
+Listen to the full episode to hear about:
+Why Brent thinks the data center pipeline is wildly inflated, and why only a fraction of the proposed projects will actually get built.
+What happens to all that AI infrastructure if the bubble bursts, and why the data center developers with the wrong tenants could be in serious trouble.
+Why Brent thinks Democrats should take their shot at permitting reform now, rather than wait for a more favorable political moment.
+How energy projects get stuck in a permitting loop, how administrations of both parties have contributed to the problem, and what it would take to get them moving again.
+Why natural gas isn’t necessarily the reliable fallback developers think it is, particularly during extreme winter weather.
+What a less obvious alternative to gas could look like: pairing battery storage with a grid connection that can be temporarily curtailed during periods of high demand.
+Subscribe to Equity on
+YouTube
+,
+Apple Podcasts
+,
+Overcast
+,
+Spotify
+and all the casts. You also can follow Equity on
+X
+and
+Threads
+, at @EquityPod.
+Theresa Loconsolo
+Audio Producer
+Theresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voi
+---
+[TITLE] CoreWeave turns to customer prepayments, shorter contracts to fund AI growth
+[LINK] https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/
+[PUBLISHED] Wed, 11 Nov 2026 19:54:00 +0000
+[BODY]
+CoreWeave turns to customer prepayments, shorter contracts to fund AI growth | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+VCG/VCG / Getty Images
+AI
+CoreWeave turns to customer prepayments, shorter contracts to fund AI growth
+Rebecca Bellan
+11:54 AM PST · November 11, 2026
+CoreWeave is rewriting how it pays for the AI boom, according to the
+company’s third-quarter earnings
+, reported on Tuesday. CoreWeave, a neocloud that rents out the computing power behind AI, said it’s increasingly asking customers to pay up front, borrowing against specific contracts, and even pursuing short-term deals that could lead to higher prices.
+The new strategies could help CoreWeave finance its growth more efficiently while squeezing more cash from existing infrastructure. But these bets only hold if today’s demand and pricing power continue.
+CoreWeave reported $3.66 billion in revenue, up 168% from the year prior, but it also posted a $709 million net loss and $846 million in quarterly interest expense.
+“We will not use the unsecured debt market to fund our business at current yields, nor do we need to,” CoreWeave CEO Michael Intrator said during Tuesday’s earnings call.
+Instead, CoreWeave’s plan is to rely on loans backed by specific customer contracts, drawing on funds as needed to finance most of the infrastructure it still has to build to deliver on its significant backlog of $132.5 billion.
+CoreWeave also said it expects about $9 billion in customer prepayments and deposits over the next three months, including more than $3 billion tied to signing new customer contracts for capacity it has already built, which requires no additional spending on hardware.
+Rivals Nebius and IREN have also relied on hefty Microsoft prepayments to pay for computing capacity, signaling that the industry is moving toward asking Big Tech to pay up for their buildouts.
+Upfront payments could alleviate CoreWeave’s immediate borrowing needs, but they also commit the company to providing services at a price that might be less attractive down the road if compute demand continues to surge.
+CoreWeave is also looking to capitalize on that growing demand by signing more shorter-term contracts that can command much higher prices.
+The company raised prices across its offerings by about 25% in July and by another 10% later in the quarter. Prices are still climbing this quarter, in a way that 
+---
+[TITLE] With $720M round, Britain’s Fractile gets a leg up in the race for AI chips
+[LINK] https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
+[PUBLISHED] Wed, 11 Nov 2026 19:34:55 +0000
+[BODY]
+With $720M round, Britain's Fractile gets a leg up in the race for AI chips | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Sam Barnes/Sportsfile for Web Summit via Getty Images
+AI
+With $720M round, Britain’s Fractile gets a leg up in the race for AI chips
+Anna Heim
+11:34 AM PST · November 11, 2026
+Fractile
+, a British startup developing AI chips, has raised
+a $720 million Series C
+backed by Britain’s Sovereign AI Fund with hopes of “ensuring the U.K. has a greater stake in the hardware that will underpin its future economy,” its government
+stated
+.
+Alongside the likes of
+Axelera
+,
+Etched
+, and
+OLIX
+, this makes Fractile one of the top-funded startup players in the race for purpose-built AI chips. Such chips are one of several avenues being explored to reduce the cost of inference — aka using increasingly demanding AI models in production.
+However, Fractile seeks to go beyond hardware with a full-stack approach that also includes a machine learning compiler to maximize the speed at which LLMs will get executed on its chips.
+As a result, the company frames itself as a frontier AI company, and its latest round led by Thrive Capital, Founders Fund, Lightspeed Venture Partners, and Redpoint was priced accordingly. According to the British government, the valuation was “over £5 billion” — quite possibly $7 billion, a figure reported both
+by the Financial Times
+and
+a Reuters source
+.
+Still, Fractile’s main differentiator will arguably be its hardware design. After a
+pivot
+, its approach now revolves on DRAM, the most common type of RAM, but stacked on top of each chip in such a way that it is hoping will bypass the usual trade-off between memory and capacity.
+This trade-off has become more problematic with the rise of agentic AI, as companies seek to perform longer chains of tasks with large models without compromising on speed. As compute struggles to keep up, hopes are high for AI chips, despite their limited availability to date.
+In a
+LinkedIn post
+, Fractile CEO Walter Goodwin wrote that “there is still a lot of work ahead” for the company, and that the new funding will enable the startup to “ship [its] first chips and systems next year.”
+Topics
+AI
+,
+Fundraising
+,
+semiconductor chips
+,
+Startups
+,
+United Kingdom
+When you purchase through links in our articles,
+we may earn a small commission
+. This doesn’t affect our editorial independence.
+Anna He
+---
+[평가 오류] https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 55.429118884s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}
+---
+[LINK] https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] OpenAI’s quarterly revenue reportedly crosses $10B for the first time
+[LINK] https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+[PUBLISHED] Wed, 11 Nov 2026 16:14:44 +0000
+[BODY]
+OpenAI's quarterly revenue reportedly crosses $10B for the first time | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Bryce Durbin / TechCrunch
+AI
+OpenAI’s quarterly revenue reportedly crosses $10B for the first time
+Ram Iyer
+8:14 AM PST · November 11, 2026
+OpenAI is bouncing back from the doldrums it experienced earlier this year. The company’s quarterly revenue crossed $10 billion for the first time, thanks to strong demand for its recent AI models,
+Bloomberg reported
+, citing anonymous sources.
+If true, that would represent an almost 50% jump from the $6.7 billion in sales the company
+reportedly
+recorded in the second quarter. That would also mark a sizable increase in its revenue growth rate, which was previously said to be about 18% between the first and second quarters of the year.
+OpenAI’s profitability picture also appears to have improved, with its adjusted operating margin narrowing from -150% in the second quarter to -109% in the third quarter, the report said.
+OpenAI, one of the first to commercialize AI models, wasn’t exactly struggling to continue growing its top-line expansion — 18% growth on top of $5.7 billion in quarterly revenue is massive by any measure, especially compared to most software businesses.
+But it was seeing those gains be trumped by its archrival Anthropic, which has taken the lead in capturing the enterprise market for AI models and recently
+reported Q3 revenue of $17 billion
+. OpenAI’s broader focus helped it attract a large user base and gain popularity early on, and it says it has
+over a billion users
+, but it’s reasonable to assume most of those are free users or subscribers to its cheapest plans.
+Still, the company lagged Anthropic in catering to enterprises, a market where the Claude maker has pulled ahead, at least in terms of revenue growth.
+OpenAI has recently benefited from a combination of tighter pricing, discounts, improving models, and a greater focus on building more enterprise-focused products and AI agents that can help people complete tasks.
+OpenAI has now reached an annual revenue run rate of $50 billion, according to Bloomberg. Meanwhile, Anthropic, which is
+seeking a $1.4 trillion valuation in an IPO likely to happen soon
+, said yesterday that its annual revenue run rate had increased by $10 billion within a month to $81 billion as of the end of October.
+(Note that OpenAI and Anthropic calc
+---
+[TITLE] Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth
+[LINK] https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/
+[PUBLISHED] Wed, 11 Nov 2026 15:00:00 +0000
+[BODY]
+Databricks' new AI agent tells CEO Ali Ghodsi the unvarnished truth | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Databricks
+Enterprise
+Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth
+Julie Bort
+7:00 AM PST · November 11, 2026
+Databricks on Wednesday unveiled an updated version of its AI agent Genie, which can now perform multistep jobs that take extended work to finish. It does this through an ontology that Databricks built to give Genie the context it needs from the information that customers store on the Databricks platform.
+Corporate leaders can now assign the agent a wide range of tasks, and it will complete them unsupervised, the company says. To prove the point, Databricks CEO Ali Ghodsi showed me how he uses it internally. Instead of a product demo, he fired up his actual agent and walked me through his most recent chats and charts.
+He showed me how it analyzed the parts of an employee satisfaction survey where the company didn’t score well, and how it helped him rate (and discard) fixes for those low scores that some executives suggested. He showed me how it summarized a big sales pitch to a prospect that went poorly — including the features the prospect said it needed before buying.
+It also prepped him for a podcast interview by reviewing his previous appearances and developing likely questions. While we talked, he even had it tell him what he should say to me. (And its advice on that wasn’t bad.)
+The fascinating part was that Ghodsi was using Genie to find the stuff that he’s now unlikely to hear as the big boss. It was a source of unvarnished truth about what wasn’t going well that he needed to address.
+“Have you heard of Dunbar’s number? The magic number is 150,” he said when I pointed this out. Named for British anthropologist Robin Dunbar, it’s theoretically the maximum number of people with whom humans can maintain stable relationships. In a small startup, a CEO knows everyone, has direct relationships with them, and they feel safe to tell him negative info straight up.
+With 12,000 employees, Ghodsi is the first to admit he can’t know everyone. At that size, a salesperson isn’t likely to confess a disastrous sales call to the CEO. An HR manager isn’t likely to confess that their idea for increasing employee satisfaction will probably fail.
+“Anyone who has more than 150 employees, which is a lot of companies
+---
+[TITLE] Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
+[LINK] https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/
+[PUBLISHED] Wed, 11 Nov 2026 14:00:00 +0000
+[BODY]
+Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Plurai / Guy Hamoy
+AI
+Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
+Tim Fernholz
+6:00 AM PST · November 11, 2026
+AI agents are all the rage, but they’re not quite as capable as their purveyors would have you believe.
+Efforts to benchmark agents doing complex tasks show that they aren’t typically reliable enough to function without close supervision. LiveBench 2.0
+shows
+Claude Fable 5.2 and ChatGPT-6 Astra succeeding on 82.9 and 75.6 out of 100 tasks, respectively, and
+an effort
+by the AI infrastructure company EON to test agents in a simulated corporate environment found the most successful model tested, Claude Opus 4.8, performed tasks at 76.8% accuracy.
+Now, a startup known as Plurai wants to boost those numbers with the same techniques that put self-driving cars on the street: Simulations using synthetic data based on a company’s own digital systems, meant to prepare models to tackle difficult edge cases.
+Co-founders Ilan Kadar and Elad Levi previously worked for Nexar, which develops autonomous driving technology. Kadar worked with Waymo to simulate and evaluate its end-to-end deep learning driving software.
+“The moment that we saw the wave of AI agents, we saw the same pattern: That it is very easy to build a demo, but [hard] to get something that will be reliable and cost effective,” Kadar told TechCrunch. “Since we saw the same pattern, the same pitch was that we want to build this simulation layer.”
+On Wednesday, the startup said it had raised $13 million in seed funding to make that happen. The round was led by Team8, with participation from U&I, Velocity, and Mercer.
+Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments. When pressed by customers, agents tasked with booking travel can ignore spending policies. Or, when tasked with querying one database, agents can reliably provide an answer, but combining information from multiple datasets tends to gum up the works. A long conversation with a customer service bot can overwhelm an agent with too much context and lead to wrong turns.
+To fix that, Plurai creates a digital twin of the company’s elect
+---

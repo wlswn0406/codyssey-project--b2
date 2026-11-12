@@ -1,0 +1,76 @@
+[수집 파이프라인 실행] 2026-11-12 12:27:51
+---
+[TITLE] 크랜베리 AI음원 분석 '소브릭', 'CES 2027' AI 부문 혁신상 수상 - 지디넷코리아
+[LINK] https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VLUFDeEZkdFl1N2JKejFwRl9LOEM4czRUNi1oQ2oyQVcwY0JkWDlsZERwTjFyTy1aR19HNFZFdG8yeEJkZFg2b3hWeDNRd3hVQ3JVQWxB?oc=5
+[PUBLISHED] Wed, 11 Nov 2026 07:27:15 GMT
+[SUMMARY]
+크랜베리 AI음원 분석 '소브릭', 'CES 2027' AI 부문 혁신상 수상&nbsp;&nbsp;지디넷코리아
+---
+[TITLE] The unfolding Jensen Huang scandal: a timeline
+[LINK] https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+[PUBLISHED] Wed, 11 Nov 2026 23:50:00 +0000
+[SUMMARY]
+The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+---
+[TITLE] Jensen Huang accused of having another affair — with an Nvidia exec
+[LINK] https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/
+[PUBLISHED] Wed, 11 Nov 2026 23:17:05 +0000
+[SUMMARY]
+Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.
+---
+[TITLE] Why the data center you dread might never even be built
+[LINK] https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/
+[PUBLISHED] Wed, 11 Nov 2026 20:15:15 +0000
+[SUMMARY]
+The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]
+---
+[TITLE] How backlash and red tape continue to slow data centers post-Blue Wave
+[LINK] https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/
+[PUBLISHED] Wed, 11 Nov 2026 20:02:14 +0000
+[SUMMARY]
+The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]
+---
+[TITLE] CoreWeave turns to customer prepayments, shorter contracts to fund AI growth
+[LINK] https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/
+[PUBLISHED] Wed, 11 Nov 2026 19:54:00 +0000
+[SUMMARY]
+CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.
+---
+[TITLE] With $720M round, Britain’s Fractile gets a leg up in the race for AI chips
+[LINK] https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/
+[PUBLISHED] Wed, 11 Nov 2026 19:34:55 +0000
+[SUMMARY]
+Fractile has now become one of the top-funded players in the race for purpose-built AI chips.
+---
+[TITLE] Congress to call Jensen Huang in to answer for alleged Chinese spy affair
+[LINK] https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/
+[PUBLISHED] Wed, 11 Nov 2026 19:22:22 +0000
+[SUMMARY]
+Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.
+---
+[TITLE] Is Jensen Huang’s bad behavior more commonplace than it seems?
+[LINK] https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/
+[PUBLISHED] Wed, 11 Nov 2026 16:16:07 +0000
+[SUMMARY]
+“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.
+---
+[TITLE] OpenAI’s quarterly revenue reportedly crosses $10B for the first time
+[LINK] https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/
+[PUBLISHED] Wed, 11 Nov 2026 16:14:44 +0000
+[SUMMARY]
+Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.
+---
+[TITLE] Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth
+[LINK] https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/
+[PUBLISHED] Wed, 11 Nov 2026 15:00:00 +0000
+[SUMMARY]
+With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.
+---
+[TITLE] Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads
+[LINK] https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/
+[PUBLISHED] Wed, 11 Nov 2026 14:00:00 +0000
+[SUMMARY]
+Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
