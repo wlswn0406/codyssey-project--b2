@@ -1,0 +1,984 @@
+[평가 오류] https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wck5BdVhDdlpLRnBvNUh1QjNVd0dBV1BBVUNKR3lTQ1kzdnR6RGhPdjJGNy1MZVF3VjllTG1FbkdfWkFQRXZDSlVETHJUVDF5dGZLNVVXYTJidUZnV1piclAzREJmZw?oc=5 - API 호출 실패: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+---
+[TITLE] Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump
+[LINK] https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/
+[PUBLISHED] Thu, 12 Nov 2026 22:42:51 +0000
+[BODY]
+Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+David Paul Morris / Bloomberg / Getty Images
+AI
+Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump
+Julie Bort
+2:42 PM PST · November 12, 2026
+Democrats on Thursday opened an inquiry into how the Trump administration handled Nvidia’s chip sales to China. Earlier on Thursday, the company
+ousted its CEO Jensen Huang
+. He also agreed to testify to a different set of Republican-led Congressional committees.
+Huang was removed from the company he founded after
+he confessed to an extramarital affair
+with a woman accused of being a Chinese spy. (He has since been accused of having
+more affairs
+, with Nvidia employees.)
+The alleged Chinese spy, Alice Huang, was an executive of Nvidia customer Megaspeed, a Singapore-based company that U.S. officials suspect of helping route advanced Nvidia chips into China. The Democratic inquiry comes from Rep. Richard Neal (D-Mass.), the top Democrat on the House Ways and Means Committee, and Sen. Ron Wyden (D-Ore.), the top Democrat on the Senate Finance Committee. As the minority party, they can ask questions but can’t compel answers.
+Their
+humdinger of a letter
+to Commerce Secretary Howard Lutnick asks the department to preserve records about an arrangement they find questionable and, they allege, illegal.
+“The scheme worked like this,” as the letter describes it. President Trump agreed to sales of Nvidia’s H200 chips to China as long as the chips, manufactured by Taiwan, were first shipped to the United States. On arriving, Trump added a tariff “effectively taking a cut of Nvidia’s sales to China through what appears to be an unconstitutional export tax system,” the letter said. Then the Commerce Department, under Lutnick, issued an export license.
+By the way, the deal between Trump and Nvidia to share revenue was public. In August 2025, Nvidia and AMD both agreed to share 15% of their revenue from chip sales to China with the U.S. government as part of a deal to secure export licenses, the
+AP reported at the time.
+But the letter questions why Lutnick continued to allow Megaspeed to buy chips even after he was reportedly informed by U.S. intelligence of their suspicions of Alice Huang and of Jensen Huang’s relationship with her. It questi
+---
+[LINK] https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] The unfolding Jensen Huang scandal: a timeline
+[LINK] https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+[PUBLISHED] Thu, 12 Nov 2026 21:35:00 +0000
+[BODY]
+The unfolding Jensen Huang scandal: a timeline | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Justin Sullivan / Getty Images
+AI
+The unfolding Jensen Huang scandal: a timeline
+Amanda Silberling
+1:35 PM PST · November 12, 2026
+Nvidia co-founder and now
+former
+CEO Jensen Huang has never been as flashy or controversy-prone as AI leaders like OpenAI’s Sam Altman or SpaceXAI’s Elon Musk. Now, the 63-year-old industry kingpin has admitted that he
+cheated on his wife
+of 40 years in affairs that could have ramifications beyond Huang’s personal life and U.S. national security.
+U.S. officials believe that one of Huang’s likely romantic interests, Megaspeed executive Alice Huang, is
+a Chinese spy
+who has been feeding information back to Beijing. (Alice Huang, a Chinese citizen, is of no relation to Jensen Huang.)
+Megaspeed is a Singapore-based AI infrastructure company that reportedly
+purchased
+$4.8 billion in Nvidia chips over the last two years. The U.S. and Singapore have both previously investigated Megaspeed over suspicions that the firm was illegally sharing chips with China. The Justice Department has since taken over the federal investigation into the company,
+The New York Times
+has reported.
+The story took a sudden new turn on Wednesday. Citing five people who worked at Nvidia, the Times reported that Huang also
+had an extramarital relationship
+with Kimberly Powell, the company’s vice president of healthcare, who reports directly to him. Nvidia, Huang, and Powell have not confirmed the report. Reached by a Times reporter, Huang reportedly said, “I don’t think you should be talking to me directly,” before hanging up.
+By early Thursday morning, Huang was
+no longer CEO
+of the company he co-founded 33 years ago. Then, Thursday afternoon, Reuters dropped another bombshell, publishing a report alleging that Huang had yet another
+extramarital affair
+with another unnamed Nvidia employee.
+The U.S. and China are embroiled in a fierce technological arms race to build the most advanced AI infrastructure, which could shape each country’s economic future, military prowess, and capacity for innovation. Nvidia is valuable in this competition as one of the world’s largest makers of AI chips, which are essential for accelerating AI development. But as an American company, Nvidia faces government restrictions on the sale of its most powerful chips to Chinese entiti
+---
+[TITLE] Nebius tests the neocloud playbook with $40 billion in planned spending
+[LINK] https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/
+[PUBLISHED] Thu, 12 Nov 2026 21:27:10 +0000
+[BODY]
+Nebius tests the neocloud playbook with $40 billion in planned spending | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Thomas Fuller/SOPA Images/LightRocket / Getty Images
+AI
+Nebius tests the neocloud playbook with $40 billion in planned spending
+Rebecca Bellan
+1:27 PM PST · November 12, 2026
+In its
+third-quarter earnings
+call Thursday, the neocloud company Nebius laid out $40 billion in planned spending for 2027, far more than Wall Street had expected. It’s an ambitious plan, but it rests on a string of planned projects that are already starting to show cracks.
+Nebius plans to fund the buildout by relying on customer pre-payments and loans backed by customer contracts — essentially using the future value of its data centers to finance their construction. But that can be a risky strategy if those projects get bogged down by delays or cancellations.
+“Building at this scale is hard, and delays are part of our industry right now,” CEO Arkady Volozh said during Thursday’s earnings call. “We are not immune.”
+The earnings announcement comes on the heels of
+reports
+that Microsoft is cooling on neocloud deals that aren’t delivering on time. That’s a problem for companies like Nebius, whose financing strategy is becoming more dependent on repayments. Because if it can’t get to capacity on time, it will keep piling on costs while revenues slip.
+One of Nebius’ largest customers is Microsoft, which is paying for AI computing capacity at a Vineland, New Jersey, data center that is now months behind schedule. Nebius’ contract with Microsoft is worth up to $19.4 billion, but it’s already letting deadlines slip. Only just over half of the Microsoft capacity is now planned for delivery by the end of the year, with the rest coming in Q2 2027.
+The delay is because DataOne, the third-party operator of the site, “decided to wind down the temporary generation faster than it was expected,” according to Andrey Korolenko, chief product and infrastructure officer, as the site switches over to Bloom Energy fuel cells.
+Still, that transition wasn’t entirely by choice.
+In August
+, the investigative site Floodlight identified at least 45 natural gas generators in operation at the DataOne site, even though it had not received any permits for operating gas generators.
+New Jersey regulators fined the DataOne facility
+$1.1 million in response, finding that the use of the gener
+---
+[LINK] https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Google’s latest Search upgrade promises better answers to your most complicated questions
+[LINK] https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/
+[PUBLISHED] Thu, 12 Nov 2026 19:27:45 +0000
+[BODY]
+Google's latest Search upgrade promises better answers to your most complicated questions | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Google
+AI
+Google’s latest Search upgrade promises better answers to your most complicated questions
+Sarah Perez
+11:27 AM PST · November 12, 2026
+Google Search is getting better at understanding complicated questions, including those with multiple parts, highly specific requests, or confusing typos. The updates are coming via the company’s newly released Gemini 4 Hydrogen model, which Google
+claims
+is its “biggest model improvement to Search yet.”
+While Google’s frontier models, Gemini 4 Carbon and Gemini 4 Argon, are best at deep reasoning for hard problems, Hydrogen is designed for fast execution across a variety of agentic workflows, or tasks in which an AI carries out multiple steps on its own, the company explained in an announcement.
+The idea behind the model’s release is that using the most powerful model isn’t always needed — sometimes a faster, cheaper, and reasonably smart one will do.
+Google says
+Hydrogen completes tasks 2.5 times faster than Gemini 3.8 Flash, its previous fast model, but it’s still pretty smart, even beating the more powerful Gemini 4 Argon on one broad intelligence benchmark, the
+Artificial Analysis Intelligence Index
+, at its default high thinking level.
+In Search, Hydrogen brings several improvements, including a better understanding of user intent, the ability to offer more helpful links and visual responses, and better answers across the different languages supported by Google’s AI Mode.
+In terms of intent, Google says Hydrogen can handle more nuanced and complicated questions more quickly. This means people can ask their questions in their natural train of thought, including those that have multiple parts or that include highly specific requests. Hydrogen is also better at navigating hard-to-understand typos, Google says. Because of its improvements and better ability to follow instructions and call the right tools, Hydrogen is able to more precisely address each part of a user’s question.
+Its advanced reasoning also improves Search’s fan-out technique, which breaks down a single user’s prompt into multiple subqueries. This allows people to discover websites related to the query that they may have otherwise missed, the blog post explains.
+The addition of Hydrogen to Search wi
+---
+[LINK] https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Jensen Huang’s exit puts Nvidia’s support for open source in question
+[LINK] https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/
+[PUBLISHED] Thu, 12 Nov 2026 18:39:23 +0000
+[BODY]
+Jensen Huang’s exit puts Nvidia’s support for open source in question | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+VCG / Getty Images
+AI
+Jensen Huang’s exit puts Nvidia’s support for open source in question
+Rebecca Bellan
+10:39 AM PST · November 12, 2026
+The open source community just lost one of its strongest advocates.
+Nvidia CEO Jensen Huang
+resigned
+Thursday after he admitted to an affair with an alleged Chinese spy, raising concerns about U.S. national security and the motives behind the executive’s support for softer chip export controls on China.
+Huang has been a staunch supporter of open source AI, framing the ecosystem as good for safety, innovation, diffusion, and sovereignty. And as frontier AI labs increasingly move to reduce their reliance on Nvidia and build their own chips, supporting open source is also a good way for the company to diversify its customer base by selling chips to nation-states, enterprises, and any organization that wants to own its own models.
+Still, Huang’s resignation raises questions about whether Nvidia will carry on his legacy by continuing to support the open model community.
+Jensen no longer being CEO would be very very bad for the open model cause in the US.
+— Nathan Lambert (@natolambert)
+November 11, 2026
+Huang’s departure also comes as Nvidia has yet to finalize a deal to acquire open source platform Hugging Face for
+$13 billion
+. Hugging Face CEO Clem Delangue said in a post on X that the
+company would continue to fight for open source
+, whatever happens next.
+Nvidia also agreed to pay
+$6 billion for a non-exclusive license
+for open AI coding startup Poolside’s technology.
+Within Nvidia, Huang pushed for the development of the
+Nemotron family
+of open-weight AI models built for long-running agentic AI systems and reasoning workloads — potential competitors to closed frontier models. One company insider told TechCrunch that they don’t expect a change in leadership to have an impact on Nemotron development.
+Huang also backed companies that would make American open models more competitive, investing in startups like Reflection AI and Thinking Machines Lab.
+Huang’s influence extended beyond Nvidia’s investments and product roadmap. He also emerged as one of the most prominent voices pushing back against Washington’s efforts to restrict the open AI ecosystem.
+Earlier this year, Huang wrote an open lett
+---
+[TITLE] Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit
+[LINK] https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/
+[PUBLISHED] Thu, 12 Nov 2026 17:36:40 +0000
+[BODY]
+Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+TechCrunch
+AI
+Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit
+Sarah Perez
+9:36 AM PST · November 12, 2026
+Hugging Face CEO Clément Delangue briefly commented on Nvidia CEO Jensen Huang’s departure on Thursday,
+calling
+it a “really sad day.” Nvidia had announced its plan to acquire the platform for open source AI models in September
+for $12.9 billion,
+making it the second-largest acquisition in the company’s history, just behind that of chipmaker
+Groq’s assets for $20 billion
+in December 2025.
+“This whole thing sucks, and I wish none of it had happened. It’s a really sad day! But I want to make one thing clear: we’ll keep fighting for open-source AI, harder than ever. This is too important to slow down now. Let’s go!,” Delangue wrote on X.
+This whole thing sucks, and I wish none of it had happened. It’s a really sad day!
+But I want to make one thing clear: we’ll keep fighting for open-source AI, harder than ever. This is too important to slow down now. Let’s go!
+— clem 🤗 (@ClementDelangue)
+November 12, 2026
+The post is interesting as it implies that Huang’s departure is potentially worrying to open source advocates, and he’s attempting to offer reassurance.
+As Nvidia’s CEO, Huang was known as a strong advocate for open source AI and open-weight models, which is why there could be concerns about how a company that’s no longer under his leadership will now approach this space.
+After Nvidia announced its plans to acquire Hugging Face, the U.S. Department of Justice began making inquiries about how the deal would impact competition in the AI market,
+Reuters reported in October
+. While Nvidia pledged that the platform would preserve open support, it would also allow the company to control a major distribution channel for AI models.
+The Hugging Face deal is still scheduled to close in the first half of 2027. Requests for further comment on the deal status and whether Hugging Face has spoken yet with Nvidia’s interim CEO Colette Kress were not returned.
+Huang’s advocacy for open source and open-weight AI has long extended beyond Hugging Face. In July, the CEO published an AI policy letter as his first-ever
+post on the social network X
+. The letter, which was signed by 25 companies, inclu
+---
+[평가 오류] https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 28.296556318s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 28.156771463s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
+---
+[LINK] https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Jensen Huang agrees to testify before Congress
+[LINK] https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/
+[PUBLISHED] Thu, 12 Nov 2026 16:36:37 +0000
+[BODY]
+Jensen Huang agrees to testify before Congress | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+In Brief
+Posted:
+8:36 AM PST · November 12, 2026
+Image Credits:
+Jose Sarmento Matos/Bloomberg / Getty Images
+Aisha Malik
+Jensen Huang agrees to testify before Congress
+Ex-Nvidia CEO
+Jensen Huang
+has agreed to testify before Congress, House Foreign Affairs Committee Chairman Brian Mast said on Thursday, according to reports from
+Bloomberg
+and
+NBC News
+.
+Huang, who stepped down as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.
+Huang has agreed to testify before Congress by Thanksgiving, which falls later this month.
+The development comes after House Republicans Mast, John Moolenaar, and Rick Crawford sent Huang a letter on November 4 requesting that
+he appear before their committees
+. Moolenaar chairs the House Select Committee on the Chinese Communist Party, Mast chairs the House Committee on Foreign Affairs, and Crawford chairs the House Intelligence Committee.
+“Jensen and I have been very at odds as some of you already know on export controls, but Nvidia is a very important company to the United States of America,” Mast said to reporters. “I don’t want to see anything hurt in Nvidia, but he has some very serious questions to answer.”
+The testimony will take place behind closed doors, though Mast said he expects the briefing to be recorded on video and transcribed.
+Topics
+AI
+,
+Government & Policy
+,
+In Brief
+,
+Jensen Huang
+,
+nvidia
+2027
+San Francisco
+Get an Early Peek at the Next TechCrunch Disrupt
+Disrupt, Startup Battlefield, and more will return next year, and you can be at the front of the line.
+Sign up for our waitlist
+Register Now
+Newsletters
+See More
+Subscribe for the industry’s biggest tech news
+TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight.
+Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+StrictlyVC
+Provides movers and shakers with the info they need to start their day.
+No newsletters selected.
+Subscribe
+By submitting your email, you agree to our
+Terms
+and
+Privacy Notice
+.
+Related
+AI
+Democrats launch Nvidia investigation, write scathing letter o
+---
+[TITLE] Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry
+[LINK] https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/
+[PUBLISHED] Thu, 12 Nov 2026 16:32:33 +0000
+[BODY]
+Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+PATRICK T. FALLON/AFP / Getty Images
+AI
+Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry
+Julie Bort
+8:32 AM PST · November 12, 2026
+Nvidia CEO Jensen Huang’s confession that he had an affair (and reports of
+another one with a direct report
+) that
+led the board to oust him
+on Thursday isn’t just your run-of-the-mill salacious billionaire CEO sex scandal.
+In this case, one of his lovers is suspected by the
+U.S. government of being a spy for China
+. She’s also an executive of a Singapore-based neocloud that is suspected of smuggling Nvidia chips to China.
+These affairs show undeniably poor judgment by Huang and, I’d argue, unchecked hubris on many levels. Such choices are not only a betrayal of his wife of 40 years, they’re also a liability for his company. Sleeping with any Nvidia partner is bad enough, but he also chose one in a tinderbox of a geopolitical situation. Even if Alice Huang’s company wasn’t suspected of helping Chinese firms evade chip restrictions (and he was somehow unaware of this), it was still exploiting a legal loophole by renting powerful AI infrastructure to Chinese companies.
+It’s those potential national consequences that may land him in a hellscape of ongoing public humiliation. Republican committee chairs are already
+summoning him to testify
+in closed-door sessions about the security ramifications.
+Will Democrats, who are set to take over key committees when the new Congress convenes in January, also haul him in to testify on the Hill? No one knows yet, but Huang has flaunted his close relationship with President Trump. Remember when Trump called him while he was
+onstage at the All-In Summit
+in September? Nvidia also donated $25 million to Trump’s ballroom, a
+deeply unpopular project
+with American voters. Several Democratic lawmakers have already
+vowed to investigate
+the money behind it.
+In other words, he is a billionaire close to Trump. He was — until Thursday — the face of AI and data centers (also a deeply unpopular political topic with voters), and he has publicly admitted to having an affair with an alleged Chinese spy. Even though he’s no longer CEO, that seems too juicy a target for Democrats to ignore.
+Beyond whatever may be coming, Huang’s influence has been lost right
+---
+[LINK] https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Norwest pushes deeper into AI with new $4B fund
+[LINK] https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/
+[PUBLISHED] Thu, 12 Nov 2026 15:18:14 +0000
+[BODY]
+Norwest pushes deeper into AI with new $4B fund | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+Norwest
+Fundraising
+Norwest pushes deeper into AI with new $4B fund
+Kirsten Korosec
+7:18 AM PST · November 12, 2026
+Norwest
+, a firm backed solely by Wells Fargo, has raised a $4 billion fund as it sets out to invest more in AI. This is the eighteenth fund for the 65-year-old multi-stage investment firm, and its largest to date.
+The fund will be invested across various sectors and multiple countries, notably the United States, India, and Israel. But the big story here is AI, and Norwest’s plans to expand its investment in this area.
+Norwest said Thursday it aims to capitalize on AI startups developing products and services across core industries such as consumer, healthcare, and technology. The investment firm, which has backed Plaid, Spotify, Uber, and Vuori, said it will continue to expand its investments in physical AI, voice AI, agentic cybersecurity, and aerospace.
+If that sounds like a broad approach, it is intended to be, Jeff Crowe, a senior managing partner at Norwest, told TechCrunch.
+“We’re taking a broad approach to AI because its impact is broad,” Crowe added, as AI is not limited by industry, geography, or application. “Just as digital transformation did, AI transformation has the potential to touch most layers of enterprise, consumer, and healthcare solutions: networking, enterprise IT and applications. Adapting to an agentic environment means applying AI broadly across products and services that solve problems.”
+Crowe added that the firm is particularly excited about early-stage companies building AI-native application and infrastructure, physical AI, domain-specific models, and cybersecurity solutions.
+Some of the firm’s recent investments reflect this strategy. For instance, the firm invested in Coval, which builds tools to test and evaluate AI agents, and Generalist AI, a startup that has developed AI foundation models for robots.
+Since the launch of its seventeenth fund, a
+$3 billion
+raise that closed in 2024, the firm has made more than 87 investments.
+Topics
+AI
+,
+Fundraising
+,
+Norwest
+,
+Venture
+When you purchase through links in our articles,
+we may earn a small commission
+. This doesn’t affect our editorial independence.
+Kirsten Korosec
+Transportation Editor
+Kirsten Korosec is a reporter and editor who has covered the future of
+---
+[TITLE] Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts
+[LINK] https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/
+[PUBLISHED] Thu, 12 Nov 2026 15:02:28 +0000
+[BODY]
+Cyberattack on Fireworks AI allowed hackers to access Notion customers' chat transcripts | TechCrunch
+TechCrunch Desktop Logo
+TechCrunch Mobile Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Search
+Submit
+Site Search Toggle
+Mega Menu Toggle
+Topics
+Latest
+AI
+Amazon
+Apps
+Biotech & Health
+Climate
+Cloud Computing
+Commerce
+Crypto
+Enterprise
+EVs
+Fintech
+Fundraising
+Gadgets
+Gaming
+Google
+Government & Policy
+Hardware
+Instagram
+Layoffs
+Media & Entertainment
+Meta
+Microsoft
+Privacy
+Robotics
+Security
+Social
+Space
+Startups
+TikTok
+Transportation
+Venture
+More from TechCrunch
+Staff
+Events
+Startup Battlefield
+StrictlyVC
+Newsletters
+Podcasts
+Videos
+Partner Content
+TechCrunch Brand Studio
+Contact Us
+Image Credits:
+TechCrunch / composite
+Security
+Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts
+Zack Whittaker
+7:02 AM PST · November 12, 2026
+A cyberattack at Fireworks AI has exposed some of its customers’ data, the company has confirmed. Fireworks AI, a platform that developers use to access and use open AI models, said an attacker breached its cloud provider to gain access to a Fireworks development system, which allowed access to some of its customers’ data.
+The company said in its
+latest security advisory
+that the cybercriminals took Fireworks’ customers’ billing information and some datasets. Fireworks touts tens of thousands of customers worldwide using its platform, including legal tech company Harvey and AI company Cursor.
+At least one confirmed affected customer is online document editor and notetaker Notion, which said
+in a disclosure
+that the breach affected around 1% of its own customers.
+Notion said that Fireworks alerted the company to a security incident and later confirmed that the hackers had stolen some Notion customer data. On November 3, Notion said it disconnected its systems from Fireworks, deleted the data stored in its systems, and stopped all connectivity between the two.
+Notion confirmed this week that the hackers took chat transcripts of its Notion AI customers who used the “Insights” feature. The company said that the transcripts include “any input to or output from the model that was written to the chat,” but added that much of the data was unattributable and could not be determined from which customer it was obtained.
+The breach at Fireworks AI shows how tech companies are reliant on other tech providers for their own offerings, and how cyberattacks can, as a result, spill over into other customers.
+Fireworks said that it believes the hackers are financially motivated and that their goals are focused on selling tokens from breaching access to large language models, or LLMs. These schemes rely on selling to unauthorized third parties, who can burn through AI model usage without using their own resources.
+This is the second breach affecting Fireworks in as many months, following a
+security incident in October
+.
+Topics
+AI
+,
+cybersecurity
+,
+fireworks
+,
+Secur
+---
+[LINK] https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/
+[STATUS] SKIP (Score: 0)
+---
