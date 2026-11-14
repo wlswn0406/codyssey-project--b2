@@ -1,0 +1,46 @@
+[수집 파이프라인 실행] 2026-11-14 11:46:28
+---
+[TITLE] Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say
+[LINK] https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/
+[PUBLISHED] Fri, 13 Nov 2026 22:43:00 +0000
+[SUMMARY]
+Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.
+---
+[TITLE] AI agent startup LangChain hits $3B valuation
+[LINK] https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
+[PUBLISHED] Fri, 13 Nov 2026 19:37:57 +0000
+[SUMMARY]
+LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.
+---
+[TITLE] Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!
+[LINK] https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/
+[PUBLISHED] Fri, 13 Nov 2026 18:40:30 +0000
+[SUMMARY]
+New research shows the most advanced AI models from China were trained on banned Nvidia chips.
+---
+[TITLE] ChatGPT’s new Wallet lets AI agents shop and check out for you
+[LINK] https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/
+[PUBLISHED] Fri, 13 Nov 2026 16:00:12 +0000
+[SUMMARY]
+ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.
+---
+[TITLE] The unfolding Jensen Huang scandal: a timeline
+[LINK] https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+[PUBLISHED] Fri, 13 Nov 2026 15:58:00 +0000
+[SUMMARY]
+Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+---
+[TITLE] ElevenLabs’ new app combines meeting note-taking and dictation for teams
+[LINK] https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/
+[PUBLISHED] Fri, 13 Nov 2026 14:44:48 +0000
+[SUMMARY]
+ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.
+---
+[TITLE] Israel’s VCs see opportunity for challengers in Nvidia’s turmoil
+[LINK] https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/
+[PUBLISHED] Fri, 13 Nov 2026 12:52:19 +0000
+[SUMMARY]
+Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
