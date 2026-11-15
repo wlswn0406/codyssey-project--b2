@@ -1,0 +1,22 @@
+[수집 파이프라인 실행] 2026-11-15 11:13:30
+---
+[TITLE] VKAISS 2026, 베트남과 한국의 AI 및 반도체 협력 강화 - 지디넷코리아
+[LINK] https://news.google.com/rss/articles/CBMiVkFVX3lxTE90V2FJWm5kZVNVZk5IR2p1TWY0V25tUng4QU55cWk5VVhoVTQyZENuVkgzeXRNeTNVcTVrWEVnWTNfSngxSzNFX1NCcmpsMV9Yc2J5c1pR?oc=5
+[PUBLISHED] Sat, 14 Nov 2026 10:10:01 GMT
+[SUMMARY]
+VKAISS 2026, 베트남과 한국의 AI 및 반도체 협력 강화&nbsp;&nbsp;지디넷코리아
+---
+[TITLE] "트럼프, AI 반도체 수출통제 풀며 엔비디아 주식 샀다" - 연합뉴스
+[LINK] https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YeUhFV0JzUVZNNkIxNFFDQVkwQnktZEE5OTJudWVfeHlGb0tCaUVRbjFiODhyVm5Ma1dYWl9McDFrSFJIOUNGczBqVV8zeDZ4cFl3Znd0eHRsNDjSAWBBVV95cUxNMHhWOHJpVXdSRmhyNmhsRkwtX0EzcGlrNDlEQm8wVm9JaFhDYWVsX1RfY1lRRC1ZU0VPeVRXZzZ0NFVZYTlqYkhURDVsVUhfdEMwdzR1SWM0ZXlJYm0xbUU?oc=5
+[PUBLISHED] Sat, 14 Nov 2026 08:29:21 GMT
+[SUMMARY]
+"트럼프, AI 반도체 수출통제 풀며 엔비디아 주식 샀다"&nbsp;&nbsp;연합뉴스
+---
+[TITLE] The AI graveyard: a running list of projects and startups that didn’t make it
+[LINK] https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+[PUBLISHED] Sat, 14 Nov 2026 17:30:00 +0000
+[SUMMARY]
+From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
