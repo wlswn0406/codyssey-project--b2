@@ -1,0 +1,22 @@
+[수집 파이프라인 실행] 2026-11-16 11:26:30
+---
+[TITLE] Apple launches new app to study how people use AI for health
+[LINK] https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/
+[PUBLISHED] Mon, 16 Nov 2026 01:30:00 +0000
+[SUMMARY]
+Apple's new app for a study will answer everyday medical questions
+---
+[TITLE] Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market
+[LINK] https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/
+[PUBLISHED] Sun, 15 Nov 2026 23:30:00 +0000
+[SUMMARY]
+Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.
+---
+[TITLE] Is bad news for Jensen Huang also bad news for the AI industry?
+[LINK] https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/
+[PUBLISHED] Sun, 15 Nov 2026 21:56:35 +0000
+[SUMMARY]
+"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia."
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
