@@ -1,0 +1,73 @@
+[TITLE] 에이비스, HER2 판독 AI 다기관 연구 국제학술지 게재… 판독 일치도·정확도 개선 확인 - 전자신문
+[LINK] https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kODZDLW1NU203NF9PT1hRanIyQTRQTEpXek50MG95SEw1emxxSXZGelU2bU8yN01IdTUwdjBYNkFudm9KZHhjdlNkdVItdw?oc=5
+[PUBLISHED] Wed, 18 Nov 2026 01:19:56 GMT
+[BODY]
+Google News
+---
+[평가 오류] https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/
+[STATUS] SKIP (Score: 0)
+---
