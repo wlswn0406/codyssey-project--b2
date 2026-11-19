@@ -1,0 +1,118 @@
+[수집 파이프라인 실행] 2026-11-19 12:53:47
+---
+[TITLE] AI가 일하는 방식 바꿨지만 교육 효과도 컸다…OECD, 13년간 직무 변화 분석 - 인공지능신문
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lajVGbDhGZzhjc1NtanJvdHlxNFVUejRNY192Q2ZHQ0pGSm5mSjBBRUVoajhyc3duMzVkSGFuck5fQUh4WWE0QmZleTVhNm56MUppOWU4c2NESmpydTdGVzRpemkwUW8?oc=5
+[PUBLISHED] Tue, 17 Nov 2026 10:17:49 GMT
+[SUMMARY]
+AI가 일하는 방식 바꿨지만 교육 효과도 컸다…OECD, 13년간 직무 변화 분석&nbsp;&nbsp;인공지능신문
+---
+[TITLE] KPMG, Clara Intelligence로 미국 감사에 AI 에이전트 도입 - Unite.AI
+[LINK] https://news.google.com/rss/articles/CBMid0FVX3lxTE1GakpsQ3ZUZ2tCYlUySzRiWW9kbzJMZnJmcjlFb3h1RGFXeUJsSjNaQnBVNTRwMkp2NHBaaHVSSXdGbldjWVlSQW9CVjdTeExSVXhNamxsVTZnRGZ5Wmo3SFpwcnFOb2lqbEY0WVB6elhYSmd5cklr?oc=5
+[PUBLISHED] Wed, 18 Nov 2026 04:49:04 GMT
+[SUMMARY]
+KPMG, Clara Intelligence로 미국 감사에 AI 에이전트 도입&nbsp;&nbsp;Unite.AI
+---
+[TITLE] Microsoft CEO Satya Nadella explains why he asked 60K employees to quit
+[LINK] https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+[PUBLISHED] Thu, 19 Nov 2026 00:42:56 +0000
+[SUMMARY]
+Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.
+---
+[TITLE] Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’
+[LINK] https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/
+[PUBLISHED] Wed, 18 Nov 2026 23:45:00 +0000
+[SUMMARY]
+The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.
+---
+[TITLE] Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’
+[LINK] https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/
+[PUBLISHED] Wed, 18 Nov 2026 23:25:17 +0000
+[SUMMARY]
+“I don’t think [Huang is] disloyal to the United States," Musk said.
+---
+[TITLE] Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit
+[LINK] https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/
+[PUBLISHED] Wed, 18 Nov 2026 23:17:28 +0000
+[SUMMARY]
+Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.
+---
+[TITLE] Satya Nadella predicts AI agents will reshuffle the economics of the web
+[LINK] https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/
+[PUBLISHED] Wed, 18 Nov 2026 22:58:11 +0000
+[SUMMARY]
+Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.
+---
+[TITLE] Anthropic prices IPO at $83 a share, above projected range
+[LINK] https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/
+[PUBLISHED] Wed, 18 Nov 2026 22:11:15 +0000
+[SUMMARY]
+The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.
+---
+[TITLE] Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’
+[LINK] https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/
+[PUBLISHED] Wed, 18 Nov 2026 21:34:13 +0000
+[SUMMARY]
+The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.
+---
+[TITLE] Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated
+[LINK] https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/
+[PUBLISHED] Wed, 18 Nov 2026 21:31:21 +0000
+[SUMMARY]
+"It makes America weaker to knock him out," the Anduril CEO said about ousted Nvidia leader Jensen Huang.
+---
+[TITLE] Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie
+[LINK] https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/
+[PUBLISHED] Wed, 18 Nov 2026 20:07:01 +0000
+[SUMMARY]
+"It doesn't feel like it's in like the top 10 weirdest things about my life," Altman said.
+---
+[TITLE] Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor
+[LINK] https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/
+[PUBLISHED] Wed, 18 Nov 2026 19:56:39 +0000
+[SUMMARY]
+Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.
+---
+[TITLE] Google’s AI feature in Search gets its own incognito mode
+[LINK] https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/
+[PUBLISHED] Wed, 18 Nov 2026 18:04:05 +0000
+[SUMMARY]
+Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.
+---
+[TITLE] More banks say customers using AI agents are on their own — even if they get hacked
+[LINK] https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+[PUBLISHED] Wed, 18 Nov 2026 17:32:10 +0000
+[SUMMARY]
+Citi is the latest major financial institution to put the breaks on personal finance AI agents.
+---
+[TITLE] Sam Altman warns against a future where AI, not humans, calls the shots
+[LINK] https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/
+[PUBLISHED] Wed, 18 Nov 2026 16:59:00 +0000
+[SUMMARY]
+Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.
+---
+[TITLE] OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’
+[LINK] https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/
+[PUBLISHED] Wed, 18 Nov 2026 16:14:09 +0000
+[SUMMARY]
+Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.
+---
+[TITLE] Nvidia clarifies when it will — and won’t — keep financing neoclouds
+[LINK] https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/
+[PUBLISHED] Wed, 18 Nov 2026 13:00:00 +0000
+[SUMMARY]
+If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.
+---
+[TITLE] Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents
+[LINK] https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/
+[PUBLISHED] Wed, 18 Nov 2026 12:00:00 +0000
+[SUMMARY]
+With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.
+---
+[TITLE] India’s Humyn Labs raises $47M to feed US robotics companies the data they need
+[LINK] https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/
+[PUBLISHED] Wed, 18 Nov 2026 11:30:00 +0000
+[SUMMARY]
+Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---

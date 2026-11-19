@@ -1,0 +1,91 @@
+[TITLE] AI가 일하는 방식 바꿨지만 교육 효과도 컸다…OECD, 13년간 직무 변화 분석 - 인공지능신문
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lajVGbDhGZzhjc1NtanJvdHlxNFVUejRNY192Q2ZHQ0pGSm5mSjBBRUVoajhyc3duMzVkSGFuck5fQUh4WWE0QmZleTVhNm56MUppOWU4c2NESmpydTdGVzRpemkwUW8?oc=5
+[PUBLISHED] Tue, 17 Nov 2026 10:17:49 GMT
+[BODY]
+Google News
+---
+[TITLE] KPMG, Clara Intelligence로 미국 감사에 AI 에이전트 도입 - Unite.AI
+[LINK] https://news.google.com/rss/articles/CBMid0FVX3lxTE1GakpsQ3ZUZ2tCYlUySzRiWW9kbzJMZnJmcjlFb3h1RGFXeUJsSjNaQnBVNTRwMkp2NHBaaHVSSXdGbldjWVlSQW9CVjdTeExSVXhNamxsVTZnRGZ5Wmo3SFpwcnFOb2lqbEY0WVB6elhYSmd5cklr?oc=5
+[PUBLISHED] Wed, 18 Nov 2026 04:49:04 GMT
+[BODY]
+Google News
+---
+[평가 오류] https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/
+[STATUS] SKIP (Score: Scrape Error)
+---
