@@ -1,0 +1,59 @@
+[평가 오류] https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/
+[STATUS] SKIP (Score: 0)
+---

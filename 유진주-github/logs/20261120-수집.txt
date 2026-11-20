@@ -1,0 +1,84 @@
+[수집 파이프라인 실행] 2026-11-20 12:46:01
+---
+[수집 오류] https://news.google.com/rss/search?q=AI+OR+Artificial+Intelligence&hl=ko&gl=KR&ceid=KR:ko - 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=AI+OR+Artificial+Intelligence&hl=ko&gl=KR&ceid=KR:ko
+---
+[TITLE] Apple may be developing its own AI agent that runs your Mac
+[LINK] https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/
+[PUBLISHED] Fri, 20 Nov 2026 00:56:01 +0000
+[SUMMARY]
+The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.
+---
+[TITLE] Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO
+[LINK] https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/
+[PUBLISHED] Fri, 20 Nov 2026 00:43:50 +0000
+[SUMMARY]
+At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.
+---
+[TITLE] Meta’s new Muse Charm device may cost $300
+[LINK] https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/
+[PUBLISHED] Thu, 19 Nov 2026 21:58:06 +0000
+[SUMMARY]
+Meta hasn't denied the reporting from The Information, saying only that it will "have more to share soon" about its upcoming AI wearable.
+---
+[TITLE] These tech outages are giving Y2K, AI agent style
+[LINK] https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/
+[PUBLISHED] Thu, 19 Nov 2026 21:42:31 +0000
+[SUMMARY]
+Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.
+---
+[TITLE] The unfolding Jensen Huang scandal: a timeline
+[LINK] https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+[PUBLISHED] Thu, 19 Nov 2026 20:18:49 +0000
+[SUMMARY]
+Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+---
+[TITLE] Anthropic’s IPO could deliver $156B to charity
+[LINK] https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/
+[PUBLISHED] Thu, 19 Nov 2026 19:10:45 +0000
+[SUMMARY]
+At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.
+---
+[TITLE] Google gives Gemini the ability to use your Mac for you
+[LINK] https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/
+[PUBLISHED] Thu, 19 Nov 2026 18:09:11 +0000
+[SUMMARY]
+Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.
+---
+[TITLE] Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says
+[LINK] https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/
+[PUBLISHED] Thu, 19 Nov 2026 17:38:40 +0000
+[SUMMARY]
+In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.
+---
+[TITLE] Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories
+[LINK] https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/
+[PUBLISHED] Thu, 19 Nov 2026 17:00:00 +0000
+[SUMMARY]
+Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.
+---
+[TITLE] Anthropic hits Nasdaq exchanges at $111, 33% above IPO price
+[LINK] https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/
+[PUBLISHED] Thu, 19 Nov 2026 16:59:23 +0000
+[SUMMARY]
+Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.
+---
+[TITLE] At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development
+[LINK] https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/
+[PUBLISHED] Thu, 19 Nov 2026 16:19:41 +0000
+[SUMMARY]
+In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.
+---
+[TITLE] Anthropic’s IPO puts AI’s circular financing boom to the test
+[LINK] https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/
+[PUBLISHED] Thu, 19 Nov 2026 14:54:39 +0000
+[SUMMARY]
+Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.
+---
+[TITLE] Superhuman pushes its Go assistant everywhere
+[LINK] https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/
+[PUBLISHED] Thu, 19 Nov 2026 14:00:00 +0000
+[SUMMARY]
+Superhuman is making Go its central agent and making it available in Docs and Mail.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
