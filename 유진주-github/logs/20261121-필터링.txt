@@ -1,0 +1,16 @@
+[LINK] https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/
+[STATUS] SKIP (Score: 0)
+---

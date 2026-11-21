@@ -1,0 +1,28 @@
+[수집 파이프라인 실행] 2026-11-21 12:36:48
+---
+[TITLE] Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.
+[LINK] https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/
+[PUBLISHED] Fri, 20 Nov 2026 19:53:41 +0000
+[SUMMARY]
+Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.
+---
+[TITLE] AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too
+[LINK] https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/
+[PUBLISHED] Fri, 20 Nov 2026 19:32:08 +0000
+[SUMMARY]
+Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.
+---
+[TITLE] The fallout from Nvidia’s Jensen Huang scandal continues
+[LINK] https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/
+[PUBLISHED] Fri, 20 Nov 2026 14:55:44 +0000
+[SUMMARY]
+In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to [&#8230;]
+---
+[TITLE] Six AI-powered gadgets that could make your home office smarter
+[LINK] https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/
+[PUBLISHED] Fri, 20 Nov 2026 14:00:00 +0000
+[SUMMARY]
+From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
