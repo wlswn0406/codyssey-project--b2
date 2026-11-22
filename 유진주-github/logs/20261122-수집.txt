@@ -1,0 +1,40 @@
+[수집 파이프라인 실행] 2026-11-22 11:43:00
+---
+[TITLE] AI Scientists Launch Own Journal in 12-Week, 936-Agent Experiment - 사이언스모니터
+[LINK] https://news.google.com/rss/articles/CBMie0FVX3lxTE5MMXoxSk9KNFNETGpYaHF1RmY5NnB5ZEhQVEMzVlFsZTBrNmMzRzN2VWIzNGJQV1NlVW5MdGFIaXJhenk0ZVBKUENGMF9FbjhsNGVNbUNlRFJ0Tl9XcEVWMmpXVnFmdnFpOUhqdkRIVTZXa3BUakhWVjRxNA?oc=5
+[PUBLISHED] Sat, 21 Nov 2026 13:39:17 GMT
+[SUMMARY]
+AI Scientists Launch Own Journal in 12-Week, 936-Agent Experiment&nbsp;&nbsp;사이언스모니터
+---
+[TITLE] 유럽위원회, AI 해킹 도구 쓴 사이버 공격 피해 확인 - AI 매터스
+[LINK] https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fNFBXVmJWU2V1cUpfMXF4Ykd3T0lrNXZTUDFYdW13Q0tkMGp3WXdRR1IyTWVoVmoyc3B5SFpVRDRwai1fb01yNnVfSG1nMXF6NUttdQ?oc=5
+[PUBLISHED] Sat, 21 Nov 2026 02:27:48 GMT
+[SUMMARY]
+유럽위원회, AI 해킹 도구 쓴 사이버 공격 피해 확인&nbsp;&nbsp;AI 매터스
+---
+[TITLE] MUFG, 마츠오 연구소·Third Intelligence와 포괄적 제휴… 상속 AI 실증 추진하며 ‘함께 성장하는 금융’으로 - ペイメントナビ
+[LINK] https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vTGFtM1dicXJXaFlIWGg1S0l5SGNSeWJsSFRkQ0lLZFNmMkhheUdJbjc2Ymp3M0hXQU0zb2xlVVFuME04OUtjYXJ0bDRucFREUjlVaThXTkwyejQ?oc=5
+[PUBLISHED] Wed, 18 Nov 2026 22:00:00 GMT
+[SUMMARY]
+MUFG, 마츠오 연구소·Third Intelligence와 포괄적 제휴… 상속 AI 실증 추진하며 ‘함께 성장하는 금융’으로&nbsp;&nbsp;ペイメントナビ
+---
+[TITLE] Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance
+[LINK] https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
+[PUBLISHED] Sat, 21 Nov 2026 21:37:10 +0000
+[SUMMARY]
+Signal is limiting users' ability to take screenshots in both its Android and iOS apps.
+---
+[TITLE] Here are the top AI agents that can live in your text messages
+[LINK] https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/
+[PUBLISHED] Sat, 21 Nov 2026 17:00:00 +0000
+[SUMMARY]
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+---
+[TITLE] Is selling an AI version of your face to this microdrama startup the future of Hollywood?
+[LINK] https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/
+[PUBLISHED] Sat, 21 Nov 2026 16:00:00 +0000
+[SUMMARY]
+An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---

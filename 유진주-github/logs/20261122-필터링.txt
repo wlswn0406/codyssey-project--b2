@@ -1,0 +1,31 @@
+[TITLE] AI Scientists Launch Own Journal in 12-Week, 936-Agent Experiment - 사이언스모니터
+[LINK] https://news.google.com/rss/articles/CBMie0FVX3lxTE5MMXoxSk9KNFNETGpYaHF1RmY5NnB5ZEhQVEMzVlFsZTBrNmMzRzN2VWIzNGJQV1NlVW5MdGFIaXJhenk0ZVBKUENGMF9FbjhsNGVNbUNlRFJ0Tl9XcEVWMmpXVnFmdnFpOUhqdkRIVTZXa3BUakhWVjRxNA?oc=5
+[PUBLISHED] Sat, 21 Nov 2026 13:39:17 GMT
+[BODY]
+Google News
+---
+[TITLE] 유럽위원회, AI 해킹 도구 쓴 사이버 공격 피해 확인 - AI 매터스
+[LINK] https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fNFBXVmJWU2V1cUpfMXF4Ykd3T0lrNXZTUDFYdW13Q0tkMGp3WXdRR1IyTWVoVmoyc3B5SFpVRDRwai1fb01yNnVfSG1nMXF6NUttdQ?oc=5
+[PUBLISHED] Sat, 21 Nov 2026 02:27:48 GMT
+[BODY]
+Google News
+---
+[TITLE] MUFG, 마츠오 연구소·Third Intelligence와 포괄적 제휴… 상속 AI 실증 추진하며 ‘함께 성장하는 금융’으로 - ペイメントナビ
+[LINK] https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vTGFtM1dicXJXaFlIWGg1S0l5SGNSeWJsSFRkQ0lLZFNmMkhheUdJbjc2Ymp3M0hXQU0zb2xlVVFuME04OUtjYXJ0bDRucFREUjlVaThXTkwyejQ?oc=5
+[PUBLISHED] Wed, 18 Nov 2026 22:00:00 GMT
+[BODY]
+Google News
+---
+[평가 오류] https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/
+[STATUS] SKIP (Score: Scrape Error)
+---
