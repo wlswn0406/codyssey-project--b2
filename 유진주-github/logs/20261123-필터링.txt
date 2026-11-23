@@ -1,0 +1,25 @@
+[TITLE] 오픈AI "사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야" - AI타임스
+[LINK] https://news.google.com/rss/articles/CBMiakFVX3lxTE1nYVRVLTl4VWpSYXRqSGo1eVdmMWM5SFhibVJVQS12R3BvMkViXzNaR19ROVl2dWFTb2JibUdPWkpwR3NtY2xTSnVfeVo3SmRYbm9yb1Y5aGNhYmxDcFp1c093ZkZWQXNERkE?oc=5
+[PUBLISHED] Sun, 22 Nov 2026 22:14:28 GMT
+[BODY]
+Google News
+---
+[LINK] https://news.google.com/rss/articles/CBMib0FVX3lxTFAxRm55QTFuTlFud0twYm1Hek9DQ01NQUhwU0Jscm52NS1uZXl4WjJhMFVGbGRrQUlpVGJrQUhRZnBMcmpSTkhXNTNHc1ROay1BaVRTaHA1UTBxRFduNHlsVUdFYkhrSllpVFBiNEY0NA?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Oracle Life Sciences AI Agents Bring AI-Assisted Operational Intelligence and Coordination to Clinical Trials - Oracle
+[LINK] https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYTZpY3BzSEZsR1RFSzlHbjlVbnVUVWlaTjZCU3JzZF8tMnJ4TjFnVW5ZdHZFa1dzTjgxOGF0NUpUV2ZZZFNSZHQ4c082dEtDUkE5cnNBMnI0bE9VNjFtUGthOGtlbTk3REFIM19VdlQ4NFVSdWI2bldSVWphZ1BfWXdQQzdQY19BTDg3akVGTWFmVEc3OHBHWlRxa0dsOEJpb2t6SGhSSC1vV3NaSHZaM3k4TGxWdzFFQVVoa2J0SjFGT3loNnQ4VENCVkthcERfM3VTYXljOHRvZ1dIZ3JIc2lzQUtEaXU0?oc=5
+[PUBLISHED] Wed, 18 Nov 2026 14:02:17 GMT
+[BODY]
+Google News
+---
+[평가 오류] https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/
+[STATUS] SKIP (Score: Scrape Error)
+---
