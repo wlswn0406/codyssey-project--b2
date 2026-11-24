@@ -1,0 +1,58 @@
+[수집 파이프라인 실행] 2026-11-24 15:33:29
+---
+[TITLE] “IP와 AI가 만나는 열린 공간”... 애니파이브, AI 인텔리전스 센터 출범 - 특허뉴스
+[LINK] https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IRWI4eXFnbHloWUM5OV9kQjBHMUZ3NTF2c3ZCdEl6RG0yOUViYUQxRTZsOHpCZmtHM21TQ2VlWnFjeUU1UWJqYw?oc=5
+[PUBLISHED] Mon, 23 Nov 2026 09:54:00 GMT
+[SUMMARY]
+“IP와 AI가 만나는 열린 공간”... 애니파이브, AI 인텔리전스 센터 출범&nbsp;&nbsp;특허뉴스
+---
+[TITLE] ‘초지능 AI’ 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문 - 더스쿠프
+[LINK] https://news.google.com/rss/articles/CBMibkFVX3lxTE5KcUQ5dVFRMFJ0YkVGWTRpRFdzeFFGQWpsQWVKVGpRajMtbVNOUjhLNGh2c2tINkhfSXdYWElfUms5Mnlmck16azFQZE91NUFoRHhseEV6TGJySWhIRlBJSWMxZC1WS19Cc1BHeHpR?oc=5
+[PUBLISHED] Mon, 23 Nov 2026 08:17:05 GMT
+[SUMMARY]
+‘초지능 AI’ 목표인가 아닌가… 앤트로픽 주가 하락에 던져야 할 질문&nbsp;&nbsp;더스쿠프
+---
+[TITLE] Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes
+[LINK] https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
+[PUBLISHED] Mon, 23 Nov 2026 22:05:50 +0000
+[SUMMARY]
+As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
+---
+[TITLE] Supertake raises $20M to let AI agents turn your market predictions into stock portfolios
+[LINK] https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/
+[PUBLISHED] Mon, 23 Nov 2026 22:02:05 +0000
+[SUMMARY]
+Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.
+---
+[TITLE] Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist
+[LINK] https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/
+[PUBLISHED] Mon, 23 Nov 2026 21:25:42 +0000
+[SUMMARY]
+Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.
+---
+[TITLE] Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses
+[LINK] https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/
+[PUBLISHED] Mon, 23 Nov 2026 19:14:46 +0000
+[SUMMARY]
+By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem
+---
+[TITLE] Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO
+[LINK] https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/
+[PUBLISHED] Mon, 23 Nov 2026 18:12:22 +0000
+[SUMMARY]
+The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.
+---
+[TITLE] Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips
+[LINK] https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/
+[PUBLISHED] Mon, 23 Nov 2026 17:14:23 +0000
+[SUMMARY]
+Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.
+---
+[TITLE] Sierra doubles valuation to $30B within six months as demand for AI in CX takes off
+[LINK] https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/
+[PUBLISHED] Mon, 23 Nov 2026 14:43:03 +0000
+[SUMMARY]
+Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
