@@ -1,0 +1,73 @@
+[TITLE] [#sps]ABB Launches World’s First Intelligent Low-Voltage Motor ‘Intelleqt’ to Scale Industrial AI - 아이씨엔매거진
+[LINK] https://news.google.com/rss/articles/CBMivgFBVV95cUxNTkJuUGhxZ01pZWpXRnF1TFZYaHpGVEJLZEE3WWYxaUZHOHNiZlFuZkpQZW83eGRuRXIzMXdhRy11S2JIQ0J0UmlIWlZGalhjOUM3QmMtNmptZDNyTUNJZXBVQzRhRExwa3M4UkNpQXNuUnJ4cThEdUdCb3NBOF9lM1NINW9KMkxTZzJaMFJzWVRvNENodFltSjB0NGdmNHBqQUZkc3Vsc2RGMVlWdTY0c0V5UTRWTGYxYWR1WjBR?oc=5
+[PUBLISHED] Wed, 25 Nov 2026 04:20:09 GMT
+[BODY]
+Google News
+---
+[LINK] https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FNnloeDR5bF9aNXBsTFdqazJheElVd2Fnc3Z6MHpFdDhjXzlseVViQ0w2Y203clBGdFlxYzBtYnlOMGRmWmR2RFdubmlFYlVCT0Z5VHI1dklJQlFJYmFr?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[LINK] https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lWm1tZl9lQjZtNXJlQVJ6ZjhKaUF3WmFlcXpLS1FOVmY1TUZiMVZ5WXZtNDNqVl9kSWxFRnlEVzlHbGczMzhVMVBGbUsteDZHYUpEZVE1eGd2SU55SzBRMlowZWZfRGPSAWtBVV95cUxQVGVMTEVSdVRnbUNUbjY5bEIzT05feVFvUExCYVFkUWk5VDA2TjdHTTZEblRobzNfeFRWS0dVZ0ZpejhGbXQyeXIwaFJtbFZnQ2VCT2NndFozdkhpNlRzdWFsUEVfZWxFWm83UQ?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[TITLE] Aim Intelligence Adopts 'NeurIPS 2026' for AI Safety Assessment of 10 Countries... South Korea Attack Success Rate 52.8% - 벤처스퀘어
+[LINK] https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uaEJCalJfQ0U3N19BYzNSMW1TUU1jSnJNWU1Oa3Q1bjJPSGZIWU5fS1ptR2RYdTFKeUxNWWYyQkMtcXVMeTBRbVUzVlFCNDNveGZZ?oc=5
+[PUBLISHED] Thu, 19 Nov 2026 02:01:44 GMT
+[BODY]
+Google News
+---
+[평가 오류] https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[LINK] https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/ - API 호출 실패: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://aistudio.google.com/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash, description: Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.\nPlease retry in 14.084808166s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://aistudio.google.com/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'description': 'Generate content requests per minute limit exceeded on Free Tier. See https://aistudio.google.com/docs/rate-limits.', 'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '14s'}]}}
+---
+[평가 오류] https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/
+[STATUS] SKIP (Score: Scrape Error)
+---
