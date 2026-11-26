@@ -1,0 +1,52 @@
+[수집 파이프라인 실행] 2026-11-26 13:33:57
+---
+[TITLE] 두나무, AI 경영시스템 국제표준 획득…업계 최초 - 마켓인
+[LINK] https://news.google.com/rss/articles/CBMic0FVX3lxTFBuN243YkR2ME8zeXl5d3BoVUh4dUw2N0c5Qmt5VFpHRjdiOHhsb3RTSWxidTd3VmlhSms1MERwclJSRDVTUXE4TjR1TTAzeEpWTFpMTzE5Ti1aOFBFSXlaazI0TmxrSXVVMmh3S3JoWkZEVm8?oc=5
+[PUBLISHED] Thu, 26 Nov 2026 02:00:04 GMT
+[SUMMARY]
+두나무, AI 경영시스템 국제표준 획득…업계 최초&nbsp;&nbsp;마켓인
+---
+[TITLE] OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work
+[LINK] https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/
+[PUBLISHED] Wed, 25 Nov 2026 20:03:27 +0000
+[SUMMARY]
+OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.
+---
+[TITLE] Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’
+[LINK] https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/
+[PUBLISHED] Wed, 25 Nov 2026 19:44:24 +0000
+[SUMMARY]
+Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.
+---
+[TITLE] Want to buy your kid an AI toy this Christmas? Not in New York
+[LINK] https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/
+[PUBLISHED] Wed, 25 Nov 2026 18:11:46 +0000
+[SUMMARY]
+New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.
+---
+[TITLE] Character.AI’s plan to auction off users’ private chats challenged by state AGs
+[LINK] https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/
+[PUBLISHED] Wed, 25 Nov 2026 17:35:58 +0000
+[SUMMARY]
+The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.
+---
+[TITLE] AI data centers are becoming harder to build, and neoclouds are feeling it
+[LINK] https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/
+[PUBLISHED] Wed, 25 Nov 2026 15:41:43 +0000
+[SUMMARY]
+⁠Nvidia has made clear⁠ it won&#8217;t backstop an AI data center until it&#8217;s nearly ready to run, and that&#8217;s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck.  ⁠Anita Verma-Lallian⁠ has been selling exactly that. [&#8230;]
+---
+[TITLE] Amazon and Meta reportedly in talks to lift blockade on AI agent Muse
+[LINK] https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/
+[PUBLISHED] Wed, 25 Nov 2026 14:10:18 +0000
+[SUMMARY]
+Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.
+---
+[TITLE] The questions Jensen Huang and Nvidia will still have to answer about Megaspeed
+[LINK] https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/
+[PUBLISHED] Wed, 25 Nov 2026 13:00:00 +0000
+[SUMMARY]
+The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---
