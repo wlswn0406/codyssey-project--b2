@@ -1,0 +1,22 @@
+[수집 파이프라인 실행] 2026-11-27 13:38:09
+---
+[TITLE] [최태호의 우리말 바로 알기] ‘금시작비(今是昨非)’와 AI(Artificial Intelligence) - 프레시안
+[LINK] https://news.google.com/rss/articles/CBMia0FVX3lxTE9sbDdSTU9STTVoaG9qMVg4Vkx1RDdXVTVRTGxLZXlHcEJ4MzVfbDlWeHgyN2xCV0NTeWlxOWNiSzVTbGNjbU5tSllaUHhTX29FN2U4VTVUelpIdm5IZHpqUnk4RzJyY2NUTDlz?oc=5
+[PUBLISHED] Fri, 27 Nov 2026 02:31:20 GMT
+[SUMMARY]
+[최태호의 우리말 바로 알기] ‘금시작비(今是昨非)’와 AI(Artificial Intelligence)&nbsp;&nbsp;프레시안
+---
+[TITLE] Nvidia hits pause on chip shipments to Southeast Asia
+[LINK] https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/
+[PUBLISHED] Thu, 26 Nov 2026 20:03:54 +0000
+[SUMMARY]
+Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.
+---
+[TITLE] Grand Theft Auto VI proves why efficiency isn’t a virtue
+[LINK] https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/
+[PUBLISHED] Thu, 26 Nov 2026 16:00:00 +0000
+[SUMMARY]
+On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.
+---
+[수집 오류] https://venturebeat.com/category/ai/feed/ - 429 Client Error: Too Many Requests for url: https://venturebeat.com/category/ai/feed/
+---

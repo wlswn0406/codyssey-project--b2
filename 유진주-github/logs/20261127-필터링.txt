@@ -1,0 +1,13 @@
+[LINK] https://news.google.com/rss/articles/CBMia0FVX3lxTE9sbDdSTU9STTVoaG9qMVg4Vkx1RDdXVTVRTGxLZXlHcEJ4MzVfbDlWeHgyN2xCV0NTeWlxOWNiSzVTbGNjbU5tSllaUHhTX29FN2U4VTVUelpIdm5IZHpqUnk4RzJyY2NUTDlz?oc=5
+[STATUS] SKIP (Score: 0)
+---
+[평가 오류] https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/
+[STATUS] SKIP (Score: Scrape Error)
+---
+[평가 오류] https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/ - 본문 스크래핑 실패
+---
+[LINK] https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/
+[STATUS] SKIP (Score: Scrape Error)
+---
